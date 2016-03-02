@@ -4,13 +4,14 @@ GIT
 TUTORIALES:
 -----------
 
-* http://git-scm.com/documentation
-* http://learn.github.com/
-* http://www.atlassian.com/git/
-* http://pcottle.github.io/learnGitBranching/
-* http://byte.kde.org/~zrusin/git/git-cheat-sheet.svg
-* https://github.com/tiimgreen/github-cheat-sheet
-* http://aprendegit.com
+* http://git-scm.com/documentation (official)
+* http://learn.github.com/ (basic Code School)
+* http://try.github.com/ (basic GitHub)
+* https://www.atlassian.com/git/tutorials/advanced-overview (advanced)
+* http://pcottle.github.io/learnGitBranching/ (advanced)
+* http://byte.kde.org/~zrusin/git/git-cheat-sheet.svg (cheat-sheet)
+* https://github.com/tiimgreen/github-cheat-sheet (cheat-sheet src)
+* http://aprendegit.com (blog)
 
 
 Tips
