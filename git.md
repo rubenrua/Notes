@@ -47,3 +47,8 @@ git clean -xdf
 git checkout -b branch_name
 ```
 
+ * Revert a merge (the `-m` option specifies the parent number starting from 1. )
+```sh
+git revert -m 1 <commit>...
+```
+
