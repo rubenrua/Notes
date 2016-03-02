@@ -32,6 +32,12 @@ git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s 
 git commit -a -m 'msg'
 ```
 
+ * Merge witout commit (no check in prod):
+```sh
+git merge --no-commit <branch>
+git merge --abort
+```
+
  * List branches ordered by most recent commit.
 ```sh
 git for-each-ref --sort=-committerdate refs/remotes
