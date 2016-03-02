@@ -73,3 +73,12 @@ ffmpeg -i input1.mp4 -i input2.webm \
 ```
 ffmpeg -i in.mp4 -itsoffset 00:00.5 -i in.mp4 -map 1:0 -map 0:1 -vcodec copy -acodec out.mp4
 ```
+
+##### CHANGE PIXEL ASPECT RADIO (PAR):
+
+```
+MP4Box -par 1=1:1 SCREEN_out.mp4
+
+ffmpeg -i CAMERA.mpg -vf scale=960:540,setsar=1:1 -f mp4 -threads 0 outsar.mp4
+```
+
