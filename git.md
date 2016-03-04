@@ -58,11 +58,11 @@ git checkout -b branch_name
 git revert -m 1 <commit>...
 ```
 
- * Find bugs with `bisec` (https://youtu.be/Py8Vf0n3DCY and https://youtu.be/zCRF3tWC4k4)
+ * Find bugs with `bisect` (https://youtu.be/Py8Vf0n3DCY and https://youtu.be/zCRF3tWC4k4)
 ```sh
 git bisect start      #Empiezo proceso
 git bisect bad        #Marco actual como malo
-bit checkout HEAD-30  #Cambio a 30 commits antes
+git checkout HEAD-30  #Cambio a 30 commits antes
 git bisect good       #Tras ver que no tiene el bug, lo marco como bueno
 git bisect skip
 git bisect run ./test #Para automatizar porceso creo un script con el test que me indica si es bueno o no
