@@ -27,38 +27,38 @@ git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s 
     lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
 ```
 
- * `Add` and `commit` together.
+* `Add` and `commit` together.
 ```sh
 git commit -a -m 'msg'
 ```
 
- * Merge witout commit (no check in prod):
+* Merge witout commit (no check in prod):
 ```sh
 git merge --no-commit <branch>
 git merge --abort
 ```
 
- * List branches ordered by most recent commit.
+* List branches ordered by most recent commit.
 ```sh
 git for-each-ref --sort=-committerdate refs/remotes
 ```
 
- * Reset working directory
+* Reset working directory
 ```sh
 git clean -xdf
 ```
 
- * Create a new branch
+* Create a new branch
 ```sh
 git checkout -b branch_name
 ```
 
- * Revert a merge (the `-m` option specifies the parent number starting from 1. )
+* Revert a merge (the `-m` option specifies the parent number starting from 1. )
 ```sh
 git revert -m 1 <commit>...
 ```
 
- * Find bugs with `bisect` (https://youtu.be/Py8Vf0n3DCY and https://youtu.be/zCRF3tWC4k4)
+* Find bugs with `bisect` (https://youtu.be/Py8Vf0n3DCY and https://youtu.be/zCRF3tWC4k4)
 ```sh
 git bisect start      #Empiezo proceso
 git bisect bad        #Marco actual como malo
@@ -67,6 +67,6 @@ git bisect good       #Tras ver que no tiene el bug, lo marco como bueno
 git bisect skip
 git bisect run ./test #Para automatizar porceso creo un script con el test que me indica si es bueno o no
 git bisect reset      #Recupero estado inicial
-git bisect log 
+git bisect log
 git bisect replay git_b_log_file
 ```
