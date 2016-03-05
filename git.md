@@ -140,21 +140,18 @@ git filter-branch --subdirectory-filter src/Pumukit/MoodleBundle/ -- --all
 
  * Step 1: From your project repository, check out a new branch and test the changes.
 
-```sh
-git checkout -b ppettit-f/audio-rework master
-
-git pull git://github.com/ppettit/Galicaster.git f/audio-rework
-```
-
+ ```sh
+ git checkout -b ppettit-f/audio-rework master
+ git pull git://github.com/ppettit/Galicaster.git f/audio-rework
+ ```
+ 
  * Step 2: Merge the changes and update on GitHub.
 
-```sh
-git checkout master
-
-git merge ppettit-f/audio-rework
-
-git push origin master
-```
+ ```sh
+ git checkout master
+ git merge ppettit-f/audio-rework
+ git push origin master
+ ```
 
 * Other Manual pull request merge
 ```sh
