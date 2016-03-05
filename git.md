@@ -130,3 +130,8 @@ git shortlog -s -n
 ```sh
 git daemon —base-path=/… —export-all
 ```
+
+* Create a new repository from a path preserving the history (http://gbayer.com/development/moving-files-from-one-git-repository-to-another-preserving-history/)
+```sh
+git filter-branch --subdirectory-filter src/Pumukit/MoodleBundle/ -- --all
+```
