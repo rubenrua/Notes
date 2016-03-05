@@ -70,3 +70,63 @@ git bisect reset      #Recupero estado inicial
 git bisect log
 git bisect replay git_b_log_file
 ```
+
+* Reset working directory
+```sh
+git clean -xdf
+```
+
+* Open a web interface
+```sh
+git instaweb
+git instaweb --stop
+```
+```sh
+git instaweb -d webrick
+git instaweb -d webrick --stop
+```
+
+* Stashing, parcial save witout commit (https://youtu.be/iHJ6ZfYwEKE)
+```sh
+git stash
+git stash list
+git stash pop
+git stash show stash@{0}
+git diff stash@{0}
+git apply stash@{0}
+git stash drop stash@{0}
+```
+
+*  Shallow clones
+```sh
+git clone --depth 1 your_repo_url
+```
+
+* Delete remote branch or remote tag
+```sh
+git push origin :branch-to-delete
+git push origin --delete branch-to-delete (git >= 1.7)
+```
+
+* Sharing tags
+```sh
+git push --tags
+```
+
+* Delete commits from the remote repo using other branch (https://youtu.be/mdZvYyIKURo)
+```sh
+git branch -D master
+git push origin :master  #Cambiar el HEAD antes via web en github
+git checkout -b master
+git push origin master
+```
+
+* List git contributos
+```sh
+git shortlog -s -n
+```
+
+* Git deamon
+```sh
+git daemon —base-path=/… —export-all
+```
