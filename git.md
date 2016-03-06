@@ -181,3 +181,8 @@ git checkout dev_next_generation
 git merge github/dev_next_generation
 git push origin dev_next_generation
 ```
+
+* Add all empty dirs to git touching a .gitignore file,  except the .git folder itself: 
+```sh
+find . \( -type d -empty \) -and \( -not -regex ./\.git.* \) -exec touch {}/.gitignore \;
+```
