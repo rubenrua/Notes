@@ -53,6 +53,23 @@ git clean -xdf
 git checkout -b branch_name
 ```
 
+* Checkout your last branch
+```sh
+git checkout -
+```
+
+* Grab a file from another branch without switching branches:
+```sh
+git checkout <BRANCH> -- path/to/file
+```
+
+* Before you git blame someone, make sure you check one of these (http://code.tutsplus.com/tutorials/git-tips-from-the-pros--net-29799):
+```sh
+git blame -w  # ignores white space
+git blame -M  # ignores moving text
+git blame -C  # ignores moving text into other files
+```
+
 * Revert a merge (the `-m` option specifies the parent number starting from 1. )
 ```sh
 git revert -m 1 <commit>...
