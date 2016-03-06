@@ -16,7 +16,7 @@ TUTORIALES:
 
 Tips
 ----
-* Pretty log
+* Pretty log (https://coderwall.com/p/euwpig/a-better-git-log)
 ```sh
 git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
 ```
