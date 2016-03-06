@@ -186,3 +186,13 @@ git push origin dev_next_generation
 ```sh
 find . \( -type d -empty \) -and \( -not -regex ./\.git.* \) -exec touch {}/.gitignore \;
 ```
+
+* Git remote server using SSH or file:
+```sh
+mkdir -p git/project1.git
+cd git/project1.git
+git init --bare
+git clone ssh://dev@git.example.com/home/dev/git/project1.git
+or
+git clone file:///home/dev/git/project1.git
+```
