@@ -82,3 +82,17 @@ MP4Box -par 1=1:1 SCREEN_out.mp4
 ffmpeg -i CAMERA.mpg -vf scale=960:540,setsar=1:1 -f mp4 -threads 0 outsar.mp4
 ```
 
+
+##### PARALLEL ENCODING:
+
+```
+ffmpeg -i source.avi \
++  -c:v libx264 -filter:v yadif,scale=-2:288 -preset slower -crf 28 -r 25 -pix_fmt yuv420p -profile:v baseline -tune film -movflags faststart \
++  -c:a aac -ar 22050 -ac 1 -ab 32k low.mp4 \
++  -c:v libx264 -filter:v yadif,scale=-2:360 -preset slower -crf 25 -r 25 -pix_fmt yuv420p -profile:v baseline -tune film -movflags faststart \
++  -c:a aac -ar 22050 -ac 1 -ab 48k medium.mp4 \
++  -c:v libx264 -filter:v yadif,scale=-2:576 -preset medium -crf 23 -r 25 -pix_fmt yuv420p -tune film -movflags faststart \
++  -c:a aac -ar 44100 -ab 96k high-quality.mp4 \
++  -c:v libx264 -filter:v yadif,scale=-2:720 -preset medium -crf 23 -r 25 -pix_fmt yuv420p -tune film -movflags faststart \
++  -c:a aac -ar 44100 -ab 96k hd-quality.mp4
+```
