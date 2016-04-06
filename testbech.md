@@ -8,7 +8,6 @@ LINKS
 -----
 
  * http://www.brendangregg.com/linuxperf.html
- * http://www.intel.com/software/pcm
  * http://netdata.firehol.org/
 
 
@@ -65,4 +64,4 @@ dstat -ta --top-bio
 
   * geekbech: http://www.primatelabs.ca/geekbench/
   * vmstat
-
+  * Intel® Performance Counter Monitor (PCM): https://software.intel.com/en-us/articles/intel-performance-counter-monitor
