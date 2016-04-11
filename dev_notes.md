@@ -21,3 +21,13 @@ Ser un buen boyscout, recoge la mierda de otros.
 
 
 ![linux observability tools](imgs/IMG_20151119_091259.jpg)
+
+
+Links
+-----
+
+ * http://coding.abel.nu/2012/06/programmer-time-translation-table
+ * http://choosealicense.com/
+ * http://www.techempower.com/benchmarks/
+ * http://aosabook.org/en/index.html
+ 
