@@ -12,7 +12,7 @@ TUTORIALES:
 * http://byte.kde.org/~zrusin/git/git-cheat-sheet.svg (cheat-sheet)
 * https://github.com/tiimgreen/github-cheat-sheet (cheat-sheet src)
 * http://aprendegit.com (blog)
-
+* http://chris.beams.io/posts/git-commit/
 
 Tips
 ----
