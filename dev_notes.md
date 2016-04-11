@@ -1,22 +1,23 @@
-> There are only two hard things in Computer Science: cache invalidation and naming things.
-> —Phil Karlton
+Divide y venceras.
 
-> Ask a programmer to review 10 lines of code, he'll find 10 issues. Ask him to do 500 lines and he'll say it looks good.
+The best approach when you apply “Clean Architecture” is to use common sense.
 
-> El código es como un chiste, si lo explicas es malo.
+There are only two hard things in Computer Science: cache invalidation and naming things.
+— Phil Karlton
 
-> Divide y venceras.
+Ask a programmer to review 10 lines of code, he'll find 10 issues. Ask him to do 500 lines and he'll say it looks good.
 
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand (Escribes una vez, lees src cuatro veces.)
-> — Martin Follen.
+El código es como un chiste, si lo explicas es malo.
 
-> Ser un buen boyscout, recoge la mierda de otros.
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand (Escribes una vez, lees src cuatro veces.)
+— Martin Follen.
 
-> The best approach when you apply “Clean Architecture” is to use common sense.
 
-> Complexity is like a bug light for smart people. We can't resist it, even though we know it's bad for us.
+Complexity is like a bug light for smart people. We can't resist it, even though we know it's bad for us.
 
-> La comunidad te devuelve con creces los que les das.
+La comunidad te devuelve con creces los que les das.
+
+Ser un buen boyscout, recoge la mierda de otros.
 
 
 ![linux observability tools](imgs/IMG_20151119_091259.jpg)
