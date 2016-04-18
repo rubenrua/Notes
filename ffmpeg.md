@@ -82,7 +82,6 @@ MP4Box -par 1=1:1 SCREEN_out.mp4
 ffmpeg -i CAMERA.mpg -vf scale=960:540,setsar=1:1 -f mp4 -threads 0 outsar.mp4
 ```
 
-
 ##### PARALLEL ENCODING:
 
 ```
@@ -96,3 +95,13 @@ ffmpeg -i source.avi \
   -c:v libx264 -filter:v yadif,scale=-2:720 -preset medium -crf 23 -r 25 -pix_fmt yuv420p -tune film -movflags faststart \
   -c:a aac -ar 44100 -ab 96k hd-quality.mp4
 ```
+
+##### TWO PASS ENCODING:
+
+```
+ffmpeg -y -i source.avi -vcodec libx264 -vprofile baseline -level:v 3 -r 25 -preset medium -b:v 1000000 -vf scale=iw*sar:ih -pass 1 -an -f mp4 /dev/null
+ffmpeg -y -i source.avi -vcodec libx264 -vprofile baseline -level:v 3 -r 25 -preset medium -b:v 1000000 -vf scale=iw*sar:ih -pass 2 -acodec libfdk_aac -b:a 100000 -ac 2 -ar 44100 -f mp4 -threads 0 out.mp4
+```
+
+https://trac.ffmpeg.org/wiki/Encode/H.264#Two-PassExample
+
