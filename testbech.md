@@ -43,8 +43,18 @@ hdparam -tT /dev/hda1
   * dstat
 ```    
 dstat -ta --top-bio
-```  
+```
 
+ * pv (http://linux.die.net/man/1/pv)
+```
+cat file | pv -s 12345 | nc -w 1 somewhere.com 3000
+
+cat linux-2.6.25.5.tar.bz2 | nc -q 0 ubuntu 2222
+nc -lp 2222 | pv > /dev/null
+
+tzap -r -c channels.conf "TVE-HD Pruebas(RTVE)"
+cat /dev/dvb/adapter0/dvr0 | pv -r > /dev/null
+```
 
  * NET
 
