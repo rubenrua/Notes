@@ -196,3 +196,22 @@ git clone ssh://dev@git.example.com/home/dev/git/project1.git
 or
 git clone file:///home/dev/git/project1.git
 ```
+
+
+
+gitconfig
+----
+```
+[core]
+    editor = /usr/bin/emacs -nw
+[user]
+    email = rubenrua@....
+    name = rubenrua
+[alias]
+    lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+    stat = status
+[push]
+    default = simple
+[pull]
+    rebase = true
+```
