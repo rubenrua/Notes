@@ -204,6 +204,8 @@ gitconfig
 ```
 [core]
     editor = /usr/bin/emacs -nw
+[color]
+  ui = auto    
 [user]
     email = rubenrua@....
     name = rubenrua
