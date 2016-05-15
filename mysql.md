@@ -1,8 +1,7 @@
-MYSQL
-=====
+# MYSQL
 
-Links
------
+## Links
+
 * http://www.linuxhispano.net/2013/04/30/comprobar-el-estado-de-la-cache-de-mysql/
 * http://www.linuxhispano.net/2013/03/15/modificar-o-activar-el-tamano-de-cache-de-mysql/
 * http://dev.mysql.com/doc/refman/5.0/en/slow-query-log.html
@@ -11,27 +10,26 @@ Links
 * http://web.archive.org/web/20110606032941/http://dev.mysql.com/tech-resources/articles/hierarchical-data.html
 * http://www.sitepoint.com/hierarchical-data-database-2/
 
-Tips
-----
+## Tips
 
-* Change root passwd
+### Change root passwd
 
-Step # 1: Stop the MySQL server process.
+* Step # 1: Stop the MySQL server process.
 ```
 # /etc/init.d/mysql stop
 ```
 
-Step # 2: Start the MySQL (mysqld) server/daemon process with the --skip-grant-tables option so that it will not prompt for password
+* Step # 2: Start the MySQL (mysqld) server/daemon process with the --skip-grant-tables option so that it will not prompt for password
 ```
 # mysqld_safe --skip-grant-tables &
 ```
 
-Step # 3: Connect to mysql server as the root user
+* Step # 3: Connect to mysql server as the root user
 ```
 # mysql -u root
 ```
 
-Step # 4: Setup new root password
+* Step # 4: Setup new root password
 ```
 mysql> use mysql;
 mysql> update user set password=PASSWORD("NEW-ROOT-PASSWORD") where User='root';
@@ -39,14 +37,14 @@ mysql> flush privileges;
 mysql> quit
 ```
 
-Step # 5: Exit and restart MySQL server
+* Step # 5: Exit and restart MySQL server
 ```
 # /etc/init.d/mysql stop
 # /etc/init.d/mysql start
 # mysql -u root -p
 ```
 
-* Easy visualisation of database schemas
+### Easy visualisation of database schemas
 
 Install sqlfairy, easy on Ubuntu:
 
@@ -64,32 +62,17 @@ $ sqlt-graph -f MySQL -o database.png -t png mhdb.sql
 https://nsaunders.wordpress.com/2009/01/11/easy-visualisation-of-database-schemas-using-sqlfairy/
 
 
-* Create a database
+### Create a database
 
-```sh
-$ mysql -u adminusername -p
-Enter password:
-Welcome to the MySQL monitor.  Commands end with ; or \g.
-Your MySQL connection id is 5340 to server version: 3.23.54
-
-Type 'help;' or '\h' for help. Type '\c' to clear the buffer.
-
-mysql> CREATE DATABASE databasename;
-Query OK, 1 row affected (0.00 sec)
-
-mysql> GRANT ALL PRIVILEGES ON databasename.* TO "wordpressusername"@"hostname"
-    -> IDENTIFIED BY "password";
-    Query OK, 0 rows affected (0.00 sec)
-
-mysql> FLUSH PRIVILEGES;
-Query OK, 0 rows affected (0.01 sec)
-
-mysql> EXIT
-Bye
+```sql
+CREATE DATABASE databasename CHARACTER SET utf8 COLLATE utf8_swedish_ci;;
+GRANT ALL PRIVILEGES ON databasename.* TO "wordpressusername"@"hostname" IDENTIFIED BY "password";
+FLUSH PRIVILEGES;
+EXIT
 ```
 
 
-* Query Cache SELECT Options
+### Query Cache SELECT Options
 
 ```sql
 SELECT SQL_CACHE id, name FROM customer;
