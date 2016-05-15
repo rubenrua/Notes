@@ -19,6 +19,9 @@ La comunidad te devuelve con creces los que les das.
 
 Ser un buen boyscout, recoge la mierda de otros.
 
+A goal is a dream with a deadline.
+- Napoleon Hill
+
 
 ![linux observability tools](imgs/IMG_20151119_091259.jpg)
 
