@@ -9,9 +9,43 @@ Links
 * http://dev.mysql.com/doc/refman/5.0/en/query-cache-in-select.html  SELECT /*!40001 SQL_NO_CACHE */ * FROM `file`;
 * http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins
 * http://israelolalla.blogspot.com.es/2012/11/mysql-en-cluster-activoactivo.html?m=1
+* http://web.archive.org/web/20110606032941/http://dev.mysql.com/tech-resources/articles/hierarchical-data.html
+* http://www.sitepoint.com/hierarchical-data-database-2/
 
 Tips
 ----
+
+* Change root passwd
+
+Step # 1: Stop the MySQL server process.
+```
+# /etc/init.d/mysql stop
+```
+
+Step # 2: Start the MySQL (mysqld) server/daemon process with the --skip-grant-tables option so that it will not prompt for password
+```
+# mysqld_safe --skip-grant-tables &
+```
+
+Step # 3: Connect to mysql server as the root user
+```
+# mysql -u root
+```
+
+Step # 4: Setup new root password
+```
+mysql> use mysql;
+mysql> update user set password=PASSWORD("NEW-ROOT-PASSWORD") where User='root';
+mysql> flush privileges;
+mysql> quit
+```
+
+Step # 5: Exit and restart MySQL server
+```
+# /etc/init.d/mysql stop
+# /etc/init.d/mysql start
+# mysql -u root -p
+```
 
 * Easy visualisation of database schemas
 
