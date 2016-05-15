@@ -1,11 +1,9 @@
-LINUX
-=====
+# LINUX
 
 
-Tips:
------
+## Tips:
 
-* Trace the Execution
+### Trace the Execution
 
 ```sh
 #Trace the Execution of an Executable
@@ -26,7 +24,7 @@ strace -c ls /home
 
 http://www.thegeekstuff.com/2011/11/strace-examples/
 
-* Exec as root without sudo
+### Exec as root without sudo
 ```sh
 pkexec emacs /etc/sudoers
 ```
@@ -34,20 +32,20 @@ pkexec emacs /etc/sudoers
 http://manpages.ubuntu.com/manpages/precise/en/man1/pkexec.1.html
 
 
-* Flock for Cron jobs
+###  Flock for Cron jobs
 ```sh
 flock -n /tmp/path.to.lockfile -c command with args
 ```
 
 http://www.elevatedcode.com/2013/05/07/flock-for-cron-jobs.html
 
-* VNC server
+###  VNC server
 ```sh
 sudo apt-get -y install x11vnc
 x11vnc -display :0
 ```
 
-* Ubuntu: Recompile package from source
+###  Ubuntu: Recompile package from source
 ```
 apt-get install devscripts
 
@@ -57,7 +55,7 @@ sudo apt-get build-dep XXXXXX
 dpkg-buildpackage -b -uc
 ```
 
-* SSH: Avoid disconnection timeout
+###  SSH: Avoid disconnection timeout
 
 ```
 cat ~/.ssh/config
@@ -66,7 +64,7 @@ Host *
     ServerAliveCountMax 3
 ```
 
-* Intercept stdout and stderr of a process
+###  Intercept stdout and stderr of a process
 
 Since I'm not allowed to edit Jauco's answer, I'll give the full answer that worked for me (Russell's page relies on unguaranteed behaviour that, if you close fd 1 for stdout, the next creat call will open fd 1.
 
@@ -97,7 +95,7 @@ Now you can tail /tmp/stdout and see the output that used to go to stdout.
 
 http://stackoverflow.com/questions/249703/how-can-a-process-intercept-stdout-and-stderr-of-another-process-on-linux
 
-* HTTP Server easy in python
+###  HTTP Server easy in python
 
 ```
 $ python -m SimpleHTTPServer
