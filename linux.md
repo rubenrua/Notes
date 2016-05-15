@@ -11,7 +11,7 @@ Tips:
 #Trace the Execution of an Executable
 strace ls
 #Trace a Specific System Calls in an Executable Using Option -e
-$ strace -e trace=open,read ls /home
+strace -e trace=open,read ls /home
 #Save the Trace Execution to a File Using Option -o
 strace -o output.txt ls
 #Execute Strace on a Running Linux Process Using Option -p
@@ -64,7 +64,7 @@ cat ~/.ssh/config
 Host *
     ServerAliveInterval 120
     ServerAliveCountMax 3
-``
+```
 
 * Intercept stdout and stderr of a process
 
