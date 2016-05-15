@@ -105,8 +105,7 @@ $ python3 -m http.server.
 ```
 
 
-LINKS
------
+## LINKS:
 
 * http://wiki.openvz.org/Package_managers
 * http://www.vicente-navarro.com/blog/2009/06/13/reenvio-dinamico-de-puertos-montar-un-servidor-socks-con-ssh/
