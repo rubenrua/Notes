@@ -6,7 +6,6 @@ Links
 * http://www.linuxhispano.net/2013/04/30/comprobar-el-estado-de-la-cache-de-mysql/
 * http://www.linuxhispano.net/2013/03/15/modificar-o-activar-el-tamano-de-cache-de-mysql/
 * http://dev.mysql.com/doc/refman/5.0/en/slow-query-log.html
-* http://dev.mysql.com/doc/refman/5.0/en/query-cache-in-select.html  SELECT /*!40001 SQL_NO_CACHE */ * FROM `file`;
 * http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins
 * http://israelolalla.blogspot.com.es/2012/11/mysql-en-cluster-activoactivo.html?m=1
 * http://web.archive.org/web/20110606032941/http://dev.mysql.com/tech-resources/articles/hierarchical-data.html
@@ -88,3 +87,17 @@ Query OK, 0 rows affected (0.01 sec)
 mysql> EXIT
 Bye
 ```
+
+
+* Query Cache SELECT Options
+
+```sql
+SELECT SQL_CACHE id, name FROM customer;
+SELECT SQL_NO_CACHE id, name FROM customer;
+```
+or (adding bc)
+```sql
+SELECT /*!40001 SQL_NO_CACHE */ * FROM `file`;
+```
+
+http://dev.mysql.com/doc/refman/5.0/en/query-cache-in-select.html 
