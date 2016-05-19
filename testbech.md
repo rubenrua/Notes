@@ -9,6 +9,7 @@ LINKS
 
  * http://www.brendangregg.com/linuxperf.html
  * http://netdata.firehol.org/
+ * https://fast.com/
 
 
 TOOLS
