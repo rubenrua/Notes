@@ -198,6 +198,13 @@ git clone file:///home/dev/git/project1.git
 ```
 
 
+* Add line break to git commit -m from command line (http://stackoverflow.com/questions/5064563/add-line-break-to-git-commit-m-from-command-line)
+```sh
+git commit -m 'Message
+goes
+here'
+```
+
 
 gitconfig
 ----
