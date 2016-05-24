@@ -205,6 +205,10 @@ goes
 here'
 ```
 
+* Show lines added, lines changed and lines removed on a commit
+```sh
+git show --numstat 38f1fed
+```
 
 gitconfig
 ----
