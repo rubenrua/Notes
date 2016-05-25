@@ -210,6 +210,11 @@ here'
 git show --numstat 38f1fed
 ```
 
+* Delete local Git branches after deleting them on origin
+```sh
+git pull --prune
+```
+
 gitconfig
 ----
 ```
