@@ -38,11 +38,6 @@ git merge --no-commit <branch>
 git merge --abort
 ```
 
-* List branches ordered by most recent commit.
-```sh
-git for-each-ref --sort=-committerdate refs/remotes
-```
-
 * Reset working directory
 ```sh
 git clean -xdf
@@ -53,6 +48,11 @@ git clean -xdf
 git checkout -b branch_name
 ```
 
+* List branches ordered by most recent commit.
+```sh
+git for-each-ref --sort=-committerdate refs/remotes
+```
+
 * Checkout your last branch
 ```sh
 git checkout -
@@ -61,6 +61,25 @@ git checkout -
 * Grab a file from another branch without switching branches:
 ```sh
 git checkout <BRANCH> -- path/to/file
+```
+
+* Delete remote branch or remote tag
+```sh
+git push origin :branch-to-delete
+git push origin --delete branch-to-delete (git >= 1.7)
+```
+
+* Delete local Git branches after deleting them on origin
+```sh
+git pull --prune
+```
+
+* Delete commits from the remote repo using other branch (https://youtu.be/mdZvYyIKURo)
+```sh
+git branch -D master
+git push origin :master  #Cambiar el HEAD antes via web en github
+git checkout -b master
+git push origin master
 ```
 
 * Before you git blame someone, make sure you check one of these (http://code.tutsplus.com/tutorials/git-tips-from-the-pros--net-29799):
@@ -119,23 +138,9 @@ git stash drop stash@{0}
 git clone --depth 1 your_repo_url
 ```
 
-* Delete remote branch or remote tag
-```sh
-git push origin :branch-to-delete
-git push origin --delete branch-to-delete (git >= 1.7)
-```
-
 * Sharing tags
 ```sh
 git push --tags
-```
-
-* Delete commits from the remote repo using other branch (https://youtu.be/mdZvYyIKURo)
-```sh
-git branch -D master
-git push origin :master  #Cambiar el HEAD antes via web en github
-git checkout -b master
-git push origin master
 ```
 
 * List git contributos
@@ -210,10 +215,6 @@ here'
 git show --numstat 38f1fed
 ```
 
-* Delete local Git branches after deleting them on origin
-```sh
-git pull --prune
-```
 
 gitconfig
 ----
