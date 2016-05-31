@@ -53,6 +53,11 @@ git checkout -b branch_name
 git for-each-ref --sort=-committerdate refs/remotes
 ```
 
+* Find the most recent common ancestor commit of two branches
+```sh
+git merge-base A B
+```
+
 * Checkout your last branch
 ```sh
 git checkout -
