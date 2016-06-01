@@ -65,7 +65,7 @@ https://nsaunders.wordpress.com/2009/01/11/easy-visualisation-of-database-schema
 ### Create a database
 
 ```sql
-CREATE DATABASE databasename CHARACTER SET utf8 COLLATE utf8_swedish_ci;;
+CREATE DATABASE databasename CHARACTER SET utf8 COLLATE utf8_swedish_ci;
 GRANT ALL PRIVILEGES ON databasename.* TO "wordpressusername"@"hostname" IDENTIFIED BY "password";
 FLUSH PRIVILEGES;
 EXIT
