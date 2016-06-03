@@ -46,7 +46,7 @@ hdparam -tT /dev/hda1
 dstat -ta --top-bio
 ```
 
- * pv (http://linux.die.net/man/1/pv)
+  * pv (http://linux.die.net/man/1/pv)
 ```
 cat file | pv -s 12345 | nc -w 1 somewhere.com 3000
 
@@ -68,11 +68,16 @@ cat /dev/dvb/adapter0/dvr0 | pv -r > /dev/null
   * lmbench:
 ```  
 ./lmbench/bin/i686-pc-linux-gnu/bw_mem 256m rd 268.44 3913.68
-```  
+```
 
 
  * CPU
 
   * geekbech: http://www.primatelabs.ca/geekbench/
   * vmstat
+  * time
+```
+/usr/bin/time -v 'ffprobe 8seg.mp4'
+```
+
   * Intel® Performance Counter Monitor (PCM): https://software.intel.com/en-us/articles/intel-performance-counter-monitor
