@@ -32,6 +32,11 @@ git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s 
 git commit -a -m 'msg'
 ```
 
+* Stage a file hunk
+```sh
+git add -p file.md
+```
+
 * Merge witout commit (no check in prod):
 ```sh
 git merge --no-commit <branch>
