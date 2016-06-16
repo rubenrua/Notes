@@ -84,3 +84,9 @@ SELECT /*!40001 SQL_NO_CACHE */ * FROM `file`;
 ```
 
 http://dev.mysql.com/doc/refman/5.0/en/query-cache-in-select.html 
+
+#### Show variables
+```sql
+SHOW VARIABLES;
+SHOW VARIABLES LIKE '%';
+```
