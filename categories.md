@@ -6,6 +6,11 @@ iTunesU
 
  * https://help.apple.com/itunesu/sitemanager/#/itu337EEAE0-035A-4660-B53D-46A13A7721E5
  * https://github.com/campusdomar/PuMuKIT2/blob/master/src/Pumukit/SchemaBundle/Resources/data/tags/itunesu_i18n.csv
+ * Old iTunes categories:
+   * 105 Humanities
+   * 105100 Humanities Communications (new 113 Communications & Media)
+   * 105101 Humanities Philosophy (new 114 Philosophy)
+   * 105102 Humanities Religion (new 115 Religion & Spirituality)
 
 
 Unesco
