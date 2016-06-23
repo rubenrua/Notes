@@ -26,3 +26,7 @@ COMMANDS:
 * delete-non-matching-lines (this is alias to keep-lines)
 * delete-duplicate-lines (Emacs 24.4) delete duplicated lines in text selection.
 * package-list-packages: Fetch and display the list of available packages.
+
+EMACS FILE:
+------------
+https://github.com/rubenrua/dotfiles/blob/master/.emacs.d/init.el
