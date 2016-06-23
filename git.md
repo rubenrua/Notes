@@ -229,19 +229,5 @@ git show --numstat 38f1fed
 
 gitconfig
 ----
-```
-[core]
-    editor = /usr/bin/emacs -nw
-[color]
-  ui = auto    
-[user]
-    email = rubenrua@....
-    name = rubenrua
-[alias]
-    lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
-    stat = status
-[push]
-    default = simple
-[pull]
-    rebase = true
-```
+https://github.com/rubenrua/dotfiles/blob/master/.gitconfig
+
