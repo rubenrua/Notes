@@ -5,6 +5,15 @@ LINKS:
 ------
 * https://www.gnu.org/software/emacs/
 * https://melpa.org/#/
+* http://www.blackhats.es/wordpress/?p=23
+* http://web-mode.org/
+* http://emacsredux.com/
+* https://github.com/capitaomorte/yasnippet
+* http://wikemacs.org/index.php/Main_Page
+* http://www.masteringemacs.org
+* http://emacsrocks.com
+* http://www.saltycrane.com/blog/2008/11/emacs-notes/
+* http://overtone.github.io/emacs-live/doc-shortcuts.html
 
 PACKAGES:
 ----------
@@ -16,6 +25,8 @@ COMMANDS:
 -----------
 * C-h k describe-key - Describe which function a specific shortcut will evoke
 * C-h f describe-function - Show docstring for a given function
+* M-x execute-extended-command - Run a command by name.
+* C-g keyboard-quit - Cancel a command or dialog.
 * M-/ dabbrev-expand - Expand previous word "dynamically".
 * M-% query-replace - Interactive replace.
 * find-name-dired: Search DIR recursively for files matching the globbing pattern
