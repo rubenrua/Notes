@@ -19,8 +19,9 @@ PACKAGES:
 ----------
 * auto-comple: http://auto-complete.org/
 * dumb-jump: https://github.com/jacktasia/dumb-jump/blob/master/README.md
-* magic: https://github.com/magit/magit
 * ido: (part of Emacs starting with release 22)
+* helm: https://github.com/emacs-helm/helm
+* magic: https://github.com/magit/magit
 
 COMMANDS:
 -----------
