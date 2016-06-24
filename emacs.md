@@ -5,12 +5,12 @@ LINKS:
 ------
 * https://www.gnu.org/software/emacs/
 * https://melpa.org/#/
+* http://www.masteringemacs.org
 * http://www.blackhats.es/wordpress/?p=23
 * http://web-mode.org/
 * http://emacsredux.com/
 * https://github.com/capitaomorte/yasnippet
 * http://wikemacs.org/index.php/Main_Page
-* http://www.masteringemacs.org
 * http://emacsrocks.com
 * http://www.saltycrane.com/blog/2008/11/emacs-notes/
 * http://overtone.github.io/emacs-live/doc-shortcuts.html
@@ -20,6 +20,7 @@ PACKAGES:
 * auto-comple: http://auto-complete.org/
 * dumb-jump: https://github.com/jacktasia/dumb-jump/blob/master/README.md
 * magic: https://github.com/magit/magit
+* ido: (part of Emacs starting with release 22)
 
 COMMANDS:
 -----------
