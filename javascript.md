@@ -1,12 +1,12 @@
-AJAX
-====
-
-TUTORIALES:
------------
-
- * 
+JAVASCRIPT
+==========
 
 
+JQUERY LINKS
+------------
+
+* http://youmightnotneedjquery.com
+* http://net.tutsplus.com/tutorials/javascript-ajax/from-jquery-to-javascript-a-reference/
 
 
 Tips:
