@@ -85,6 +85,13 @@ git push origin :branch-to-delete
 git push origin --delete branch-to-delete (git >= 1.7)
 ```
 
+* Options to set remote-tracking branches
+```sh
+git branch -u o/master foo #or
+git checkout -b totallyNotMaster o/master #or
+git push --set-upstream origin totallyNotMasterInOrigin #or edit .git/config
+```
+
 * Delete local Git branches after deleting them on origin
 ```sh
 git pull --prune
