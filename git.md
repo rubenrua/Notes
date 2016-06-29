@@ -28,6 +28,11 @@ git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s 
     lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
 ```
 
+* Describe a commit. The output of the command looks like: `<tag>_<numCommits>_g<hash>` Where tag is the closest ancestor tag in history, numCommits is how many commits away that tag is, and <hash> is the hash of the commit being described.
+```sh
+git describe 2.2.x #2.2.0-75-g16deae8
+```
+
 * `Add` and `commit` together.
 ```sh
 git commit -a -m 'msg'
