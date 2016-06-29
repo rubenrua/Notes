@@ -1,9 +1,9 @@
-HTTP2
-=====
+# WEB
 
+## HTTP2
 
-LINKS
------
+#### LINKS
+
 
 * https://github.com/bagder/http2-explained
 * https://ma.ttias.be/architecting-websites-http2-era/
@@ -12,8 +12,22 @@ LINKS
 
 
 
-Tips
-----
-
+#### Tips
 
 * Chrome net-internals tool: chrome://net-internals/#http2
+
+
+## SSL
+
+#### Utils
+
+ * https://www.ssllabs.com/ssltest/analyze.html
+ * Chrome DevTools
+
+## WEB
+
+#### Utils
+
+ * https://validator.w3.org/
+ * https://gtmetrix.com/
+ * Chrome DevTools
