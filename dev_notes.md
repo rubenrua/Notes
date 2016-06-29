@@ -12,7 +12,6 @@ El código es como un chiste, si lo explicas es malo.
 Any fool can write code that a computer can understand. Good programmers write code that humans can understand (Escribes una vez, lees src cuatro veces.)
 — Martin Follen.
 
-
 Complexity is like a bug light for smart people. We can't resist it, even though we know it's bad for us.
 
 La comunidad te devuelve con creces los que les das.
@@ -21,6 +20,9 @@ Ser un buen boyscout, recoge la mierda de otros.
 
 A goal is a dream with a deadline.
 — Napoleon Hill
+
+Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems
+— Jamie Zawinski, on comp.lang.emacs [*]
 
 
 ![linux observability tools](imgs/IMG_20151119_091259.jpg)
@@ -34,3 +36,12 @@ Links
  * http://www.techempower.com/benchmarks/
  * http://aosabook.org/en/index.html
  * http://cwe.mitre.org/top25/
+ * http://hyperpolyglot.org/
+
+ 
+Other
+-----
+
+ * http://asoftmurmur.com/
+ * https://bitf.ly/
+ * http://asciiflow.com/
