@@ -189,7 +189,7 @@ git filter-branch --subdirectory-filter src/Pumukit/MoodleBundle/ -- --all
  git checkout -b ppettit-f/audio-rework master
  git pull git://github.com/ppettit/Galicaster.git f/audio-rework
  ```
- 
+
  * Step 2: Merge the changes and update on GitHub.
 
  ```sh
@@ -210,7 +210,7 @@ git merge github/dev_next_generation
 git push origin dev_next_generation
 ```
 
-* Add all empty dirs to git touching a .gitignore file,  except the .git folder itself: 
+* Add all empty dirs to git touching a .gitignore file,  except the .git folder itself:
 ```sh
 find . \( -type d -empty \) -and \( -not -regex ./\.git.* \) -exec touch {}/.gitignore \;
 ```
@@ -246,4 +246,3 @@ git gc
 gitconfig
 ----
 https://github.com/rubenrua/dotfiles/blob/master/.gitconfig
-
