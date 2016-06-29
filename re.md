@@ -1,7 +1,7 @@
 REGULAR EXPRESSIONS
 ===================
 
-“Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems” — Jamie Zawinski, on comp.lang.emacs [*]
+> “Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems” — Jamie Zawinski, on comp.lang.emacs [*]
 
 TOOLS
 -----
