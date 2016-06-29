@@ -226,6 +226,10 @@ here'
 git show --numstat 38f1fed
 ```
 
+* Cleanup unnecessary files and optimize the local repository
+```sh
+git gc
+```
 
 gitconfig
 ----
