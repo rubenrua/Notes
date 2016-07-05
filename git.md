@@ -7,11 +7,11 @@ TUTORIALES:
 * http://git-scm.com/documentation (official)
 * http://learn.github.com/ (basic Code School)
 * http://try.github.com/ (basic GitHub)
-* https://www.atlassian.com/git/tutorials/advanced-overview (advanced)
-* http://pcottle.github.io/learnGitBranching/ (advanced)
+* https://www.atlassian.com/git/tutorials/advanced-overview (+1)
+* http://pcottle.github.io/learnGitBranching/ (+1)
 * http://byte.kde.org/~zrusin/git/git-cheat-sheet.svg (cheat-sheet)
 * https://github.com/tiimgreen/github-cheat-sheet (cheat-sheet src)
-* http://aprendegit.com (blog)
+* http://aprendegit.com [ES] (blog)
 * http://chris.beams.io/posts/git-commit/
 * https://github.com/git-tips/tips
 
@@ -26,6 +26,11 @@ git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s 
 ```ini
 [alias]
     lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+```
+
+* Describe a commit. The output of the command looks like: `<tag>_<numCommits>_g<hash>` Where tag is the closest ancestor tag in history, numCommits is how many commits away that tag is, and <hash> is the hash of the commit being described.
+```sh
+git describe 2.2.x #2.2.0-75-g16deae8
 ```
 
 * `Add` and `commit` together.
@@ -78,6 +83,13 @@ git checkout <BRANCH> -- path/to/file
 ```sh
 git push origin :branch-to-delete
 git push origin --delete branch-to-delete (git >= 1.7)
+```
+
+* Options to set remote-tracking branches
+```sh
+git branch -u o/master foo #or
+git checkout -b totallyNotMaster o/master #or
+git push --set-upstream origin totallyNotMasterInOrigin #or edit .git/config
 ```
 
 * Delete local Git branches after deleting them on origin
@@ -177,7 +189,7 @@ git filter-branch --subdirectory-filter src/Pumukit/MoodleBundle/ -- --all
  git checkout -b ppettit-f/audio-rework master
  git pull git://github.com/ppettit/Galicaster.git f/audio-rework
  ```
- 
+
  * Step 2: Merge the changes and update on GitHub.
 
  ```sh
@@ -198,7 +210,7 @@ git merge github/dev_next_generation
 git push origin dev_next_generation
 ```
 
-* Add all empty dirs to git touching a .gitignore file,  except the .git folder itself: 
+* Add all empty dirs to git touching a .gitignore file,  except the .git folder itself:
 ```sh
 find . \( -type d -empty \) -and \( -not -regex ./\.git.* \) -exec touch {}/.gitignore \;
 ```
@@ -226,8 +238,11 @@ here'
 git show --numstat 38f1fed
 ```
 
+* Cleanup unnecessary files and optimize the local repository
+```sh
+git gc
+```
 
 gitconfig
 ----
 https://github.com/rubenrua/dotfiles/blob/master/.gitconfig
-
