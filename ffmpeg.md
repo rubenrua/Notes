@@ -5,7 +5,7 @@ FFMPEG
 LINKS
 -----
 
- * https://ffmpeg.org/ffmpeg.html 
+ * https://ffmpeg.org/ffmpeg.html
  * https://libav.org/documentation/
  * http://sonnati.wordpress.com/2012/10/19/ffmpeg-the-swiss-army-knife-of-internet-streaming-part-vi/
  * https://opencast.jira.com/wiki/display/MHDOC/ETH+Zurich's+FFmpeg+encoding+profiles
@@ -13,7 +13,7 @@ LINKS
  * http://dranger.com/ffmpeg/tutorial01.html
  * http://developer.download.nvidia.com/compute/redist/ffmpeg/1511-patch/FFMPEG-with-NVIDIA-Acceleration-on-Ubuntu_UG_v01.pdf
  * http://joinbox.github.io/dash-video/
- 
+
 
 NOTES
 -----
@@ -58,6 +58,7 @@ ffmpeg -vf scale=960:540,setsar=1:1 -f mp4 -threads 0  -i #{in}   #{out}
 
 ```
 ffmpeg -i before.mp4 -i after.mp4 -filter_complex "[0:v:0]pad=iw*2:ih[bg]; [bg][1:v:0]overlay=w" output.mp4
+ffmpeg -i before.mp4 -i after.mp4 -filter_complex "[0:v]scale=640:-1[ab], [ab]fps=fps=30[a], [a]pad=1280:720:0:120+((480-in_h)/2) [bg], [1:v]scale=640:-1[bb], [bb]fps=fps=30[b], [bg][b]overlay=w:120+((480-h)/2)" output.mp4
 ```
 
 ##### CONCAT:
@@ -104,4 +105,3 @@ ffmpeg -y -i source.avi -vcodec libx264 -vprofile baseline -level:v 3 -r 25 -pre
 ```
 
 https://trac.ffmpeg.org/wiki/Encode/H.264#Two-PassExample
-
