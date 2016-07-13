@@ -37,9 +37,10 @@ http://xitrus.es/blog/80/Cálculos_en_el_CSS_con_calc()_de_CSS3
 http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement/
 
 
-Links:
+Links
+------
 
 * Reset CSS: http://yuilibrary.com/yui/docs/cssreset/
-* Libros Web: https://librosweb.es/libro/css/ and https://librosweb.es/referencia/css/
+* Libros Web: https://librosweb.es/libro/css/ and https://librosweb.es/referencia/css/ [ES]
 * 12 Fun CSS Text Shadows You Can Copy and Paste: https://designshack.net/articles/css/12-fun-css-text-shadows-you-can-copy-and-paste
 * Item blur effect with css3 & jquery: http://tympanus.net/Tutorials/ItemBlur/
