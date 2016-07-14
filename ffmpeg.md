@@ -7,6 +7,7 @@ LINKS
 
  * https://ffmpeg.org/ffmpeg.html
  * https://libav.org/documentation/
+ * https://trac.ffmpeg.org/wiki/FFprobeTips
  * http://sonnati.wordpress.com/2012/10/19/ffmpeg-the-swiss-army-knife-of-internet-streaming-part-vi/
  * https://opencast.jira.com/wiki/display/MHDOC/ETH+Zurich's+FFmpeg+encoding+profiles
  * https://trac.ffmpeg.org/wiki/Concatenate *1
