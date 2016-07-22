@@ -8,7 +8,7 @@ Sites
 * https://mooc.campusdomar.es/
 * https://iedra.uned.es/ (https://unedabierta.uned.es/)
 * https://www.urjcx.urjc.es/
-* 
+*
 
 LINKS
 -------
@@ -19,6 +19,7 @@ LINKS
 * Install: https://openedx.atlassian.net/wiki/display/OpenOPS/Native+Open+edX+Ubuntu+12.04+64+bit+Installation
 * Managing OpenEdX Tips and Tricks: https://openedx.atlassian.net/wiki/display/OpenOPS/Managing+OpenEdX+Tips+and+Tricks
 * Migrations: https://openedx.atlassian.net/wiki/display/OPEN/Updating+Open+edX
+* Load Test: https://github.com/edx/edx-load-tests
 
 TIPS
 ----
