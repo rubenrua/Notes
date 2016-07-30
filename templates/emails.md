@@ -3,22 +3,22 @@
 
 ## ESPAÑOL
 
-### Saludos y despedidas:
+##### Saludos y despedidas:
 
 * Buenas XXXXX et al.,
 * Un Saludo
 
-### Meetings:
+##### Meetings:
 
 * Nos gustaría realizar una videoconferencia en cuanto sea posible para resolver ...
 
-### Feedback:
+##### Feedback:
 
 * No dudes en avisarnos con lo que consideres oportuno.
 * Por favor no dudes en llamarme a ...
 * Espero tu pronta respuesta
 
-### Otros:
+##### Otros:
 
 * Adjunto le remito solicitud/escrito
 
