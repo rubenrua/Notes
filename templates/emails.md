@@ -25,7 +25,8 @@
 ## INGLES
 
 
-* Looking forward to your feedback and comments,
+* Looking forward to your feedback and comments
+* If you have any other issues/questions, just let us know.
 * Best regards
 
 
