@@ -16,7 +16,8 @@
 
 * No dudes en avisarnos con lo que consideres oportuno.
 * Por favor no dudes en llamarme a ...
-* Espero tu pronta respuesta
+* Espero tu pronta respuesta.
+* Quedo a la espera de vuestros comentarios/sugerencias.
 
 ##### Otros:
 
