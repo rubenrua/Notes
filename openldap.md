@@ -7,6 +7,17 @@ LINKS
  * http://code.martini.nu/shelldap - CLI tool for LDAP (recommended)
  * http://linux.die.net/man/1/ldapsearch
  * http://www.rjsystems.nl/en/2100-d6-openldap-provider.php
+ * http://www.zytrax.com/books/ldap/
+ * http://wiki.rediris.es/gtschema/
+
+SCHEMAS
+-------
+
+ * inetOrgPerson: https://tools.ietf.org/html/rfc2798
+ * eduPerson: http://software.internet2.edu/eduperson/internet2-mace-dir-eduperson-201602.html
+ * schacPersonalCharacteristics:
+ * https://www.terena.org/activities/tf-emc2/docs/schac/schac-20061212-1.3.0.schema.txt
+ * irisPerson: http://www.rediris.es/ldap/schema/iris.schema
 
 TUTORIAL
 --------
