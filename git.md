@@ -100,7 +100,7 @@ git pull --prune
 * Delete commits from the remote repo using other branch (https://youtu.be/mdZvYyIKURo)
 ```sh
 git branch -D master
-git push origin :master  #Cambiar el HEAD antes via web en github
+git push origin :master  #Change github HEAD via web
 git checkout -b master
 git push origin master
 ```
@@ -208,6 +208,12 @@ git pull http://gitlab.teltek.es/galicaster/galicaster.git dev_next_generation
 git checkout dev_next_generation
 git merge github/dev_next_generation
 git push origin dev_next_generation
+```
+
+* Force push considered harmful; understanding git's `--force-with-lease` (https://developer.atlassian.com/blog/2015/04/force-with-lease/)
+
+```sh
+git commit --force-with-lease
 ```
 
 * Add all empty dirs to git touching a .gitignore file,  except the .git folder itself:
