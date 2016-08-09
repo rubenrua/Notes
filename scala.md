@@ -16,3 +16,4 @@ BLOGS
 
 * https://scalerablog.wordpress.com/
 * http://www.47deg.com/blog
+* http://www.scala-lang.org/blog/
