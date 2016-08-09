@@ -32,17 +32,21 @@ Links
 -----
 
  * http://coding.abel.nu/2012/06/programmer-time-translation-table
- * http://choosealicense.com/
-  * http://aosabook.org/en/index.html
+ * http://aosabook.org/en/index.html
  * http://cwe.mitre.org/top25/
  * http://hyperpolyglot.org/
+
+Licenses
+----------
+ * http://choosealicense.com/
+ * https://spdx.org/licenses/
 
 Benchmarks
 ----------
 
 * http://www.techempower.com/benchmarks/
 * http://benchmarksgame.alioth.debian.org/
- 
+
 Other
 -----
 
