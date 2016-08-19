@@ -24,6 +24,8 @@ A goal is a dream with a deadline.
 Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems
 — Jamie Zawinski, on comp.lang.emacs [*]
 
+`python -m this`
+— Guido van Rossum
 
 ![linux observability tools](imgs/IMG_20151119_091259.jpg)
 
