@@ -13,3 +13,10 @@ Links:
 * https://autotools.io/index.html
 * http://smalltalk.gnu.org/blog/bonzinip/all-you-should-really-know-about-autoconf-and-automake
 * http://www.catb.org/esr/structure-packing/
+* http://lxr.free-electrons.com/source/Documentation/assoc_array.txt
+
+
+Books
+-----
+
+ * The C Programming Language (by Brian W. Kernighan and Dennis M. Ritchie)
