@@ -12,9 +12,19 @@ Links:
 * https://mattandre.ws/2016/05/make-for-hipsters/
 * https://autotools.io/index.html
 * http://smalltalk.gnu.org/blog/bonzinip/all-you-should-really-know-about-autoconf-and-automake
+
+Tips
+----
+
 * http://www.catb.org/esr/structure-packing/
+* http://www.catonmat.net/blog/simple-ld-preload-tutorial/ (http://occams-razor.webs.uvigo.es/download/occams-razor-01-03.pdf)
 * http://lxr.free-electrons.com/source/Documentation/assoc_array.txt
 
+Tools
+-----
+
+* http://valgrind.org/
+* http://mesonbuild.com/
 
 Books
 -----
