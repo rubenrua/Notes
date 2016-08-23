@@ -35,11 +35,18 @@ Links
 
  * http://coding.abel.nu/2012/06/programmer-time-translation-table
  * http://aosabook.org/en/index.html
- * http://cwe.mitre.org/top25/
+
+Langs
+-----
+
  * http://hyperpolyglot.org/
+ * http://githut.info
+ * http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+ * http://cwe.mitre.org/top25/
 
 Licenses
 ----------
+
  * http://choosealicense.com/
  * https://spdx.org/licenses/
 
