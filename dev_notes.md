@@ -34,6 +34,7 @@ Links
 -----
 
  * http://coding.abel.nu/2012/06/programmer-time-translation-table
+ * http://www.catb.org/esr/faqs/smart-questions.html
  * http://aosabook.org/en/index.html
 
 Langs
