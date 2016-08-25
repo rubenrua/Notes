@@ -4,7 +4,6 @@
 ## Tips:
 
 ### Trace the Execution
-
 ```sh
 #Trace the Execution of an Executable
 strace ls
@@ -19,10 +18,23 @@ strace -t -e open ls /home
 #Print Relative Time for System Calls Using Option -r
 strace -r ls
 #Generate Statistics Report of System Calls Using Option -c
-strace -c ls /home 
+strace -c ls /home
 ```
 
 http://www.thegeekstuff.com/2011/11/strace-examples/
+
+### Show info about a exec
+```sh
+#Shared library dependencies
+ldd /bin/ls
+
+#Disassemble
+objdump -d /bin/ls
+
+#Print the strings of printable characters in files
+strings /bin/ls
+```
+
 
 ### Exec as root without sudo
 ```sh
