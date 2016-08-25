@@ -35,6 +35,8 @@ objdump -d /bin/ls
 strings /bin/ls
 ```
 
+https://www.cs.swarthmore.edu/~newhall/unixhelp/compilecycle.html
+
 
 ### Exec as root without sudo
 ```sh
