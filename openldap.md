@@ -15,9 +15,8 @@ SCHEMAS
 
  * inetOrgPerson: https://tools.ietf.org/html/rfc2798
  * eduPerson: http://software.internet2.edu/eduperson/internet2-mace-dir-eduperson-201602.html
- * schacPersonalCharacteristics:
- * https://www.terena.org/activities/tf-emc2/docs/schac/schac-20061212-1.3.0.schema.txt
- * irisPerson: http://www.rediris.es/ldap/schema/iris.schema
+ * schacPersonalCharacteristics: https://www.terena.org/activities/tf-emc2/docs/schac/schac-20061212-1.3.0.schema.txt
+ * irisPerson: http://www.rediris.es/ldap/schema/iris.schema  [(+info)](http://www.rediris.es/ldap/esquemas/irisEduPerson.pdf)
 
 TUTORIAL
 --------
