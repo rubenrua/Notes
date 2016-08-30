@@ -44,3 +44,4 @@ Links
 * Libros Web: https://librosweb.es/libro/css/ and https://librosweb.es/referencia/css/ [ES]
 * 12 Fun CSS Text Shadows You Can Copy and Paste: https://designshack.net/articles/css/12-fun-css-text-shadows-you-can-copy-and-paste
 * Item blur effect with css3 & jquery: http://tympanus.net/Tutorials/ItemBlur/
+* Website Style Guide Resources: http://styleguides.io/
