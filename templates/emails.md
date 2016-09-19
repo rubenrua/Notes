@@ -18,6 +18,7 @@
 * Por favor no dudes en llamarme a ...
 * Espero tu pronta respuesta.
 * Quedo a la espera de vuestros comentarios/sugerencias.
+* Con esta carta quería transmitir mis sensaciones al respecto.
 
 ##### Otros:
 
@@ -30,6 +31,7 @@
 
 * Looking forward to your feedback and comments
 * If you have any other issues/questions, just let us know.
+* Allow me to chime in by saying that ...
 * Best regards
 
 
