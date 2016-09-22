@@ -73,8 +73,15 @@ ffmpeg -i input1.mp4 -i input2.webm \
 ##### DELAY:
 
 ```
-ffmpeg -i in.mp4 -itsoffset 00:00.5 -i in.mp4 -map 1:0 -map 0:1 -vcodec copy -acodec out.mp4
+ffmpeg -i in.mp4 -itsoffset 00:00.5 -i in.mp4 -map 1:0 -map 0:1 -vcodec copy -acodec copy out.mp4
 ```
+
+##### EXTRACT AUDIO:
+
+```
+ffmpeg -i in.mp4 -nv -acodec copy out.mp4_or_mp3
+```
+
 
 ##### CHANGE PIXEL ASPECT RADIO (PAR):
 
