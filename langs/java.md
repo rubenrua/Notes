@@ -12,6 +12,12 @@ $ kill -3 pidOfJavaProcess #or
 $ $JAVA_HOME/bin/jstack pidOfJavaProcess > stack.txt #Java 5
 ```
 
+* OSGi
+
+AllianceThe Dynamic Module System for Java
+
+https://www.osgi.org
+
 
 LINKS
 -----
