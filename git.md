@@ -252,3 +252,7 @@ git gc
 gitconfig
 ----
 https://github.com/rubenrua/dotfiles/blob/master/.gitconfig
+
+other
+-----
+* http://whatthecommit.com/index.txt 
