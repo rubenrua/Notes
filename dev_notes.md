@@ -57,10 +57,18 @@ Benchmarks
 * http://www.techempower.com/benchmarks/
 * http://benchmarksgame.alioth.debian.org/
 
+ASCII
+-----
+
+* http://asciiflow.com/
+* http://www.figlet.org
+* https://ivanceras.github.io/elm-examples/elm-bot-lines/
+* http://aa-project.sourceforge.net/aalib/
+* telnet towel.blinkenlights.nl
+
 Other
 -----
 
  * http://asoftmurmur.com/
  * https://bitf.ly/
- * http://asciiflow.com/
  * http://stackshare.io/
