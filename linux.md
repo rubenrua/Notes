@@ -118,10 +118,21 @@ $ python -m SimpleHTTPServer
 $ python3 -m http.server.
 ```
 
+### Share or access to local ports
+
+```
+ssh -L MY_PORT:HOST_IN_LOCAL_NET:LOCAL_PORT  root@proxy.com.gal
+# Example:
+ssh -L 2222:192.168.1.38:22 -L 8080:192.168.1.38:80 root@proxy.com.gal
+ssh -p 2222 localhost && wget localhost:8080
+```
+See: http://www.vicente-navarro.com/blog/2009/05/24/creando-tuneles-tcpip-port-forwarding-con-ssh-los-8-escenarios-posibles-usando-openssh/
+
+See also: https://ngrok.com
 
 ## LINKS:
 
 * https://github.com/0xAX/linux-insides
 * http://wiki.openvz.org/Package_managers
 * http://www.vicente-navarro.com/blog/2009/06/13/reenvio-dinamico-de-puertos-montar-un-servidor-socks-con-ssh/
-* http://www.vicente-navarro.com/blog/2009/05/24/creando-tuneles-tcpip-port-forwarding-con-ssh-los-8-escenarios-posibles-usando-openssh/
+* 
