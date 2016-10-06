@@ -12,6 +12,7 @@ Links:
 * https://mattandre.ws/2016/05/make-for-hipsters/
 * https://autotools.io/index.html
 * http://smalltalk.gnu.org/blog/bonzinip/all-you-should-really-know-about-autoconf-and-automake
+* http://gcc.godbolt.org/
 
 Tips
 ----
