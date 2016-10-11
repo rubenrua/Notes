@@ -4,7 +4,7 @@ PHP
 Links
 -----
 
-* http://php.net
+ * http://php.net
  * http://www.php-fig.org
  * https://wiki.php.net/rfc
 
