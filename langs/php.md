@@ -3,7 +3,10 @@ PHP
 
 Links
 -----
-
+ * http://php.net
+ * http://www.php-fig.org
+ * https://wiki.php.net/rfc
+ 
  * http://symfony.com/
  * http://fabien.potencier.org/php-is-much-better-than-you-think.html
  * http://www.phpthewrongway.com/
@@ -14,7 +17,7 @@ TIPS
 ----
 
  * http://www.garfieldtech.com/blog/readfile-memory
- *
+ * http://symfony.com/doc/current/create_framework/index.html
 
 
 SAD
