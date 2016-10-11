@@ -4,7 +4,7 @@ SONGS
 ANTES
  * Dover -
  * Bob Dilan - Hurricane
- * Suaves - Parado
+ * Suaves - Pardao
  * Extremoduro - Jesucristo Garcia
  * ...
 
