@@ -6,8 +6,7 @@ Links
 
  * http://php.net
  * http://www.php-fig.org
- * https://wiki.php.net/rfc
-
+ * https://wiki.php.net/rfc (https://php-rfc-watch.beberlei.de)
  * http://symfony.com/
  * http://fabien.potencier.org/php-is-much-better-than-you-think.html
  * http://www.phpthewrongway.com/
