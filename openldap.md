@@ -50,6 +50,12 @@ ldapsearch -x -b ‘ou=mad,ou=es,dc=setec,dc=com’ uid=jmsuarezo
 ldapsearch -x -b ‘ou=us,dc=setec,dc=com’ uid=jmsuarez
 ```
 
+ - Más completa
+
+```
+ldapsearch -x -D "uid=admin,ou=admin,dc=uni,dc=es" -W -H ldaps://ldapserver.uni.es:636 -b "ou=us,dc=setec,dc=com" -s sub uid=*
+```
+
 ### Modificación de atributos
 
 Si queremos realizar una modificación de un atributo de una entrada lo haremos creando un archivo LDIF y usando el comando `ldapmodify`. Por ejemplo, queremos cambiar el apellido (sn) a la entrada "uid=jmsuarez", crearemos un archivo LDIF (`ldif4.ldif`) con el siguientecontenido:
