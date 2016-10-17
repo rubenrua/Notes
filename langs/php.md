@@ -11,9 +11,22 @@ Links
  * http://fabien.potencier.org/php-is-much-better-than-you-think.html
  * http://www.phpthewrongway.com/
  * http://phpsadness.com/
+
+Conf
+----
+
  * https://ilia.ws/files/nginx_torontophpug.pdf
 
-TIPS
+
+Tools
+-----
+
+ * http://cs.sensiolabs.org/ (https://github.com/FriendsOfPHP/PHP-CS-Fixer)
+ * https://phpsa.dmtry.me/ (https://github.com/ovr/phpsa)
+ * https://blackfire.io
+ * https://insight.sensiolabs.com/
+
+Tips
 ----
 
  * http://www.garfieldtech.com/blog/readfile-memory
