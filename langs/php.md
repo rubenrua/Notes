@@ -38,3 +38,4 @@ SAD
 
  * All is an array.
  * var_dump(0 == 'count'?true:false);
+ * Semicolons after statements needed.
