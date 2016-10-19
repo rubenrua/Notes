@@ -46,12 +46,13 @@ pkexec emacs /etc/sudoers
 http://manpages.ubuntu.com/manpages/precise/en/man1/pkexec.1.html
 
 
-###  Flock for Cron jobs
+###  Flock for Cron jobs (and trap)
 ```sh
 flock -n /tmp/path.to.lockfile -c command with args
 ```
 
 http://www.elevatedcode.com/2013/05/07/flock-for-cron-jobs.html
+http://www.computerhope.com/unix/utrap.htm
 
 ###  VNC server
 ```sh
