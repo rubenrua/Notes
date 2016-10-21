@@ -19,6 +19,8 @@ strace -t -e open ls /home
 strace -r ls
 #Generate Statistics Report of System Calls Using Option -c
 strace -c ls /home
+#Resolve every fd into its name, and every socket fd into its address line
+strace -yy wget https://cdn0.bodas.net/usuarios/fotos/7/1/9/0/sfxb_376425.jpg
 ```
 
 http://www.thegeekstuff.com/2011/11/strace-examples/
