@@ -40,7 +40,6 @@ Links
 -----
 
  * http://coding.abel.nu/2012/06/programmer-time-translation-table
- * http://www.catb.org/esr/faqs/smart-questions.html
  * http://aosabook.org/en/index.html
 
 Langs
@@ -71,6 +70,13 @@ ASCII
 * https://ivanceras.github.io/elm-examples/elm-bot-lines/
 * http://aa-project.sourceforge.net/aalib/
 * telnet towel.blinkenlights.nl
+
+QA
+--
+
+* http://www.catb.org/esr/faqs/smart-questions.html
+* http://www.chiark.greenend.org.uk/~sgtatham/bugs.html
+* https://medium.com/@fesja/10-skills-you-must-have-to-be-a-great-qa-40ee58232599#.sqdeviiap
 
 Other
 -----
