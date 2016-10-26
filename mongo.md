@@ -3,20 +3,22 @@ MONGO
 
 Tips
 ----
-* Update replace in mongodb<sup>[1](#1)</sup>
+* Update replace in mongodb
 ```sql
 UPDATE foo SET mystr = REPLACE(mystr, ' ', '_');
 ```
 ```mongo
 db.foo.find({ mystr: /[ ]+/ }).forEach( function(u) { u.mystr = u.mystr.replace(/[ ]/g, "_"); db.foo.save(u); } );
 ```
+http://www.gizmola.com/blog/archives/106-SQL-UPDATE-for-strings-in-MongoDB.html
 
-* Query using JavaScript expressions [2]
+
+* Query using JavaScript expressions 
 
 ```mongo
-db.usercollection.find({$where: "isNumber(this.value) && this.name.length > 40"}).limit(2);
-
+db.usercollection.find({$where: "isNumber(this.value) && this.name.length > 40"});
 ```
+https://docs.mongodb.com/manual/reference/operator/query/where/
 
 
 Links
@@ -25,6 +27,3 @@ Links
 
  * https://docs.mongodb.org/compass/
  * https://docs.mongodb.com/ecosystem/tools/administration-interfaces/
-
-<a name="1">[1]</a>: http://www.gizmola.com/blog/archives/106-SQL-UPDATE-for-strings-in-MongoDB.html
-<a name="2">[2]</a>: https://docs.mongodb.com/manual/reference/operator/query/where/
