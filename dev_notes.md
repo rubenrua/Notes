@@ -36,6 +36,24 @@ Las empresas piensan: "!Ah, sois ágiles! Eso quiere decir que lo haceis rápido
 ![linux observability tools](imgs/IMG_20151119_091259.jpg)
 
 
+Latency numbers every programmer should know
+----------------------------------------------
+
+    L1 cache reference ......................... 0.5 ns                 x 10^6 = 0.5 s
+    Branch mispredict ............................ 5 ns                 x 10^6 = 5 s
+    L2 cache reference ........................... 7 ns                 x 10^6 = 7 s
+    Mutex lock/unlock ........................... 25 ns                 x 10^6 = 25 s
+    Main memory reference ...................... 100 ns                 x 10^6 = 100s
+    Compress 1K bytes with Zippy ............. 3,000 ns  =   3 µs       x 10^6 = 50 min
+    Send 2K bytes over 1 Gbps network ....... 20,000 ns  =  20 µs       x 10^6 = 5.5 hr
+    SSD random read ........................ 150,000 ns  = 150 µs       x 10^6 = 1.7 days
+    Read 1 MB sequentially from memory ..... 250,000 ns  = 250 µs       x 10^6 = 2.9 days
+    Round trip within same datacenter ...... 500,000 ns  = 0.5 ms       x 10^6 = 5.8 days
+    Read 1 MB sequentially from SSD* ..... 1,000,000 ns  =   1 ms       x 10^6 = 11.6 days
+    Disk seek ........................... 10,000,000 ns  =  10 ms       x 10^6 = 16.5 weeks
+    Read 1 MB sequentially from disk .... 20,000,000 ns  =  20 ms       x 10^6 = 7.8 months 
+    Send packet CA->Netherlands->CA .... 150,000,000 ns  = 150 ms       x 10^6 = 4.8 years
+
 Links
 -----
 
