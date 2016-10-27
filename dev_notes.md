@@ -54,10 +54,15 @@ Latency numbers every programmer should know
     Read 1 MB sequentially from disk .... 20,000,000 ns  =  20 ms       x 10^6 = 7.8 months 
     Send packet CA->Netherlands->CA .... 150,000,000 ns  = 150 ms       x 10^6 = 4.8 years
 
-Links
------
+Estimation
+----------
 
  * http://coding.abel.nu/2012/06/programmer-time-translation-table
+ * https://blogs.dropbox.com/tech/2015/10/what-do-you-mean-you-need-more-time/
+
+Books
+-----
+
  * http://aosabook.org/en/index.html
 
 Langs
