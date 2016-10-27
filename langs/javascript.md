@@ -34,3 +34,13 @@ XMLHttpRequest.prototype.open = function(method, url, async, user, pass) {
 ```
 
 http://api.jquery.com/category/ajax/global-ajax-event-handlers/
+
+
+
+* Speak (speech synthesis)
+```js
+const utterance = new SpeechSynthesisUtterance('apple');
+const voice = window.speechSynthesis.getVoices()[0];
+utterance.voice = voice;
+window.speechSynthesis.speak(utterance);
+```
