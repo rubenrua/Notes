@@ -51,34 +51,34 @@ Latency numbers every programmer should know
     Round trip within same datacenter ...... 500,000 ns  = 0.5 ms       x 10^6 = 5.8 days
     Read 1 MB sequentially from SSD* ..... 1,000,000 ns  =   1 ms       x 10^6 = 11.6 days
     Disk seek ........................... 10,000,000 ns  =  10 ms       x 10^6 = 16.5 weeks
-    Read 1 MB sequentially from disk .... 20,000,000 ns  =  20 ms       x 10^6 = 7.8 months 
+    Read 1 MB sequentially from disk .... 20,000,000 ns  =  20 ms       x 10^6 = 7.8 months
     Send packet CA->Netherlands->CA .... 150,000,000 ns  = 150 ms       x 10^6 = 4.8 years
 
 Estimation
 ----------
 
- * http://coding.abel.nu/2012/06/programmer-time-translation-table
- * https://blogs.dropbox.com/tech/2015/10/what-do-you-mean-you-need-more-time/
+* http://coding.abel.nu/2012/06/programmer-time-translation-table
+* https://blogs.dropbox.com/tech/2015/10/what-do-you-mean-you-need-more-time/
 
 Books
 -----
 
- * http://aosabook.org/en/index.html
+* http://aosabook.org/en/index.html
 
 Langs
 -----
 
- * http://hyperpolyglot.org/
- * http://githut.info
- * http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
- * http://cwe.mitre.org/top25/
- * http://ideone.com
+* http://hyperpolyglot.org/
+* http://githut.info
+* http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+* http://cwe.mitre.org/top25/
+* http://ideone.com
 
 Licenses
 ----------
 
- * http://choosealicense.com/
- * https://spdx.org/licenses/
+* http://choosealicense.com/
+* https://spdx.org/licenses/
 
 Benchmarks
 ----------
@@ -105,6 +105,5 @@ QA
 Other
 -----
 
- * http://asoftmurmur.com/
- * https://bitf.ly/
- * http://stackshare.io/
+* http://blog.plover.com/prog/burritos.html
+* http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/
