@@ -19,7 +19,6 @@ Phrases
  * "Quejarse menos"
  * "Mens sana in corpore sano"
  * "Carpe diem"
- * "Piensa en grande actua en pequeño"
  * "Si algo es suficientemente importante deberías hacerlo, incluso aunque probablemente no tengas éxito."
 
 
