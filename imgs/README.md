@@ -1,5 +1,5 @@
-All the Images
-==============
+My software development images collection
+==========================================
 
 Liked
 -------
@@ -9,6 +9,7 @@ Liked
 ![From_think_to_understand](From_think_to_understand.jpg)
 ![Ideal_real_team_plans](Ideal_real_team_plans.png)
 ![MVP](MVP.png)
+
 
 LOL (laughing out loud)
 -------------------------
