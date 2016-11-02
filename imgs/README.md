@@ -33,7 +33,6 @@ Gifs
 ![Lemings](gifs/Lemings.gif)
 ![Linus Fuck You](gifs/Linus Fuck You.gif)
 ![Well done](gifs/Well done.gif)
-![links](gifs/links.txt)
 ![ohhhhh](gifs/ohhhhh.gif)
 ![pena](gifs/pena.gif)
 ![shutupandtakemymoney](gifs/shutupandtakemymoney.gif)
