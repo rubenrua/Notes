@@ -22,3 +22,19 @@ LOL (laughing out loud)
 ![stages_of_debugging](LOL/stages_of_debugging.jpg)
 ![Monolithic vs Microservices](LOL/Monolithic_vs_microservices.jpg)
 ![Shrek Please](LOL/Please.jpg)
+
+
+Gifs
+------
+
+![Cookie Monster waiting](gifs/Cookie Monster waiting.gif)
+![Feels down](gifs/Feels down.gif)
+![Geek Codding](gifs/Geek Codding.gif)
+![Lemings](gifs/Lemings.gif)
+![Linus Fuck You](gifs/Linus Fuck You.gif)
+![Well done](gifs/Well done.gif)
+![links](gifs/links.txt)
+![ohhhhh](gifs/ohhhhh.gif)
+![pena](gifs/pena.gif)
+![shutupandtakemymoney](gifs/shutupandtakemymoney.gif)
+![welcome](gifs/welcome.gif)
