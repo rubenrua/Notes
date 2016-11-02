@@ -33,7 +33,7 @@ Some people, when confronted with a problem, think “I know, I’ll use regular
 Las empresas piensan: "!Ah, sois ágiles! Eso quiere decir que lo haceis rápido". Y no, no es eso. Ágil quiere decir que lo hacemos bien"
 — Pepe Doval
 
-![linux observability tools](imgs/IMG_20151119_091259.jpg)
+![software values table](imgs/SW_values_table.jpg)
 
 
 Latency numbers every programmer should know
