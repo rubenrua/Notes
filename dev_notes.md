@@ -3,7 +3,7 @@ Talk is cheap. Show me the code
 
 Divide y venceras.
 
-The best approach when you apply “Clean Architecture” is to use common sense.
+The best approach when you apply “Clean Architecture” is to use common sense. (KISS)
 
 There are only two hard things in Computer Science: cache invalidation and naming things.
 — Phil Karlton
