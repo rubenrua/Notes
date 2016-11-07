@@ -1,3 +1,6 @@
+Talk is cheap. Show me the code
+— Linus Torvalds
+
 Divide y venceras.
 
 The best approach when you apply “Clean Architecture” is to use common sense.
@@ -32,6 +35,10 @@ Some people, when confronted with a problem, think “I know, I’ll use regular
 
 Las empresas piensan: "!Ah, sois ágiles! Eso quiere decir que lo haceis rápido". Y no, no es eso. Ágil quiere decir que lo hacemos bien"
 — Pepe Doval
+
+I Put people before code, II Make progress before you get consensus, III Problems before solutions, IV Contracts before internals
+— Pieter Hintjens
+
 
 ![software values table](imgs/SW_values_table.jpg)
 
