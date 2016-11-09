@@ -72,6 +72,25 @@ sudo apt-get build-dep XXXXXX
 dpkg-buildpackage -b -uc
 ```
 
+### Debian: generate deb package.
+
+Simple: use Effing package management (fpm)
+```
+fpm -s dir -t deb \
+  --deb-no-default-config-files \
+  --config-files "etc/galicasterpro/conf.ini" \
+  -d python \
+  -d python-pip \
+  -d "package > 1.0" \
+  --after-install $OLD_PWD"/postinst" \
+  --before-install $OLD_PWD"/preinst" \
+  --url "http://rubenrua.es" \
+  --vendor "My Company" \
+  -m "rubenrua <ruben.rua@internet.es>" \
+  --description "My descriptn" \
+  -n name -v $VERSION_NUMBER .
+```
+
 ###  SSH: Avoid disconnection timeout
 
 ```
@@ -138,4 +157,4 @@ See also: https://ngrok.com
 * https://github.com/0xAX/linux-insides
 * http://wiki.openvz.org/Package_managers
 * http://www.vicente-navarro.com/blog/2009/06/13/reenvio-dinamico-de-puertos-montar-un-servidor-socks-con-ssh/
-* 
+*
