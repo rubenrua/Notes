@@ -1,6 +1,8 @@
 Conferences
 ===============
 
+> La gente no acude a una charla para aprender sino para encontrar inspiración y motivación.
+> - David Bonilla
 
 2016
 ----
