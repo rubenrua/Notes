@@ -35,3 +35,10 @@ http://docs.getchip.com/chip.html#headless-chip
 ```
 screen /dev/tty.usbmodem2413 115200
 ```
+
+
+## UDOO
+
+ * http://www.udoo.org
+ * http://www.udoo.org/tutorial/how-to-connect-udoos-camera-module/
+ * http://www.udoo.org/docs-neo/Hardware_Reference/VADC_Analog_Camera.html
