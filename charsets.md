@@ -24,5 +24,6 @@ Links
 ------
 
 * http://www.joelonsoftware.com/articles/Unicode.html
+* https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/
 * http://www.emojitracker.com
 * https://github.com/migonzalvar/talks/tree/master/2016-11-php-vigo
