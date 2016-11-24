@@ -62,7 +62,7 @@ Media Managers
 * mediadrop: http://mediadrop.net/
 * plumi: http://www.plumi.org/
 * veyepar: https://github.com/CarlFK/veyepar
-*
+* ...
 
 
 OTHER
@@ -70,4 +70,5 @@ OTHER
 
 * https://obsproject.com
 * https://github.com/voc/voctomix
-*
+* http://www.telestream.net/wirecast/overview.htm (private)
+* https://www.techsmith.com/camtasia.html (private)
