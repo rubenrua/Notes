@@ -23,6 +23,7 @@
 
  * https://www.ssllabs.com/ssltest/analyze.html
  * https://letsencrypt.org
+ * https://certbot.eff.org (to configure letsencrypt)
  * Chrome DevTools
 
 ## WEB
