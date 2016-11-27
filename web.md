@@ -22,8 +22,7 @@
 #### Utils
 
  * https://www.ssllabs.com/ssltest/analyze.html
- * https://letsencrypt.org
- * https://certbot.eff.org (to configure letsencrypt)
+ * https://letsencrypt.org and https://certbot.eff.org (to configure letsencrypt) ([tutorial](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04))
  * Chrome DevTools
 
 ## WEB
