@@ -16,6 +16,8 @@ Conf
 ----
 
  * https://ilia.ws/files/nginx_torontophpug.pdf
+ * http://jpauli.github.io/2015/03/05/opcache.html#configuring-opcache and http://librosweb.es/tutorial/la-nueva-extension-opcache-de-php-55/
+   * Mind your `opcache.max_accelerated_files` ini setting: Just saw a 100% perf increase, the default (2000) is not enough.
 
 
 Tools
@@ -36,6 +38,7 @@ Tips
 SAD
 ---
 
- * All is an array.
+ * All is an array (list, dict, set...)
  * var_dump(0 == 'count'?true:false);
  * Semicolons after statements needed.
+ * `<?php` tag
