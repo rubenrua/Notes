@@ -35,6 +35,7 @@ Startup Phrases
  - Being one team. Transparencia.
  - Productos van y vienen: cultura se queda. [P1]
  - If your business depends on you, you don’t own a business, you have a job. (https://t.co/QMlsq6uYuT)
+ - "When people are financially invested, they want a return. When people are emotionally invested, they want to contribute" Simon Sinek
 
 
 Presentations
