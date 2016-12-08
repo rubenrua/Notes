@@ -62,6 +62,9 @@ Media Managers
 * mediadrop: http://mediadrop.net/
 * plumi: http://www.plumi.org/
 * veyepar: https://github.com/CarlFK/veyepar
+* Panoptoo: https://www.panopto.com (private)
+* Kaltura: http://corp.kaltura.com (private)
+* MediaSite: http://www.sonicfoundry.com/mediasite/ (private)
 * ...
 
 
