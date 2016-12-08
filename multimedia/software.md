@@ -37,7 +37,7 @@ HLS                 |   Only iOS    |   Only iOS    |      x
 VTT captions        |      x        |               |      x
 DXFT captions       |               |      x        |
 Multi-lang captions |      x        |      x        |      x
-
+Soft-trimming       |      x        |               |
 
 
 
