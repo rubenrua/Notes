@@ -47,6 +47,15 @@ Soft-trimming       |      x        |               |
 * https://github.com/facebook/Surround360
 
 
+Automatic presenter tracking:
+------------------------------
+
+* Track4K: http://track4k.co.za/index.html
+* LectureSight: https://opencast.jira.com/wiki/display/LECTURESIGHT/LectureSight+Project+Home
+* GaliTracker: https://wiki.teltek.es/display/GaliTracker/GaliTracker+Home
+
+
+
 Media Managers
 --------------
 
