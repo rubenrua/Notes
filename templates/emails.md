@@ -24,7 +24,7 @@
 
 * Adjunto le remito solicitud/escrito
 * Estimado XXXX, tal y como acordamos te envío el resumen de la reunión mantenida en la mañana de hoy
-
+* Estoy seguro de que encontraremos un buen camino para esta (integración).
 
 ## INGLES
 
