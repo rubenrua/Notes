@@ -9,6 +9,7 @@ Liked
 ![From_think_to_understand](From_think_to_understand.jpg)
 ![Ideal_real_team_plans](Ideal_real_team_plans.png)
 ![MVP](MVP.png)
+![break_context](break_context.jpg)
 
 
 LOL (laughing out loud)
