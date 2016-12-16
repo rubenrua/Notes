@@ -81,11 +81,12 @@ Langs
 * http://cwe.mitre.org/top25/
 * http://ideone.com
 
-Licenses
-----------
+Licenses and versions
+---------------------
 
 * http://choosealicense.com/
 * https://spdx.org/licenses/
+* http://semver.org/
 
 Benchmarks
 ----------
