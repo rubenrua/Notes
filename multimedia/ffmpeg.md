@@ -79,7 +79,7 @@ ffmpeg -i in.mp4 -itsoffset 00:00.5 -i in.mp4 -map 1:0 -map 0:1 -vcodec copy -ac
 ##### EXTRACT AUDIO:
 
 ```
-ffmpeg -i in.mp4 -nv -acodec copy out.mp4_or_mp3
+ffmpeg -i in.mp4 -vn -acodec copy out.mp4_or_mp3
 ```
 
 
