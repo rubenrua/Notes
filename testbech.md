@@ -8,7 +8,8 @@ LINKS
 -----
 
  * http://www.brendangregg.com/linuxperf.html
- * http://netdata.firehol.org/
+ * http://netdata.firehol.org/ ([demo](https://london.my-netdata.io/default.html))
+ * https://goaccess.io/
  * https://fast.com/
 
 
