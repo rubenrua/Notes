@@ -150,8 +150,7 @@ ssh -p 2222 localhost && wget localhost:8080
 ```
 See: http://www.vicente-navarro.com/blog/2009/05/24/creando-tuneles-tcpip-port-forwarding-con-ssh-los-8-escenarios-posibles-usando-openssh/
 
-See also: https://ngrok.com
-
+See also: https://ngrok.com and [socks](https://www.linode.com/docs/networking/ssh/setting-up-an-ssh-tunnel-with-your-linode-for-safe-browsing)
 ## LINKS:
 
 * https://github.com/0xAX/linux-insides
