@@ -11,6 +11,7 @@ Links
  * http://fabien.potencier.org/php-is-much-better-than-you-think.html
  * http://www.phpthewrongway.com/
  * http://phpsadness.com/
+ * https://fr.slideshare.net/slideshow/embed_code/key/vNydONlVgNYNRx
 
 Conf
 ----

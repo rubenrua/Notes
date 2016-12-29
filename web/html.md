@@ -33,3 +33,4 @@ Links
 
  * Bootstrap: http://getbootstrap.com/
  * HTML5 Video Events and API: https://www.w3.org/2010/05/video/mediaevents.html
+ * http://www.wirewax.com/blog/post/building-a-media-source-html5-player/
