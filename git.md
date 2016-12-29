@@ -255,4 +255,5 @@ https://github.com/rubenrua/dotfiles/blob/master/.gitconfig
 
 other
 -----
-* http://whatthecommit.com/index.txt 
+* http://whatthecommit.com/index.txt
+* https://help.github.com/articles/remove-sensitive-data/
