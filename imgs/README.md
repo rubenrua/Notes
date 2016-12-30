@@ -23,6 +23,7 @@ LOL (laughing out loud)
 ![side_effect](LOL/side_effect.jpg)
 ![stages_of_debugging](LOL/stages_of_debugging.jpg)
 ![Monolithic vs Microservices](LOL/Monolithic_vs_microservices.jpg)
+![Coder Dilemma #10 – The Timesheet](LOL/timesheet.jpg)
 ![Shrek Please](LOL/Please.jpg)
 
 
