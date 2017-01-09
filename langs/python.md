@@ -31,3 +31,4 @@ Other
 
  * https://github.com/vinta/awesome-python
  * https://github.com/faif/python-patterns
+ * http://www.labri.fr/perso/nrougier/from-python-to-numpy/From
