@@ -39,6 +39,7 @@ Tips
 SAD
 ---
 
+ * Legacy PHP code
  * All is an array (list, dict, set...)
  * var_dump(0 == 'count'?true:false);
  * Semicolons after statements needed.
