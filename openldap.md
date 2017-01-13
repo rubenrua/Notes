@@ -50,6 +50,16 @@ ldapsearch -x -b ‘ou=mad,ou=es,dc=setec,dc=com’ uid=jmsuarezo
 ldapsearch -x -b ‘ou=us,dc=setec,dc=com’ uid=jmsuarez
 ```
 
+ - Basic LDAP Syntax
+
+   * EQUAL TO = `(givenName=John)`
+   * Logical AND = `(&(givenName=John)(l=Dallas))`
+   * logical NOT = `(!givenName=John)`
+   * logical NOT = `(|(givenName=John)(l=Dallas))`
+   * wildcard = `(givenName=Jo*)`
+   * advanced examples = `(&(msExchUserAccountControl=2)(!msExchMasterAccountSID=*))`
+   * advanced examples II = `(&(givenName=John)(|(l=Dallas)(l=Austin)))`
+
  - Más completa
 
 ```
