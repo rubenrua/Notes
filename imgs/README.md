@@ -14,16 +14,15 @@ Liked
 
 LOL (laughing out loud)
 -------------------------
-
-![Bosses](LOL/Bosses.gif)
+![side_effect](LOL/side_effect.jpg)
 ![Bugs_everywhere](LOL/Bugs_everywhere.jpg)
+![stages_of_debugging](LOL/stages_of_debugging.jpg)
+![Coder Dilemma #10 – The Timesheet](LOL/timesheet.jpg)
+![Bosses](LOL/Bosses.gif)
 ![Internet_how_to](LOL/Internet_how_to.jpg)
 ![Ñapa_en_prod](LOL/Ñapa_en_prod.jpg)
 ![Standards](LOL/Standards.png)
-![side_effect](LOL/side_effect.jpg)
-![stages_of_debugging](LOL/stages_of_debugging.jpg)
 ![Monolithic vs Microservices](LOL/Monolithic_vs_microservices.jpg)
-![Coder Dilemma #10 – The Timesheet](LOL/timesheet.jpg)
 ![Shrek Please](LOL/Please.jpg)
 
 
