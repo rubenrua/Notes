@@ -14,7 +14,8 @@ Courses:
 Links:
 ------
 
-* http://muratbuffalo.blogspot.com.es/2016/12/learning-machine-learning-beginners.html 
+* http://muratbuffalo.blogspot.com.es/2016/12/learning-machine-learning-beginners.html
 * https://github.com/ZuzooVn/machine-learning-for-software-engineers
+* https://github.com/humphd/have-fun-with-machine-learning
 * https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/
 * http://deeplearning.stanford.edu/tutorial
