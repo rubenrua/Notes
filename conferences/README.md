@@ -12,7 +12,7 @@ Conferences
 2017
 ----
 
-* 17-01-2017 VigoLabs FPGAs [info()]
+* 17-01-2017 VigoLabs FPGAs [info](20170117-VigoLabs-FPGAs.md)
 
 Tools
 -----
