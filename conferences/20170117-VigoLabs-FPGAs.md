@@ -6,7 +6,7 @@ Vigo Labs: Introdución ás FPGAs
 Ponentes:
 
 * Xabier Crespo (@crespum): https://crespum.eu
-* Diego Hurtado
+* Diego Hurtado (@mndza)
 
 Porque está de moda ahora?:
 
