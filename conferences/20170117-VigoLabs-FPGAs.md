@@ -17,7 +17,7 @@ Porque está de moda ahora?:
 
 Plataformas para maker:
 
-* Usada en Demo: iCEstick 20€ libre iCEstudio.
+* Usada en Demo: iCEstick 20€ con iCEstudio (libre tras http://www.clifford.at/icestorm/).
 * Otra: MicroZed 99€ con CPU y Linux...
 
 Demo:
