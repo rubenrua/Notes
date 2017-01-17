@@ -7,9 +7,14 @@ Conferences
 2016
 ----
 
- *
+*
+
+2017
+----
+
+* 17-01-2017 VigoLabs FPGAs [info()]
 
 Tools
 -----
- * https://github.com/hakimel/reveal.js
- * https://github.com/googlesamples/md2googleslides/
+* https://github.com/hakimel/reveal.js
+* https://github.com/googlesamples/md2googleslides/
