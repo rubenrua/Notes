@@ -31,3 +31,7 @@ Sites:
 
 * http://fpgawars.github.io (+++)
 * https://www.runabove.com/FPGAaaS.xml (by @pnieto)
+
+Author blog post:
+
+* https://medium.com/@crespum/qué-es-una-fpga-y-por-qué-jugarán-un-papel-clave-en-el-futuro-e76667dbce3e
