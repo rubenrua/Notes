@@ -28,7 +28,9 @@ Tools
  * https://phpsa.dmtry.me/ (https://github.com/ovr/phpsa)
  * https://blackfire.io
  * https://insight.sensiolabs.com/
-
+ * https://github.com/phpstan/phpstan
+ 
+ 
 Tips
 ----
 
