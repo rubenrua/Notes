@@ -12,6 +12,11 @@ JQUERY LINKS
 Tips:
 -----
 
+* In ES5 use strict mode Always!!! 
+```js
+"use strict";
+```
+
 * Ajax globar handle
 ```js
 var proxied = XMLHttpRequest.prototype.open;
