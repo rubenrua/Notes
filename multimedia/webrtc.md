@@ -13,7 +13,7 @@ LINKS
 SAMPLES
 -------
 
- * https://webrtc.github.io/samples/
+ * https://webrtc.github.io/samples/ ([src](https://github.com/webrtc/samples))
  * https://github.com/muaz-khan/WebRTC-Experiment
  * http://html5-demos.appspot.com/static/getusermedia/record-user-webm.html
  * https://developer.chrome.com/extensions/desktopCapture
