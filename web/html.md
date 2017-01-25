@@ -32,6 +32,7 @@ Links
 ------
 
  * Bootstrap: http://getbootstrap.com/
- * Element: http://element.eleme.io/
+ * ANT DESIGN: https://ant.design (for ReactJS)
+ * Element: http://element.eleme.io/ (for Vue)
  * HTML5 Video Events and API: https://www.w3.org/2010/05/video/mediaevents.html
  * http://www.wirewax.com/blog/post/building-a-media-source-html5-player/
