@@ -112,6 +112,12 @@ git blame -M  # ignores moving text
 git blame -C  # ignores moving text into other files
 ```
 
+* Git follow (http://stackoverflow.com/questions/14142609/git-discover-which-commits-ever-touched-a-range-of-lines)
+```sh
+git log --topo-order --graph -u -L 155,155:file.c
+```
+
+
 * Revert a merge (the `-m` option specifies the parent number starting from 1. )
 ```sh
 git revert -m 1 <commit>...
