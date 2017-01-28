@@ -42,6 +42,6 @@
 
 ## OTHER
 
-#### Links
-
+#### Nginx Links 
 * https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/
+* http://openresty.org/download/agentzh-nginx-tutorials-en.html
