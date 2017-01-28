@@ -19,3 +19,7 @@ Links:
 * https://github.com/humphd/have-fun-with-machine-learning
 * https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/
 * http://deeplearning.stanford.edu/tutorial
+
+Other:
+-------
+* https://m.xataka.com/robotica-e-ia/aprende-sobre-inteligencia-artificial-por-internet-cursos-publicaciones-y-las-recomendaciones-de-expertos
