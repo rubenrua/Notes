@@ -14,6 +14,8 @@ LINKS:
 * http://emacsrocks.com
 * http://www.saltycrane.com/blog/2008/11/emacs-notes/
 * http://overtone.github.io/emacs-live/doc-shortcuts.html
+* http://spacemacs.org
+
 
 PACKAGES:
 ----------
