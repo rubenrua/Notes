@@ -13,12 +13,22 @@ db.foo.find({ mystr: /[ ]+/ }).forEach( function(u) { u.mystr = u.mystr.replace(
 http://www.gizmola.com/blog/archives/106-SQL-UPDATE-for-strings-in-MongoDB.html
 
 
-* Query using JavaScript expressions 
+* Query using JavaScript expressions
 
 ```mongo
 db.usercollection.find({$where: "isNumber(this.value) && this.name.length > 40"});
 ```
 https://docs.mongodb.com/manual/reference/operator/query/where/
+
+
+* One subdocument criteria
+
+```mongo
+db.scores.find(
+   { results: { $elemMatch: { $gte: 80, $lt: 85 } } }
+)
+```
+https://docs.mongodb.com/manual/reference/operator/query/elemMatch/
 
 
 Links
