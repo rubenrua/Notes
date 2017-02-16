@@ -13,7 +13,7 @@ Conferences
 ----
 
 * 17-01-2017 Vigo Labs - [Introdución ás FPGAs](20170117-VigoLabs-FPGAs.md)
-* 15-02-2017 Vigo Labs - [Visión artificial con OpenCv](20170117-VigoLabs-OpenCV.md)
+* 15-02-2017 Vigo Labs - [Visión artificial con OpenCv](20170215-VigoLabs-OpenCV.md)
 
 Tools
 -----
