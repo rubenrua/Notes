@@ -46,3 +46,4 @@ SAD
  * var_dump(0 == 'count'?true:false);
  * Semicolons after statements needed.
  * `<?php` tag
+ * Override private methods
