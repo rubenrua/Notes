@@ -42,7 +42,7 @@ SAD
 ---
 
  * Legacy PHP code
- * All is an array (list, dict, set...)
+ * All is an array (list, dict, set...) [See php-ds](https://github.com/php-ds)
  * var_dump(0 == 'count'?true:false);
  * Semicolons after statements needed.
  * `<?php` tag
