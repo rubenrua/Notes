@@ -15,6 +15,8 @@ Conferences
 * 17-01-2017 Vigo Labs - [Introdución ás FPGAs](20170117-VigoLabs-FPGAs.md)
 * 15-02-2017 Vigo Labs - [Visión artificial con OpenCv](20170215-VigoLabs-OpenCV.md)
 * 22-02-2017 PHP Vigo - [Jenkins: Deja ya de hacerlo a mano! y 5x Lightning talks](20170222-PHPVigo-Jenkins_5LT.md)
+* 23-02-2017 PHP Vigo - [Ansible y Trucos configurando Nginx con PHP](20170223-SysadminGaliciaFebrero.md)
+
 
 Tools
 -----
