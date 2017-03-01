@@ -10,6 +10,7 @@ Links
 * https://twitter.github.io/scala_school/
 * https://www.scala-exercises.org/
 * http://scalapuzzlers.com
+* https://scastie.scala-lang.org/
 * https://www.coursera.org/specializations/scala
 
 
