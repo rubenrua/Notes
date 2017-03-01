@@ -23,6 +23,7 @@ WEB PLAYER:
 * Radiant Media Player: https://www.radiantmediaplayer.com (private)
 * Wowza Player: https://www.wowza.com/products/player (private)
 * THEOplayer: https://www.theoplayer.com (private)
+* h5p Course Interactive Presentation: https://h5p.org/presentation (private)
 
 Compare:
 
@@ -76,6 +77,13 @@ Media Managers
 * MediaSite: http://www.sonicfoundry.com/mediasite/ (private)
 * ...
 
+
+COMPANIES
+--------
+
+* https://wistia.com
+* https://mux.com
+*
 
 OTHER
 -----
