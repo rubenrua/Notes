@@ -29,8 +29,8 @@ Tools
  * https://blackfire.io
  * https://insight.sensiolabs.com/
  * https://github.com/phpstan/phpstan
- 
- 
+ * https://github.com/phpro/grumphp
+
 Tips
 ----
 
