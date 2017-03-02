@@ -24,3 +24,4 @@ Other:
 -------
 * https://m.xataka.com/robotica-e-ia/aprende-sobre-inteligencia-artificial-por-internet-cursos-publicaciones-y-las-recomendaciones-de-expertos
 * https://github.com/eriklindernoren/ML-From-Scratch
+* https://www.kaggle.com/
