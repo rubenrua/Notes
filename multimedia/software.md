@@ -5,9 +5,9 @@ Multimedia Software
 Libs and Apps:
 --------------
 
-* VLC: http://www.videolan.org/vlc/index.html [1](https://trac.videolan.org/vlc/ticket/35)
-* Ffmpeg: https://ffmpeg.org
-* Gstraemer: http://gstreamer.freedesktop.org
+* VLC: http://www.videolan.org/vlc/index.html [[bug]](https://trac.videolan.org/vlc/ticket/35)
+* FFmpeg: https://ffmpeg.org
+* GStraemer: http://gstreamer.freedesktop.org
 * MP4 Box: https://gpac.wp.mines-telecom.fr/mp4box/
 
 WEB PLAYER:
