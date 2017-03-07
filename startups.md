@@ -17,6 +17,15 @@ Otros
 * https://www.startupdigest.com/digests/galicia
 * http://www.masquecrowdfunding.com/mas-que-startups/
 
+Links
+-----
+* https://medium.com/startups-es/lecciones-aprendidas-montando-y-cerrando-mi-startup-de-big-data-afd6d42c0f8d#.tnygx5tfq
+* https://medium.com/@jorgediaz_13594/5-claves-de-la-venta-de-ticketbis-contadas-desde-dentro-4327c75fa63f#.kdefel95m
+* http://javisantana.com/2017/02/19/escalar-el-equipo-tecnico-en-una-startup.html
+* http://externalidades.net/2017/02/a-nivel-de-product-management/
+* http://externalidades.net/2016/10/la-tarugocharla-tarugoconf/
+* https://novobrief.com/15-lessons-from-the-top-ctos-in-spain/
+
 Incuvadoras vigo
 ----------------
 * http://www.zfv.es/viavigo/index.php?objeto=aceleradora+startup
