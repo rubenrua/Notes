@@ -17,6 +17,7 @@ Conf
 ----
 
  * See NGINX at [web note](/web/web.md)
+ * https://getcomposer.org/doc/articles/autoloader-optimization.md
  * http://jpauli.github.io/2015/03/05/opcache.html#configuring-opcache and http://librosweb.es/tutorial/la-nueva-extension-opcache-de-php-55/
    * Mind your `opcache.max_accelerated_files` ini setting: Just saw a 100% perf increase, the default (2000) is not enough.
 
