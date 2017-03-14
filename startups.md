@@ -25,6 +25,8 @@ Links
 * http://externalidades.net/2017/02/a-nivel-de-product-management/
 * http://externalidades.net/2016/10/la-tarugocharla-tarugoconf/
 * https://novobrief.com/15-lessons-from-the-top-ctos-in-spain/
+* https://beberlei.de/2017/03/13/how_to_complete_a_side_project_and_turn_it_into_a_business_level1.html
+
 
 Incuvadoras vigo
 ----------------
