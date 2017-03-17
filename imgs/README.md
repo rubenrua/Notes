@@ -24,6 +24,7 @@ LOL (laughing out loud)
 ![Ñapa_en_prod](LOL/Ñapa_en_prod.jpg)
 ![Standards](LOL/Standards.png)
 ![Monolithic vs Microservices](LOL/Monolithic_vs_microservices.jpg)
+![Hide_legacy_tech.jpg](LOL/Hide_legacy_tech.jpg)
 ![Shrek Please](LOL/Please.jpg)
 
 
