@@ -1,8 +1,8 @@
 GIT
 ===
 
-TUTORIALES:
------------
+Tutorials
+---------
 
 * http://git-scm.com/documentation (official)
 * http://learn.github.com/ (basic Code School)
@@ -255,9 +255,18 @@ git show --numstat 38f1fed
 git gc
 ```
 
+
+gitflow
+----
+* http://nvie.com/posts/a-successful-git-branching-model/
+* https://guides.github.com/introduction/flow/
+* http://stackoverflow.com/questions/18371741/git-branching-strategy-integated-with-testing-qa-process
+
+
 gitconfig
 ----
 https://github.com/rubenrua/dotfiles/blob/master/.gitconfig
+
 
 other
 -----
