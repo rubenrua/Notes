@@ -28,6 +28,24 @@ https://gist.github.com/ericclemmons/b146fe5da72ca1f706b2ef72a20ac39d
 
 http://www.quackit.com/html_5/tags/html_wbr_tag.cfm
 
+* Input with camera access
+
+
+```html
+Record camera video
+<input type="file" accept="video/*" capture="camcorder">
+
+Take camera picture
+<input type="file" accept="image/*" capture="camera">
+
+Record mic audio
+<input type="file" accept="audio/*" capture="microphone">
+```
+http://www.csslab.cl/ejemplos/cam.html
+
+Support: Safari Mobile 6. Android Browser 3.0, Android Chrome 0.16, Firefox Mobile 10.0.
+
+
 Links
 ------
 
