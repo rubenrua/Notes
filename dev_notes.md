@@ -70,6 +70,7 @@ Estimation
 Books
 -----
 
+* https://hpbn.co
 * http://aosabook.org/en/index.html
 
 Langs
