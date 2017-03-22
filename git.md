@@ -189,32 +189,33 @@ git filter-branch --subdirectory-filter src/Pumukit/MoodleBundle/ -- --all
 
 * Manual pull request merge
 
- * Step 1: From your project repository, check out a new branch and test the changes.
+  * Step 1: From your project repository, check out a new branch and test the changes.
 
- ```sh
- git checkout -b ppettit-f/audio-rework master
- git pull git://github.com/ppettit/Galicaster.git f/audio-rework
- ```
+   ```sh
+   git checkout -b ppettit-f/audio-rework master
+   git pull git://github.com/ppettit/Galicaster.git f/audio-rework
+   ```
 
- * Step 2: Merge the changes and update on GitHub.
+  * Step 2: Merge the changes and update on GitHub.
 
- ```sh
- git checkout master
- git merge ppettit-f/audio-rework
- git push origin master
- ```
+   ```sh
+   git checkout master
+   git merge ppettit-f/audio-rework
+   git push origin master
+   ```
 
-* Other Manual pull request merge
-```sh
-git clone https://github.com/teltek/Galicaster.git
-cd Galicaster
-git checkout dev_next_generation
-git checkout -b gitlab/dev_next_generation
-git pull http://gitlab.teltek.es/galicaster/galicaster.git dev_next_generation
-git checkout dev_next_generation
-git merge github/dev_next_generation
-git push origin dev_next_generation
-```
+  * Other Manual pull request merge
+  
+  ```sh
+  git clone https://github.com/teltek/Galicaster.git
+  cd Galicaster
+  git checkout dev_next_generation
+  git checkout -b gitlab/dev_next_generation
+  git pull http://gitlab.teltek.es/galicaster/galicaster.git dev_next_generation
+  git checkout dev_next_generation
+  git merge github/dev_next_generation
+  git push origin dev_next_generation
+  ```
 
 * Force push considered harmful; understanding git's `--force-with-lease` (https://developer.atlassian.com/blog/2015/04/force-with-lease/)
 
