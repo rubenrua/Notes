@@ -12,4 +12,4 @@ Other
 -------
 
 * https://speakerdeck.com/hywan/hello-rust-an-overview
-
+* http://zsiciarz.github.io/24daysofrust/
