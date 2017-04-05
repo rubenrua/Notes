@@ -16,6 +16,19 @@ h1{
 https://coderwall.com/p/yxeiiw
 
 
+* break long words
+```css
+.break-long-words {
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+}
+```
+
+
 * Using calc in CSS
 ```css
 width: calc(50px * 2);
