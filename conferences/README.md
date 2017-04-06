@@ -23,3 +23,4 @@ Tools
 * https://github.com/hakimel/reveal.js
 * https://github.com/googlesamples/md2googleslides/
 * https://webslides.tv ([src](https://github.com/jlantunez/webslides/))
+* https://cloudcraft.co/
