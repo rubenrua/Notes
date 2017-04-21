@@ -26,9 +26,10 @@ TOOLS
  * https://www.kurento.org/
  * http://www.openwebrtc.org/
  * http://lynckia.com/licode/
- * https://jitsi.org 
- 
- 
+ * https://jitsi.org
+ * https://janus.conf.meetecho.com/
+
+
 COMPANIES
 ---------
 
