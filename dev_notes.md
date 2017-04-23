@@ -111,11 +111,16 @@ QA
 * http://www.chiark.greenend.org.uk/~sgtatham/bugs.html
 * https://medium.com/@fesja/10-skills-you-must-have-to-be-a-great-qa-40ee58232599#.sqdeviiap
 
+JUNIOR
+------
+
+* https://gallir.wordpress.com/2016/03/24/el-mejor-consejo-que-puedo-dar-a-un-joven-ingeniero/
+* http://mailchi.mp/bonillaware/10-cosas-que-me-hubiera-gustado-saber-cuando-empec-en-esto-bonilista
+
 Other
 -----
 
 * http://blog.plover.com/prog/burritos.html
 * http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/
 * https://www.enterpriseready.io/ ([src](https://github.com/enterpriseready/enterpriseready))
-* https://gallir.wordpress.com/2016/03/24/el-mejor-consejo-que-puedo-dar-a-un-joven-ingeniero/
 * https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
