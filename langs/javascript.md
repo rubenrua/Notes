@@ -55,3 +55,9 @@ const voice = window.speechSynthesis.getVoices()[0];
 utterance.voice = voice;
 window.speechSynthesis.speak(utterance);
 ```
+
+
+Other:
+------
+
+* Understanding async/await in 7 seconds: https://twitter.com/manekinekko/status/855824609299636230
