@@ -25,3 +25,4 @@ Other
 
 * https://twitter.com/phollow/status/822115626563076098
 * http://www.barrucadu.co.uk/posts/2016-08-25-three-months-of-go.html
+* https://goreportcard.com
