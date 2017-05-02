@@ -22,6 +22,7 @@
 
  * https://www.ssllabs.com/ssltest/analyze.html
  * https://letsencrypt.org and https://certbot.eff.org (to configure letsencrypt) ([tutorial](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04))
+ * https://mozilla.github.io/server-side-tls/ssl-config-generator/
  * Chrome DevTools
 
 ## WEB
@@ -43,7 +44,7 @@
 
 ## OTHER
 
-#### Nginx Links 
+#### Nginx Links
 * https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/
 * http://openresty.org/download/agentzh-nginx-tutorials-en.html
 * https://certsimple-com.cdn.ampproject.org/c/s/certsimple.com/blog/nginx-http2-load-balancing-config
