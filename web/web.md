@@ -49,3 +49,4 @@
 * http://openresty.org/download/agentzh-nginx-tutorials-en.html
 * https://certsimple-com.cdn.ampproject.org/c/s/certsimple.com/blog/nginx-http2-load-balancing-config
 * https://ilia.ws/files/nginx_torontophpug.pdf
+* Other modern HTTP reverse proxy and load balancer: https://traefik.io/
