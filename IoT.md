@@ -48,6 +48,7 @@ screen /dev/tty.usbmodem2413 115200
  
  * https://www.kickstarter.com/projects/onion/omega2-5-iot-computer-with-wi-fi-powered-by-linux?lang=es 
  * https://www.amazon.com/Dash-Buttons/b?ie=UTF8&node=10667898011
+ * https://www.hackster.io
  * https://aiyprojects.withgoogle.com/
  
 
