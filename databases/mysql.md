@@ -85,8 +85,16 @@ SELECT /*!40001 SQL_NO_CACHE */ * FROM `file`;
 
 http://dev.mysql.com/doc/refman/5.0/en/query-cache-in-select.html 
 
-#### Show variables
+### Show variables
 ```sql
 SHOW VARIABLES;
 SHOW VARIABLES LIKE '%';
 ```
+
+### Aggregate (GROUP BY)
+```sql
+SELECT id, serial_id, status_id FROM mm INNER JOIN (SELECT mm_id FROM file WHERE perfil_id IN (35,56) GROUP BY mm_id HAVING GROUP_CONCAT(distinct perfil_id ORDER BY perfil_id asc)  = "35,56") AS a ON mm.id = a.mm_id;
+
+```
+
+https://dev.mysql.com/doc/refman/5.7/en/group-by-functions.html
