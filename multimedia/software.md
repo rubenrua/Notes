@@ -24,21 +24,22 @@ WEB PLAYER:
 * Wowza Player: https://www.wowza.com/products/player (private)
 * THEOplayer: https://www.theoplayer.com (private)
 * h5p Course Interactive Presentation: https://h5p.org/presentation (private)
+* Able Player: https://ableplayer.github.io/ableplayer/ (accessible)
 
 Compare:
 
-                    |    HTML5 Raw  | Paella Player | JWplayer
---------------------|:-------------:|:-------------:|:----------:
-Skins               |               |      x        |      x
-Dual stream         |               |      x        |
-Preview thumbnails  |               |      x        |      x
-RTMP                |               |      x        |      x
-Dash                |               |      x        |      x
-HLS                 |   Only iOS    |   Only iOS    |      x
-VTT captions        |      x        |               |      x
-DXFT captions       |               |      x        |
-Multi-lang captions |      x        |      x        |      x
-Soft-trimming       |      x        |               |
+|                     |    HTML5 Raw  | Paella Player | JWplayer   |
+|---------------------|:-------------:|:-------------:|:----------:|
+| Skins               |               |      x        |      x     |
+| Dual stream         |               |      x        |            |
+| Preview thumbnails  |               |      x        |      x     |
+| RTMP                |               |      x        |      x     |
+| Dash                |               |      x        |      x     |
+| HLS                 |   Only iOS    |      x        |      x     |
+| VTT captions        |      x        |               |      x     |
+| DXFT captions       |               |      x        |            |
+| Multi-lang captions |      x        |      x        |      x     |
+| Soft-trimming       |      x        |               |            |
 
 
 
