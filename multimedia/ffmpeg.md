@@ -113,3 +113,14 @@ ffmpeg -y -i source.avi -vcodec libx264 -vprofile baseline -level:v 3 -r 25 -pre
 ```
 
 https://trac.ffmpeg.org/wiki/Encode/H.264#Two-PassExample
+
+
+
+##### Desktop capture to v4l2 device:
+
+```
+modprobe v4l2loopback
+ffmpeg -f x11grab -r 15 -s 1280x720 -i :0.0+0,0 -vcodec rawvideo -pix_fmt yuv420p -threads 0 -f v4l2 /dev/video0
+```
+
+https://github.com/umlaeute/v4l2loopback
