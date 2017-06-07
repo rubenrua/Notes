@@ -17,6 +17,8 @@ Conferences
 * 22-02-2017 PHP Vigo - [Jenkins: Deja ya de hacerlo a mano! y 5x Lightning talks](20170222-PHPVigo-Jenkins_5LT.md)
 * 23-02-2017 Syyadmin@Galicia - [Ansible y Trucos configurando Nginx con PHP](20170223-SysadminGaliciaFebrero.md)
 * 22-03-2017 PHP Vigo - [Wordpress en Diariomotor y Blackfire.io](http://phpvigo.com/blog/resumen-meetup-12-2)
+* 06-06-2017 VigoJUG - [Introducción a Scala](https://docs.google.com/presentation/d/1BrZVBydFq5kOxhwf5_Qm9UHjYC7qqm3wgHfGUGO2Abo/mobilepresent?slide=id.p)
+
 
 Tools
 -----
