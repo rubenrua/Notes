@@ -36,7 +36,8 @@ Compare:
 | RTMP                |               |      x        |      x     |
 | Dash                |               |      x        |      x     |
 | HLS                 |   Only iOS    |      x        |      x     |
-| VTT captions        |      x        |               |      x     |
+| VTT captions        |      x        |      x        |      x     |
+| Styling VTT         |      ?        |               |      x     |
 | DXFT captions       |               |      x        |            |
 | Multi-lang captions |      x        |      x        |      x     |
 | Soft-trimming       |      x        |               |            |
