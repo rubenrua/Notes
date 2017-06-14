@@ -19,8 +19,8 @@ SAMPLES
  * https://developer.chrome.com/extensions/desktopCapture
 
 
-TOOLS
------
+TOOLS and PLATFORMS
+-------------------
 
  * https://github.com/bitfly-p2p/
  * https://www.kurento.org/
@@ -28,6 +28,8 @@ TOOLS
  * http://lynckia.com/licode/
  * https://jitsi.org
  * https://janus.conf.meetecho.com/
+ * Comparative : https://docs.google.com/spreadsheets/d/13YeU90Fb8Tk_mrtjGqKP-o_PaR5FmxjA8QYypmENphE/edit
+
 
 
 COMPANIES
@@ -42,4 +44,3 @@ OTHER
 -----
 
  * https://recordr.de/
- * WebRTC Platforms: https://docs.google.com/spreadsheets/d/13YeU90Fb8Tk_mrtjGqKP-o_PaR5FmxjA8QYypmENphE/edit
