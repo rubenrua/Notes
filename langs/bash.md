@@ -18,6 +18,11 @@ help set
 
 #http://stackoverflow.com/questions/59895/getting-the-source-directory-of-a-bash-script-from-within
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+#https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux
+for (( i = 30; i <= 37; i++ )); 
+do echo -e "\e[0;"$i"m  Hi stackoverflow"; 
+done
 ```
 
 Links
