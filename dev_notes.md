@@ -124,3 +124,4 @@ Other
 * http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/
 * https://www.enterpriseready.io/ ([src](https://github.com/enterpriseready/enterpriseready))
 * https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
+* https://12factor.net/
