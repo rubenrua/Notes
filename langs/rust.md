@@ -14,3 +14,4 @@ Other
 * https://speakerdeck.com/hywan/hello-rust-an-overview
 * http://zsiciarz.github.io/24daysofrust/
 * http://www.rustacean.net/
+* https://github.com/nrc/r4cppp
