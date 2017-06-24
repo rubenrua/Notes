@@ -39,6 +39,9 @@ Las empresas piensan: "!Ah, sois ágiles! Eso quiere decir que lo haceis rápido
 I) Put people before code, II) Make progress before you get consensus, III) Problems before solutions, IV) Contracts before internals
 — Pieter Hintjens
 
+If your software developers are able to accurately estimate how long something will take, you should fire them. If they've done something so many times before that they know exactly how long it'll take them to do it again, then they should have made a reusable solution by now.
+
+
 
 ![software values table](imgs/SW_values_table.jpg)
 
