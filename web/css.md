@@ -4,7 +4,7 @@ CSS
 Tips
 -----
 
- * How to make trim to row/title. using only CSS
+* How to make trim to row/title. using only CSS
 
 ```css
 h1{
@@ -14,6 +14,19 @@ h1{
 }
 ```
 https://coderwall.com/p/yxeiiw
+
+
+* break long words
+```css
+.break-long-words {
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+}
+```
 
 
 * Using calc in CSS
@@ -35,6 +48,15 @@ http://xitrus.es/blog/80/Cálculos_en_el_CSS_con_calc()_de_CSS3
 }
 ```
 http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement/
+
+* Font size relative to viewport (`vw`, `vw`, `vi` and `vb`)
+```css
+.center {
+  width: 50vw;
+}
+```
+
+https://developer.mozilla.org/en/docs/Web/CSS/length
 
 
 Links

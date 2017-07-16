@@ -1,6 +1,12 @@
 JAVASCRIPT
 ==========
 
+LINKS
+-----
+
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript
+* http://superherojs.com
+
 
 JQUERY LINKS
 ------------
@@ -12,7 +18,7 @@ JQUERY LINKS
 Tips:
 -----
 
-* In ES5 use strict mode Always!!! 
+* In ES5 use strict mode Always!!!
 ```js
 "use strict";
 ```
@@ -49,3 +55,9 @@ const voice = window.speechSynthesis.getVoices()[0];
 utterance.voice = voice;
 window.speechSynthesis.speak(utterance);
 ```
+
+
+Other:
+------
+
+* Understanding async/await in 7 seconds: https://twitter.com/manekinekko/status/855824609299636230

@@ -30,6 +30,20 @@ db.scores.find(
 ```
 https://docs.mongodb.com/manual/reference/operator/query/elemMatch/
 
+* Query array with null values
+
+```mongo
+db.MultimediaObject.find({"tags":{$elemMatch:{"$in":[null], "$exists":true}}})
+```
+http://stackoverflow.com/questions/15335197/mongodb-query-array-with-null-values
+
+
+SAD
+---
+
+* Any like SQLite for MongoDB (for testing)
+* PHP current status (No `doctrine/mongodb-odm`, No `api-platform`)
+
 
 Links
 -----

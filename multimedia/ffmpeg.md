@@ -25,11 +25,18 @@ NOTES
 ffmpeg -strict unofficial -i #{in} -qscale 2 -vcodec mpeg2video -acodec mp2 -vf "movie=watermark.png[wm]; [in][wm]overlay=main_w-overlay_w-10:main_h-overlay_h-10[out] " #{out}
 ```
 
-##### IMAGE:
+##### TAKE AN IMAGE:
 
 ```
 ffmpeg -ss #{time} -y -i #{in.video}  -r 1 -vframes 1 -s 640x480 -f image2 #{out}.jpg
 ```
+
+##### IMAGE TO VIDEO:
+
+```
+ffmpeg -nostats  -loop 1  -i image.png  -c:v libx264  -r 30 -t 5.000 -pix_fmt yuv420p  video.mp4
+```
+
 
 ##### TRIM:
 
@@ -113,3 +120,13 @@ ffmpeg -y -i source.avi -vcodec libx264 -vprofile baseline -level:v 3 -r 25 -pre
 ```
 
 https://trac.ffmpeg.org/wiki/Encode/H.264#Two-PassExample
+
+
+##### Desktop capture to v4l2 device:
+
+```
+modprobe v4l2loopback
+ffmpeg -f x11grab -r 15 -s 1280x720 -i :0.0+0,0 -vcodec rawvideo -pix_fmt yuv420p -threads 0 -f v4l2 /dev/video0
+```
+
+https://github.com/umlaeute/v4l2loopback
