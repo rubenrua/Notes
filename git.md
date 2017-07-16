@@ -117,6 +117,10 @@ git blame -C  # ignores moving text into other files
 git log --topo-order --graph -u -L 155,155:file.c
 ```
 
+* Track changes on a line (additions/deletions)(http://stackoverflow.com/questions/4404444/how-do-i-git-blame-a-deleted-line#4404551):
+```sh
+git log -S '<DELETED_LINE>' path/to/file
+```
 
 * Revert a merge (the `-m` option specifies the parent number starting from 1. )
 ```sh
