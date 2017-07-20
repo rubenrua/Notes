@@ -24,6 +24,7 @@ TOOLS and PLATFORMS
  * Landscape: https://bloggeek.me/webrtc-developer-tools-landscape/
  * Index: https://webrtcindex.com/
  * Comparative : https://docs.google.com/spreadsheets/d/13YeU90Fb8Tk_mrtjGqKP-o_PaR5FmxjA8QYypmENphE/edit
+ * Awesome-webrtc: https://github.com/openrtc-io/awesome-webrtc
  * https://github.com/bitfly-p2p/
  * https://www.kurento.org/
  * http://www.openwebrtc.org/
