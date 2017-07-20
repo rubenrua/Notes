@@ -39,5 +39,6 @@ Gifs
 ![Well done](gifs/Well done.gif)
 ![ohhhhh](gifs/ohhhhh.gif)
 ![pena](gifs/pena.gif)
+![automatic failover](gifs/automatic-failover.gif)
 ![shutupandtakemymoney](gifs/shutupandtakemymoney.gif)
 ![welcome](gifs/welcome.gif)
