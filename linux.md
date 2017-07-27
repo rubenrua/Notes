@@ -3,6 +3,15 @@
 
 ## Tips:
 
+### Execute xargs in parallel
+```sh
+find src -type f -name "*.php" -print0 | xargs -0 -n1 -P8 php -l
+printf %s\\n {0..99} | xargs -n 1 -P 8 script-to-run.sh input/ output/
+```
+
+https://stackoverflow.com/questions/28357997/running-programs-in-parallel-using-xargs
+
+
 ### Trace the Execution
 ```sh
 #Trace the Execution of an Executable
@@ -24,6 +33,7 @@ strace -yy wget https://cdn0.bodas.net/usuarios/fotos/7/1/9/0/sfxb_376425.jpg
 ```
 
 http://www.thegeekstuff.com/2011/11/strace-examples/
+
 
 ### Show info about a exec
 ```sh
@@ -48,7 +58,6 @@ php-fpm[6048]: segfault at 10 ip 00007f46db77a8fb sp 00007fffa155e2d0 error 4 in
 # 00007f46db77a8fb - 7f46db763000 = 178FB
 addr2line -e /usr/lib64/20131226/xcache.so 178FB
 #out /root/source/xcache-3.2.0/mod_cacher/xc_cacher.c:778
-
 ```
 
 https://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html#addr2line
