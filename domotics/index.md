@@ -1,6 +1,6 @@
 # HOME AUTOMATION
 
-## My principle
+## My key principles
 
  * Open HW/SW.
  * Low price.
@@ -10,6 +10,10 @@
 * https://home-assistant.io/
 * http://www.openhab.org/
 * https://motion-project.github.io
+
+## Protocols
+
+* https://en.wikipedia.org/wiki/Zigbee
 
 ## Lights
 
