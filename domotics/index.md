@@ -43,6 +43,11 @@
 
 * TODO
  
+## Home Energy Monitor
+
+* Efergy Technologies ENGAGE HUB 1.1 In-Home Energy Monitor
+* TODO
+ 
 
 ## Breakfast
 
