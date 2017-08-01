@@ -10,6 +10,7 @@
 * https://home-assistant.io/
 * http://www.openhab.org/
 * https://motion-project.github.io
+* https://mycroft.ai
 
 ## Protocols
 
@@ -52,4 +53,5 @@
 * https://www.xatakahome.com/trucos-y-bricolaje-smart/como-funcionan-los-interruptores-conmutados-y-cruzados
 * https://jasperproject.github.io - Control anything with your voice
 * https://home-assistant.io/blog/2016/01/19/perfect-home-automation/
+* https://github.com/jjmontesl/talk-hass-pydaygalicia2017
 
