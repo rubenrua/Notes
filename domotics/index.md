@@ -14,8 +14,8 @@
 
 ## Protocols
 
-* https://en.wikipedia.org/wiki/MQTT
-* https://en.wikipedia.org/wiki/Zigbee
+* MQTT: [Official website](http://mqtt.org), [Wikipedia](https://en.wikipedia.org/wiki/MQTT)
+* Zigbee: [Official website](http://www.zigbee.org), [Wikipedia](https://en.wikipedia.org/wiki/Zigbee)
 
 ## Lights
 
