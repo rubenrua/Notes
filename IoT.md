@@ -53,5 +53,6 @@ screen /dev/tty.usbmodem2413 115200
  * https://www.amazon.com/Dash-Buttons/b?ie=UTF8&node=10667898011
  * https://www.hackster.io
  * https://aiyprojects.withgoogle.com/
+ * https://hologram.io/introducing-the-developer-plan/
  
 
