@@ -61,3 +61,4 @@ Other:
 ------
 
 * Understanding async/await in 7 seconds: https://twitter.com/manekinekko/status/855824609299636230
+* https://paul.kinlan.me/detecting-text-in-an-image/
