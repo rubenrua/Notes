@@ -14,7 +14,7 @@ Sadnes
 ------
 
 * Where Collection Functions: filter, map...
-* GOPATH; Why no local?
+* GOPATH; Why no local? Fixed in 1.9
 * List dependecies. Not exist a list in a metadata file.
 * `err` everywere
 * Goroutines vs everybody (async/await)
