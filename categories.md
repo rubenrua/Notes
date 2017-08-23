@@ -11,6 +11,7 @@ iTunesU
    * 105100 Humanities Communications (new 113 Communications & Media)
    * 105101 Humanities Philosophy (new 114 Philosophy)
    * 105102 Humanities Religion (new 115 Religion & Spirituality)
+   * 111100 African-American Studies (new 111107 African Studies and 111108 American Studies)
 
 
 Unesco
