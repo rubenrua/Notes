@@ -7,10 +7,11 @@
 ```sh
 find src -type f -name "*.php" -print0 | xargs -0 -n1 -P8 php -l
 printf %s\\n {0..99} | xargs -n 1 -P 8 script-to-run.sh input/ output/
+cat commands.sh | xargs -P4  -I "{}" sh -c "{}"
 ```
 
 https://stackoverflow.com/questions/28357997/running-programs-in-parallel-using-xargs
-
+Note: See also `parallel`.
 
 ### Trace the Execution
 ```sh
