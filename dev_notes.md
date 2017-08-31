@@ -119,6 +119,7 @@ JUNIOR
 
 * https://gallir.wordpress.com/2016/03/24/el-mejor-consejo-que-puedo-dar-a-un-joven-ingeniero/
 * http://mailchi.mp/bonillaware/10-cosas-que-me-hubiera-gustado-saber-cuando-empec-en-esto-bonilista
+* https://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf
 
 Other
 -----
