@@ -75,7 +75,7 @@ cat /dev/dvb/adapter0/dvr0 | pv -r > /dev/null
 
 * h2load: https://nghttp2.org/documentation/h2load.1.html
 
-* Locus: http://locust.io/
+* Locust: http://locust.io/
 
 
 ### CPU
