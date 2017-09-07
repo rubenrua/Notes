@@ -1,7 +1,7 @@
-TESTBECH
-========
+PERFORMANCE
+===========
 
-![linux observability tools](imgs/linux_observability_tools.png)
+![linux observability tools](imgs/linux_perf_tools_full.svg)
 
 
 LINKS
@@ -88,3 +88,9 @@ cat /dev/dvb/adapter0/dvr0 | pv -r > /dev/null
 ```
 
 * Intel® Performance Counter Monitor (PCM): https://software.intel.com/en-us/articles/intel-performance-counter-monitor
+
+
+OTHER
+-----
+
+ * https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/

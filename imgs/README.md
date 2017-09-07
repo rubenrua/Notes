@@ -5,7 +5,7 @@ Liked
 -------
 
 ![SW_values_table](SW_values_table.jpg)
-![linux_observability_tools](linux_observability_tools.png)
+![linux_observability_tools](linux_perf_tools_full.svg)
 ![From_think_to_understand](From_think_to_understand.jpg)
 ![Ideal_real_team_plans](Ideal_real_team_plans.png)
 ![MVP](MVP.png)
