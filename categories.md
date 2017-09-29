@@ -4,7 +4,7 @@ CATEGORIES
 iTunesU
 -------
 
- * https://help.apple.com/itunesu/sitemanager/#/itu337EEAE0-035A-4660-B53D-46A13A7721E5
+ * https://help.apple.com/itunesu/sitemanager/#/itu337EEAE0-035A-4660-B53D-46A13A7721E5 (http://sitemanager.itunes.apple.com/help/#itu337EEAE0-035A-4660-B53D-46A13A7721E5)
  * https://github.com/campusdomar/PuMuKIT2/blob/master/src/Pumukit/SchemaBundle/Resources/data/tags/itunesu_i18n.csv
  * Old iTunes categories:
    * 105 Humanities
