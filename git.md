@@ -209,7 +209,7 @@ git filter-branch --subdirectory-filter src/Pumukit/MoodleBundle/ -- --all
    ```
 
   * Other Manual pull request merge
-  
+
   ```sh
   git clone https://github.com/teltek/Galicaster.git
   cd Galicaster
@@ -259,6 +259,33 @@ git show --numstat 38f1fed
 ```sh
 git gc
 ```
+
+* Squash several Git commits into a single commit
+fast:
+```sh
+# Switch to the master branch and make sure you are up to date.
+git checkout master
+git fetch # this may be necessary (depending on your git config) to receive updates on origin/master
+git pull
+
+# Merge the feature branch into the master branch.
+git merge feature_branch
+
+# Reset the master branch to origin's state.
+git reset origin/master
+
+# Git now considers all changes as unstaged changes.
+# We can add these changes as one commit.
+# Adding . will also add untracked files.
+git add --all
+git commit
+```
+or manual
+
+```sh
+git rebase -i master
+```
+https://makandracards.com/makandra/527-squash-several-git-commits-into-a-single-commit
 
 
 gitflow
