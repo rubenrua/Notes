@@ -1,6 +1,9 @@
 RUST
 ====
 
+> "Rust. Fast, safe and productive - pick three."
+
+
 LINKS
 -----
 
