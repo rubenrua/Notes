@@ -21,6 +21,6 @@ LINKS
 * https://medium.com/makingtuenti/tuenti-selection-process-tips-tricks-6d4f2e49515a
 * https://medium.freecodecamp.org/how-to-interview-as-a-developer-candidate-b666734f12dd
 * https://github.com/h5bp/Front-end-Developer-Interview-Questions/
-* 
+* http://javisantana.com/2017/11/02/hiring-en-un-startup.html
 
 
