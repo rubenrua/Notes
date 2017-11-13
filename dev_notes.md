@@ -22,7 +22,8 @@ Complexity is like a bug light for smart people. We can't resist it, even though
 
 La comunidad te devuelve con creces los que les das.
 
-Ser un buen boyscout, recoge la mierda de otros.
+Always leave the campground cleaner than you found it [Ser un buen boyscout, recoge la mierda de otros].
+— Boy Scouts rule
 
 A goal is a dream with a deadline.
 — Napoleon Hill
