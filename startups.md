@@ -7,15 +7,16 @@ Blogs
 
 Redes
 -----
+* http://nosday.com
 * http://laconnetwork.com
 * http://betabeers.com
-* http://nosday.com
 
 Otros
 -----
 * https://startupxplore.com
 * https://www.startupdigest.com/digests/galicia
-* http://www.masquecrowdfunding.com/mas-que-startups/
+* https://masquestartups.com (PODCAST)
+* https://blog.kfund.vc/tagged/podcast (PODCAST)
 
 Links
 -----
