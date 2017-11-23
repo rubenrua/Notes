@@ -79,12 +79,15 @@ flock -n /tmp/path.to.lockfile -c command with args
 
 http://www.elevatedcode.com/2013/05/07/flock-for-cron-jobs.html
 http://www.computerhope.com/unix/utrap.htm
+Other in GO [croncape](https://github.com/sensiocloud/croncape) [jobber](https://github.com/dshearer/jobber)
+
 
 ###  VNC server
 ```sh
 sudo apt-get -y install x11vnc
 x11vnc -display :0
 ```
+
 
 ###  Ubuntu: Recompile package from source
 ```
@@ -95,6 +98,7 @@ cd XXXXXX
 sudo apt-get build-dep XXXXXX
 dpkg-buildpackage -b -uc
 ```
+
 
 ### Debian: generate deb package.
 
