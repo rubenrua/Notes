@@ -25,6 +25,7 @@ Sadnes
 Other
 ------
 
+* https://syslog.ravelin.com/so-just-how-fast-are-channels-anyway-4c156a407e45
 * https://twitter.com/phollow/status/822115626563076098
 * http://www.barrucadu.co.uk/posts/2016-08-25-three-months-of-go.html
 * https://goreportcard.com
