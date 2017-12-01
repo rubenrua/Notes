@@ -20,6 +20,7 @@ Speech to text
 * http://koemei.com/
 * https://docs.microsoft.com/en-us/azure/cognitive-services/speech/home
 * https://cloud.google.com/speech/
+* https://wit.ai/
 
 Annotations
 -----------
