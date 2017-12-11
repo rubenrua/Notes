@@ -58,6 +58,12 @@ Automatic presenter tracking:
 * GaliTracker: https://wiki.teltek.es/display/GaliTracker/GaliTracker+Home
 
 
+Speech to text
+--------------
+
+* CMU Sphinx: https://cmusphinx.github.io
+* Mozilla DeepSpeech: https://github.com/mozilla/DeepSpeech
+
 
 Media Managers
 --------------
