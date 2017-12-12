@@ -82,6 +82,16 @@ http://www.computerhope.com/unix/utrap.htm
 Other in GO [croncape](https://github.com/sensiocloud/croncape) [jobber](https://github.com/dshearer/jobber)
 
 
+### Xephyr: Pseudo-X server
+```sh
+Xephyr -ac -screen 1280x1024 -br -reset -terminate 2> /dev/null :3 &
+DISPLAY=:3.0 gnome-wm &
+DISPLAY=:3.0 ssh -X jennie@desktop xterm
+```
+
+http://jeffskinnerbox.me/posts/2014/Apr/29/howto-using-xephyr-to-create-a-new-display-in-a-window/
+
+
 ###  VNC server
 ```sh
 sudo apt-get -y install x11vnc
