@@ -51,3 +51,5 @@ SAD
  * Semicolons after statements needed.
  * `<?php` tag
  * Override private methods
+ * $a=null;var_dump($a == $a[0]);
+ * Performance: https://github.com/symfony/symfony/pull/25474 and https://github.com/symfony/symfony/pull/24866
