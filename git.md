@@ -12,8 +12,8 @@ Tutorials
 * http://byte.kde.org/~zrusin/git/git-cheat-sheet.svg (cheat-sheet)
 * https://github.com/tiimgreen/github-cheat-sheet (cheat-sheet src)
 * http://aprendegit.com [ES] (blog)
-* http://chris.beams.io/posts/git-commit/
 * https://github.com/git-tips/tips
+* http://chris.beams.io/posts/git-commit/
 
 Tips
 ----
@@ -302,6 +302,5 @@ https://github.com/rubenrua/dotfiles/blob/master/.gitconfig
 
 other
 -----
-* http://whatthecommit.com/index.txt
 * https://help.github.com/articles/remove-sensitive-data/
 * https://vimeo.com/82408340
