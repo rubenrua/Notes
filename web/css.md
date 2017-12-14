@@ -58,6 +58,10 @@ http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacemen
 
 https://developer.mozilla.org/en/docs/Web/CSS/length
 
+* Applying a relative size which includes borders and paddings (box-sizing)
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+
 
 Links
 ------
