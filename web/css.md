@@ -3,6 +3,25 @@ CSS
 
 Tips
 -----
+* Vertical center
+
+```html
+<div class="container">
+  <p class="centered">Centrado con CSS Grid</p>
+</div>
+```
+
+```css
+.container {
+  height: 100%;
+  display: grid;
+}
+.centered {
+  margin: auto;
+}
+```
+
+http://www.csslab.cl/2017/12/18/centrando-verticalmente-iv-css-grids/
 
 * How to make trim to row/title. using only CSS
 
