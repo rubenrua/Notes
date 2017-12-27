@@ -24,7 +24,8 @@ Conferences
 * 04-07-2017 VigoJUG - [Kotlin: Java for the 21st century](https://docs.google.com/presentation/d/1K-jqOlRYFvMRJmJZuQYVp3lhH70gvfoiaWa8MzqGe9A/view) by @albertoruibal
 * 17-07-2017 [Northwest Startup Day 2017](http://nosday.com)
 * 03-08-2017 GDG Vigo - [The State of The Web 2017](https://delapuente.github.io/presentations/state-of-the-web-17/index.html#/1) by @delapuente
-* 14-12-2017 Vigo Labs- [Introducción a Blockchain](20171214-VigoLabs-Blockchain.md) by xoanteis
+* 14-12-2017 Vigo Labs - [Introducción a Blockchain](20171214-VigoLabs-Blockchain.md) by xoanteis
+* 16-12-2017 [GDG DevFest Galicia](20171216-devfestgal.md)
 
 Tools
 -----
