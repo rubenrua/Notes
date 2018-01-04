@@ -10,6 +10,20 @@
 
  * https://www.raspberrypi.org/
 
+### SSH
+
+https://www.raspberrypi.org/documentation/remote-access/ssh/
+
+For headless setup, SSH can be enabled by placing a file named ssh, without any extension, onto the boot partition of the SD card from another computer
+
+### Setting up Pi Zero OTG
+
+https://blog.gbaman.info/?tag=g_ether
+
+ - Add to the bottom of the `config.txt` file dtoverlay=dwc2 on a new line
+ - Insert modules-load=dwc2,g_ether after rootwait in `cmdline.txt`
+ - Wait 90s and `ssh pi@raspberrypi.local` (debug with avahi-browse -art)
+
 ## Chip
 
  * https://getchip.com/pages/chip
