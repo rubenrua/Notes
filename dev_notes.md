@@ -30,6 +30,9 @@ Always leave the campground cleaner than you found it [Ser un buen boyscout, rec
 A goal is a dream with a deadline.
 — Napoleon Hill
 
+Work expands so as to fill the time available for its completion
+— Parkinson's law
+
 Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems
 — Jamie Zawinski, on comp.lang.emacs [*]
 
