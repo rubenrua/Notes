@@ -3,6 +3,10 @@
 
 ## Tips:
 
+### Feature comparison of ack, ag, git-grep, GNU grep and ripgrep
+
+https://beyondgrep.com/feature-comparison/
+
 ### Execute xargs in parallel
 ```sh
 find src -type f -name "*.php" -print0 | xargs -0 -n1 -P8 php -l
