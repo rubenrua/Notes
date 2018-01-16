@@ -26,3 +26,4 @@ Links:
 * http://devfest.gdggalicia.com/
 * https://medium.com/@orestes/gdg-devfest-galicia-2017-es-e7eea5b33897
 * http://blog.gdg.es/2017/12/resumen-del-gdg-devfest-galicia-2017.html
+* https://www.youtube.com/watch?v=4NTlT0Hek8c&list=PLiLJQ1Z3egaqj5mK0A8cbCoU0lD1tZLut
