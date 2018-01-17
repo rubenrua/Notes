@@ -6,7 +6,7 @@ Unicode & Character Sets
 
 iconv: character set conversion
 ------
-````
+```
 iconv -f ISO_8859-1 -t UTF-8 $i > tmpfile
 ```
 
