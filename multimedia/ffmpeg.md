@@ -8,12 +8,19 @@ LINKS
  * https://ffmpeg.org/ffmpeg.html
  * https://libav.org/documentation/
  * https://trac.ffmpeg.org/wiki/FFprobeTips
- * http://sonnati.wordpress.com/2012/10/19/ffmpeg-the-swiss-army-knife-of-internet-streaming-part-vi/
- * https://opencast.jira.com/wiki/display/MHDOC/ETH+Zurich's+FFmpeg+encoding+profiles
  * https://trac.ffmpeg.org/wiki/Concatenate *1
- * http://dranger.com/ffmpeg/tutorial01.html
  * http://developer.download.nvidia.com/compute/redist/ffmpeg/1511-patch/FFMPEG-with-NVIDIA-Acceleration-on-Ubuntu_UG_v01.pdf
  * http://joinbox.github.io/dash-video/
+
+
+TUTORIALS
+---------
+
+ * http://sonnati.wordpress.com/2012/10/19/ffmpeg-the-swiss-army-knife-of-internet-streaming-part-vi/
+ * https://opencast.jira.com/wiki/display/MHDOC/ETH+Zurich's+FFmpeg+encoding+profiles
+ * http://dranger.com/ffmpeg/tutorial01.html
+ * https://github.com/leandromoreira/ffmpeg-libav-tutorial
+
 
 
 NOTES
