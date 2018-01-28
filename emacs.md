@@ -1,6 +1,8 @@
 EMACS
 =====
 
+![Moving CLI and emacs](imgs/moving_cli.png)
+
 LINKS:
 ------
 * https://www.gnu.org/software/emacs/
