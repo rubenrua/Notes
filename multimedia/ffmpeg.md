@@ -151,3 +151,15 @@ ffmpeg -v warning -i $1 -i $palette -lavfi "$filters [x]; [x][1:v] paletteuse" -
 ```
 
 http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html
+
+##### Create adaptive streaming
+
+Dash:
+```
+ffmpeg -f avfoundation -s 1280x720 -r 30 -i 0:0 -vcodec libx264 -preset ultrafast -keyint_min 0 -g 120 -b:v 1000k -ac 2 -strict 2 -acodec aac -b:a 64k -map 0:v -map 0:a -f dash -min_seg_duration 4000 -use_template 1 -use_timeline 0 -init_seg_name init-\$RepresentationID\$.mp4 -media_seg_name test-\$RepresentationID\$-\$Number\$.mp4 test.mpd
+```
+
+HLS:
+```
+ffmpeg -f avfoundation -s 1280x720 -r 30 -i 0:0 -vcodec libx264 -preset ultrafast -keyint_min 0 -g 120 -b:v 1000k -ac 2 -strict 2 -acodec aac -b:a 64k -map 0:v -map 0:a -f hls -hls_time 8 test.m3u8
+```
