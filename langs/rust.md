@@ -24,4 +24,4 @@ Other
 * https://github.com/rochacbruno/py2rs (For Pythonistas)
 * https://aochagavia.github.io/blog/rocket---a-rust-game-running-on-wasm/ (wasm)
 * https://coaxion.net/blog/category/rust/ (GStreamer)
-
+* https://gist.github.com/jonathandturner/f529be1ed6e25f06952f0600dcfa9a3d (emacs)
