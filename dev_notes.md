@@ -119,6 +119,7 @@ QA
 * http://www.catb.org/esr/faqs/smart-questions.html
 * http://www.chiark.greenend.org.uk/~sgtatham/bugs.html
 * https://medium.com/@fesja/10-skills-you-must-have-to-be-a-great-qa-40ee58232599#.sqdeviiap
+* http://fantasai.inkedblade.net/style/talks/filing-good-bugs/
 
 JUNIOR
 ------
