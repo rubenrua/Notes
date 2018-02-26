@@ -20,7 +20,7 @@ Tips
 * http://www.catb.org/esr/structure-packing/
 * http://www.catonmat.net/blog/simple-ld-preload-tutorial/ (http://occams-razor.webs.uvigo.es/download/occams-razor-01-03.pdf)
 * http://lxr.free-electrons.com/source/Documentation/assoc_array.txt
-* http://jpauli.github.io/2016/11/30/on-c-performances.html
+* http://blog.jpauli.tech/2016/11/30/on-c-performances.html
 
 Tools
 -----
