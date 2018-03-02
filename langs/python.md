@@ -26,6 +26,18 @@ Tools
  * https://pypi.python.org/pypi/virtualenv
 
 
+Snippet
+-------
+
+```python
+from ctypes import cdll
+
+#nm -g libembed.so
+lib = cdll.LoadLibrary("target/release/libembed.so")
+
+lib.process()
+```
+
 Other
 -----
 
