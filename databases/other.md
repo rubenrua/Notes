@@ -24,3 +24,4 @@ Links about DDBB
 -----------------
 
 * https://schema.org
+* https://brandur.org/acid
