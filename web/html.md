@@ -30,7 +30,6 @@ http://www.quackit.com/html_5/tags/html_wbr_tag.cfm
 
 * Input with camera access
 
-
 ```html
 Record camera video
 <input type="file" accept="video/*" capture="camcorder">
@@ -45,6 +44,9 @@ http://www.csslab.cl/ejemplos/cam.html
 
 Support: Safari Mobile 6. Android Browser 3.0, Android Chrome 0.16, Firefox Mobile 10.0.
 
+* Select multiple
+
+Row input element with good UX in mobiles and bad UX in desktops (see select2)
 
 Links
 ------
