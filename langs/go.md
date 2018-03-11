@@ -10,8 +10,8 @@ TOOLS
  ```
 https://dave.cheney.net/2014/09/14/go-list-your-swiss-army-knife
 
-Sadnes
-------
+Sadness
+-------
 
 * Where Collection Functions: filter, map...
 * GOPATH; Why no local? Fixed in 1.9
@@ -30,4 +30,5 @@ Other
 * http://www.barrucadu.co.uk/posts/2016-08-25-three-months-of-go.html
 * https://goreportcard.com
 * https://github.com/golang/go/wiki/ExperienceReports
+* http://brendanjryan.com/golang/profiling/2018/02/28/profiling-go-applications.html
 
