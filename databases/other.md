@@ -4,6 +4,7 @@ Other
 * Column NoSQL:
 
   * http://cassandra.apache.org/  Tabular NoSQL in Java for massive amounts of (write) data.
+  * https://clickhouse.yandex/ (BI: reddash y superset).
 
 * Key-value NoSQL:
 
