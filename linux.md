@@ -195,9 +195,11 @@ ssh -p 2222 localhost && wget localhost:8080
 See: http://www.vicente-navarro.com/blog/2009/05/24/creando-tuneles-tcpip-port-forwarding-con-ssh-los-8-escenarios-posibles-usando-openssh/
 
 See also: https://ngrok.com and [socks](https://www.linode.com/docs/networking/ssh/setting-up-an-ssh-tunnel-with-your-linode-for-safe-browsing)
+
+
 ## LINKS:
 
 * https://github.com/0xAX/linux-insides
 * http://wiki.openvz.org/Package_managers
 * http://www.vicente-navarro.com/blog/2009/06/13/reenvio-dinamico-de-puertos-montar-un-servidor-socks-con-ssh/
-*
+* autojump - https://olivierlacan.com/posts/cd-is-wasting-your-time/
