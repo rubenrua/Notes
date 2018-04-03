@@ -11,6 +11,7 @@ Preguntas para entrevistas:
 * ¿Habla de Teoría de la complejidad computacional? [wikipedia](https://en.wikipedia.org/wiki/Computational_complexity_theory
 * Que huele mal en el código: http://blog.ircmaxell.com/2017/07/ponderings-on-odoriferous-syntactical.html y https://github.com/campusdomar/PuMuKIT2/blob/2.3.x/src/Pumukit/CoreBundle/Command/ImportFileToMMOCommand.php
 * WEB: xsendfile, faceted search, fast http client...
+* JUNIOR: GitHub, Linux, pet projects...
 
 LINKS
 =====
@@ -22,5 +23,3 @@ LINKS
 * https://medium.freecodecamp.org/how-to-interview-as-a-developer-candidate-b666734f12dd
 * https://github.com/h5bp/Front-end-Developer-Interview-Questions/
 * http://javisantana.com/2017/11/02/hiring-en-un-startup.html
-
-
