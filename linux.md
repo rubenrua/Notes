@@ -7,6 +7,14 @@
 
 https://beyondgrep.com/feature-comparison/
 
+### `BI` with linux tools:
+```sh
+grep XXXX data_access.log | sort | uniq -c | sort -h
+cut -d " " -f 2 data_access.log | grep XXXX | sort | uniq -c | sort -h | sed 's/\s\+/ /g'
+```sh
+
+https://www.thegeekstuff.com/2013/06/cut-command-examples
+
 ### Execute xargs in parallel
 ```sh
 find src -type f -name "*.php" -print0 | xargs -0 -n1 -P8 php -l
