@@ -24,6 +24,12 @@ Conf
  * http://blog.jpauli.tech/2015/03/05/opcache.html#configuring-opcache and http://librosweb.es/tutorial/la-nueva-extension-opcache-de-php-55/ and https://symfony.com/doc/current/performance.html
    * Mind your `opcache.max_accelerated_files` ini setting: Just saw a 100% perf increase, the default (2000) is not enough.
 
+Performance
+-------
+
+* https://tideways.io/profiler/blog/essential-macro-optimizations-to-improve-php-performance
+* https://symfony.com/doc/current/performance.html
+* (Not use PHP)
 
 Tools
 -----
