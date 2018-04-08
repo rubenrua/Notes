@@ -23,8 +23,9 @@ printf %s\\n {0..99} | xargs -n 1 -P 8 script-to-run.sh input/ output/
 cat commands.sh | xargs -P4  -I "{}" sh -c "{}"
 ```
 
-https://stackoverflow.com/questions/28357997/running-programs-in-parallel-using-xargs
 Note: See also `parallel`.
+https://stackoverflow.com/questions/28357997/running-programs-in-parallel-using-xargs
+https://mike42.me/blog/how-to-use-parallel-to-speed-up-your-work
 
 ### Trace the Execution
 ```sh
