@@ -11,9 +11,10 @@ https://beyondgrep.com/feature-comparison/
 ```sh
 grep XXXX data_access.log | sort | uniq -c | sort -h
 cut -d " " -f 2 data_access.log | grep XXXX | sort | uniq -c | sort -h | sed 's/\s\+/ /g'
-```sh
+```
 
 https://www.thegeekstuff.com/2013/06/cut-command-examples
+https://github.com/dbohdan/structured-text-tools
 
 ### Execute xargs in parallel
 ```sh
