@@ -9,6 +9,7 @@ Libs and Apps:
 * FFmpeg: https://ffmpeg.org
 * GStraemer: http://gstreamer.freedesktop.org
 * MP4 Box: https://gpac.wp.mines-telecom.fr/mp4box/
+* Rust-AV: https://github.com/rust-av
 
 WEB PLAYER:
 -----------
