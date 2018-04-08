@@ -15,6 +15,7 @@ cut -d " " -f 2 data_access.log | grep XXXX | sort | uniq -c | sort -h | sed 's/
 
 https://www.thegeekstuff.com/2013/06/cut-command-examples
 https://github.com/dbohdan/structured-text-tools
+https://www.datascienceatthecommandline.com
 
 ### Execute xargs in parallel
 ```sh
