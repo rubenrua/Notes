@@ -170,3 +170,11 @@ ffmpeg -f avfoundation -s 1280x720 -r 30 -i 0:0 -vcodec libx264 -preset ultrafas
 ffmpeg -i input.wav -af "aeval='-val(0)':c=same" output.wav
 ffmpeg -i {} -acodec aac -ab 128k -ac 1 -af pan="stereo:c0=c0:c1=-1*c1" -ar 44100 -vcodec libx264 -r 25 -crf 22 -pix_fmt yuv420p -s 1280x720 -threads 0 -strict -2 {}
 ```
+
+##### Raw video
+
+```
+ffmpeg -i test.mp4 -c:v rawvideo -pix_fmt yuv420p test.yuv
+ffplay -f rawvideo -pix_fmt yuv420p -s 1280x720 -i test.yuv
+```
+
