@@ -48,6 +48,22 @@ Support: Safari Mobile 6. Android Browser 3.0, Android Chrome 0.16, Firefox Mobi
 
 Row input element with good UX in mobiles and bad UX in desktops (see select2)
 
+* Select with available options (datalist).
+
+```html
+<label for="myBrowser">Choose a browser from this list:</label>
+<input list="browsers" id="myBrowser" name="myBrowser" />
+<datalist id="browsers">
+  <option value="Chrome">
+  <option value="Firefox">
+  <option value="Internet Explorer">
+  <option value="Opera">
+  <option value="Safari">
+  <option value="Microsoft Edge">
+</datalist>
+```
+
+
 Links
 ------
 
