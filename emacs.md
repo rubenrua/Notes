@@ -35,6 +35,7 @@ COMMANDS:
 * C-g keyboard-quit - Cancel a command or dialog.
 * M-/ dabbrev-expand - Expand previous word "dynamically".
 * M-% query-replace - Interactive replace.
+* C-s C-w C-s: (isearch) Select the (rest of the) word the TextCursor is on as the search string.
 * find-name-dired: Search DIR recursively for files matching the globbing pattern
 * find-dired: Run `find' and go into Dired mode on a buffer of the output.
 * re-builder: Construct a regexp interactively.
