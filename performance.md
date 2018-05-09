@@ -9,6 +9,7 @@ LINKS
 
  * http://www.brendangregg.com/linuxperf.html
  * http://netdata.firehol.org/ ([demo](https://london.my-netdata.io/default.html))
+ * https://grafana.com/ ([demo](https://play.grafana.org))
  * https://goaccess.io/
  * https://fast.com/
 
