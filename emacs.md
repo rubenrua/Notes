@@ -32,6 +32,7 @@ COMMANDS:
 * C-h k describe-key - Describe which function a specific shortcut will evoke
 * C-h f describe-function - Show docstring for a given function
 * M-x execute-extended-command - Run a command by name.
+* C-u M-! - Insert the output of shell command into emacs buffer
 * C-g keyboard-quit - Cancel a command or dialog.
 * M-/ dabbrev-expand - Expand previous word "dynamically".
 * M-% query-replace - Interactive replace.
