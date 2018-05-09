@@ -11,6 +11,14 @@ LINKS
 * http://rustbyexample.com
 
 
+Waiting
+------
+
+* Default values for struct fields: https://github.com/rust-lang/rfcs/issues/1594
+* Functions with keyword args, optional args, and/or variable-arity argument (varargs) lists: https://github.com/rust-lang/rfcs/issues/323
+* Generic SQL bindings: https://github.com/rust-lang/rfcs/issues/798
+
+
 Other
 -------
 
