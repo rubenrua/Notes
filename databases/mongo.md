@@ -37,6 +37,16 @@ db.MultimediaObject.find({"tags":{$elemMatch:{"$in":[null], "$exists":true}}})
 ```
 http://stackoverflow.com/questions/15335197/mongodb-query-array-with-null-values
 
+* Index info query
+
+```mongo
+db.collection.totalIndexSize()
+db.collection.stats().indexSizes
+db.getCollectionNames().map(name => ({totalIndexSize: db.getCollection(name).stats().totalIndexSize, name: name})).sort((a, b) => a.totalIndexSize - b.totalIndexSize).forEach(printjson)
+db.serverStatus().tcmalloc.tcmalloc.formattedString
+```
+
+https://docs.mongodb.com/manual/tutorial/ensure-indexes-fit-ram/ and https://docs.mongodb.com/v3.2/faq/diagnostics/
 
 SAD
 ---
@@ -51,3 +61,4 @@ Links
 
  * https://docs.mongodb.org/compass/
  * https://docs.mongodb.com/ecosystem/tools/administration-interfaces/
+ * https://www.datadoghq.com/blog/collecting-mongodb-metrics-and-statistics/
