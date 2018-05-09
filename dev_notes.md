@@ -131,8 +131,8 @@ JUNIOR
 Other
 -----
 
-* http://blog.plover.com/prog/burritos.html
-* http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/
+* Monads: http://blog.plover.com/prog/burritos.html and https://philipnilsson.github.io/Badness10k/escaping-hell-with-monads/
+* Async: http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/
 * https://www.enterpriseready.io/ ([src](https://github.com/enterpriseready/enterpriseready)) (+i18n +a11y)
 * https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
 * https://12factor.net/
