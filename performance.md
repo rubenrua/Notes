@@ -95,3 +95,4 @@ OTHER
 -----
 
  * https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/
+ * See performance in databases/sql.md

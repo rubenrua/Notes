@@ -14,3 +14,7 @@
 
 
 http://www.linuxjournal.com/content/mariadbmysql-postgresql-and-sqlite3-comparing-command-line-interfaces
+
+## Performance
+
+* https://github.com/akopytov/sysbench
