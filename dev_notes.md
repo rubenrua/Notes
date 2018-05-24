@@ -50,6 +50,9 @@ If your software developers are able to accurately estimate how long something w
 Community > Docs > Code
 — Fabien Potencier
 
+More: https://twitter.com/CodeWisdom
+
+
 ![software values table](imgs/SW_values_table.jpg)
 
 
