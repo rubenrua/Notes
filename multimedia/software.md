@@ -101,4 +101,5 @@ OTHER
 * https://github.com/voc/voctomix
 * https://github.com/slampunk/ghettostudio
 * http://www.telestream.net/wirecast/overview.htm (private)
+* https://www.vmix.com (private)
 * https://www.techsmith.com/camtasia.html (private)
