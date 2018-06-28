@@ -72,6 +72,7 @@ Media Managers
 * PuMuKIT: http://pumukit.org
 * Matterhorn: http://opencast.org
 * MediaMosa: http://www.mediamosa.org/
+* PeerTube: https://github.com/Chocobozzz/PeerTube
 * Resourcespace: http://www.resourcespace.org/
 * MediaCore: http://mediacore.com/
 * Avalon: http://www.avalonmediasystem.org/
