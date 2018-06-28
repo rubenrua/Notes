@@ -85,6 +85,7 @@ Media Managers
 * Panoptoo: https://www.panopto.com (private)
 * Kaltura: http://corp.kaltura.com (private)
 * MediaSite: http://www.sonicfoundry.com/mediasite/ (private)
+* SlidesLive: https://slideslive.com/ (private)
 * ...
 
 
