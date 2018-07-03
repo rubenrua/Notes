@@ -19,6 +19,10 @@ Other
   * http://lucene.apache.org/solr
   * https://www.elastic.co
 
+* Other:
+
+  * https://www.pingcap.com/ TiDB is an open source distributed scalable hybrid transactional and analytical processing (HTAP) database.
+
 
 
 Links about DDBB
