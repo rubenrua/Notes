@@ -28,6 +28,8 @@ TOOLS & PLATFORMS
  * Awesome-webrtc: https://github.com/openrtc-io/awesome-webrtc
  * https://github.com/bitfly-p2p/
  * https://www.kurento.org/
+ * https://openvidu.io
+ * https://github.com/medooze/media-server-node
  * http://www.openwebrtc.org/
  * http://lynckia.com/licode/
  * https://jitsi.org
