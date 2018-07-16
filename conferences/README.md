@@ -33,6 +33,7 @@ Conferences
 ----
 
 * 26-04-2018 PHP Vigo - [What is Openshift and how can boost my productivity?](http://redhat.slides.com/jruarive/phpvigo21/fullscreen?token=58J5fuvw)
+* 20-06-2018 JS Vigo, GDG Vigo and GalsTech - Afternoon Web Components [intro](https://docs.google.com/presentation/d/1-qquKA1VOyRaYcUm-_fC4sb1ZWiHNdkR_9PNFNeJW4k/mobilepresent?slide=id.g36703c151f_0_60) and [lit-html](https://docs.google.com/presentation/d/1Bxbrp8GXpE86-3mLULY2OF7Wne-1LXzmLoqNLhxE1Mc/edit#slide=id.g36849c2f67_0_527)
 
 Tools
 -----
