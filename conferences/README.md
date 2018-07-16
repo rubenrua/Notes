@@ -28,6 +28,12 @@ Conferences
 * 14-12-2017 Vigo Labs - [Introducción a Blockchain](20171214-VigoLabs-Blockchain.md) by xoanteis
 * 16-12-2017 [GDG DevFest Galicia](20171216-devfestgal.md)
 
+
+2018
+----
+
+* 26-04-2018 PHP Vigo - [What is Openshift and how can boost my productivity?](http://redhat.slides.com/jruarive/phpvigo21/fullscreen?token=58J5fuvw)
+
 Tools
 -----
 * https://github.com/hakimel/reveal.js
