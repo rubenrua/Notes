@@ -37,6 +37,7 @@ Phrases
 * Si pagas con cacahuetes, tendrás monos.
 * Sólo hay algo más caro que formar a las personas y que se marchen: no formarlos y que se queden.
 * Morirse de éxito.
+* Mas caro el collar que el perro.
 * Nobody is too busy. It's just a matter of priorities.
 * Assign work to teams instead of people to work.
 * Being one team. Transparencia.
