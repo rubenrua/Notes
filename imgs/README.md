@@ -31,12 +31,12 @@ LOL (laughing out loud)
 Gifs
 ------
 
-![Cookie Monster waiting](gifs/Cookie Monster waiting.gif)
-![Feels down](gifs/Feels down.gif)
-![Geek Codding](gifs/Geek Codding.gif)
+![Cookie Monster waiting](gifs/Cookie_Monster_waiting.gif)
+![Feels down](gifs/Feels_down.gif)
+![Geek Codding](gifs/Geek_Codding.gif)
 ![Lemings](gifs/Lemings.gif)
-![Linus Fuck You](gifs/Linus Fuck You.gif)
-![Well done](gifs/Well done.gif)
+![Linus Fuck You](gifs/Linus_Fuck_You.gif)
+![Well done](gifs/Well_done.gif)
 ![ohhhhh](gifs/ohhhhh.gif)
 ![pena](gifs/pena.gif)
 ![automatic failover](gifs/automatic-failover.gif)
