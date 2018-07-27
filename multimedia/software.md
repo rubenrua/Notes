@@ -8,6 +8,7 @@ Libs and Apps:
 * VLC: http://www.videolan.org/vlc/index.html [[bug]](https://trac.videolan.org/vlc/ticket/35)
 * FFmpeg: https://ffmpeg.org
 * GStraemer: http://gstreamer.freedesktop.org
+* Membrane: https://www.membraneframework.org/
 * MP4 Box: https://gpac.wp.mines-telecom.fr/mp4box/
 * Rust-AV: https://github.com/rust-av
 
