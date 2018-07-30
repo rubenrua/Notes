@@ -22,6 +22,11 @@ Tips
 git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
 ```
 
+* When a string was added/deleted in the repo.
+```sh
+git log -S caca
+```
+
 * Git alias. Add in `~/.gitconfig`
 ```ini
 [alias]
