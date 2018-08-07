@@ -63,7 +63,9 @@ Speech to text
 --------------
 
 * CMU Sphinx: https://cmusphinx.github.io
+* PocketSphinx: https://github.com/cmusphinx/pocketsphinx
 * Mozilla DeepSpeech: https://github.com/mozilla/DeepSpeech
+* Picovoice Cheetah: http://picovoice.ai/
 
 
 Media Managers
