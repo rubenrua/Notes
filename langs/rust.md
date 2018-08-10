@@ -11,6 +11,13 @@ LINKS
 * http://rustbyexample.com
 
 
+FFI
+-----
+* https://doc.rust-lang.org/beta/nomicon/index.html
+* https://github.com/rust-lang-nursery/rust-bindgen [(doc)](https://rust-lang-nursery.github.io/rust-bindgen/)  (C/C++ -> Rust FFI bindings)
+* https://github.com/eqrion/cbindgen [(~doc)](https://michael-f-bryan.github.io/rust-ffi-guide/) (rust -> C bindings)
+
+
 Waiting
 ------
 
