@@ -213,4 +213,5 @@ See also: https://ngrok.com and [socks](https://www.linode.com/docs/networking/s
 * https://github.com/0xAX/linux-insides
 * http://wiki.openvz.org/Package_managers
 * http://www.vicente-navarro.com/blog/2009/06/13/reenvio-dinamico-de-puertos-montar-un-servidor-socks-con-ssh/
-* autojump - https://olivierlacan.com/posts/cd-is-wasting-your-time/
+* autojump - https://olivierlacan.com/posts/cd-is-wasting-your-time/ (See https://github.com/clvv/fasd)
+* https://tldr.sh (alternative to man pages)
