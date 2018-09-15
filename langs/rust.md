@@ -26,6 +26,13 @@ Waiting
 * Generic SQL bindings: https://github.com/rust-lang/rfcs/issues/798
 
 
+Concepts
+--------
+
+* https://jvns.ca/blog/2017/11/27/rust-ref/
+* http://stevedonovan.github.io/rustifications/2018/08/18/rust-closures-are-hard.html
+
+
 Other
 -------
 
@@ -41,4 +48,3 @@ Other
 * https://coaxion.net/blog/category/rust/ (GStreamer)
 * https://gist.github.com/jonathandturner/f529be1ed6e25f06952f0600dcfa9a3d (emacs)
 * https://readrust.net
-
