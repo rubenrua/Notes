@@ -29,7 +29,7 @@ Links
 * https://novobrief.com/15-lessons-from-the-top-ctos-in-spain/
 * https://beberlei.de/2017/03/13/how_to_complete_a_side_project_and_turn_it_into_a_business_level1.html
 
-Phrases
+Quotes
 ---------------
 * "Never fear failure" Steve Jobs
 * Si quieres que algo se haga, contrólalo. Si quieres que algo se haga mejor, págalo. Si quieres que algo se haga mucho mejor, págalo mucho mejor. (En busca de la excelencia: Tom Peters)

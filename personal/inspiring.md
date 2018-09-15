@@ -11,7 +11,7 @@ Songs
 -----
  * see songs.md
 
-Phrases
+Quotes
 -------
  * "Hacer menos cosas pero hacerlas mejor."
  * "Que tu pereza nunca supere tu curiosidad"
