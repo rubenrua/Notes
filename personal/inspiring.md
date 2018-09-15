@@ -23,6 +23,7 @@ Phrases
  * "Intenta cada día ser un poco más sabio de lo que eras cuando despertaste. Día a día, y al final, si vives lo suficiente, como la mayoría de la gente, vas a recibir de la vida lo que te mereces". Charlie Munger
  * "Todo debería hacerse tan simple como sea posible, pero no más que eso." Albert Einstein
  * "La única la inmutable es que todo cambia".
+ * "Stop managing your time. Start managing your focus." @robinsharma
  * See startups.md and dev_notes.md
 
 Presentations
