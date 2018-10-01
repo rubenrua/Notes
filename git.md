@@ -102,6 +102,8 @@ git push --set-upstream origin totallyNotMasterInOrigin #or edit .git/config
 git pull --prune
 ```
 
+See `git configure remote.origin.prune true`
+
 * Delete commits from the remote repo using other branch (https://youtu.be/mdZvYyIKURo)
 ```sh
 git branch -D master
