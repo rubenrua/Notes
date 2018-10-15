@@ -5,6 +5,7 @@ PAAS
 Transcoder
 -----------
 
+* https://github.com/NYTimes/video-transcoding-api (agnostic API for different cloud services)
 * https://zencoder.com/
 * https://aws.amazon.com/elastictranscoder/
 * https://www.encoding.com/

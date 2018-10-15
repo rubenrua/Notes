@@ -105,3 +105,4 @@ OTHER
 * http://www.telestream.net/wirecast/overview.htm (private)
 * https://www.vmix.com (private)
 * https://www.techsmith.com/camtasia.html (private)
+* https://github.com/snickers/snickers (open source alternative to the existent cloud encoding services)
