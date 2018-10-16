@@ -98,3 +98,8 @@ SELECT id, serial_id, status_id FROM mm INNER JOIN (SELECT mm_id FROM file WHERE
 ```
 
 https://dev.mysql.com/doc/refman/5.7/en/group-by-functions.html
+
+
+### OTHER
+
+* Use charset `utf8mb4` collate `utf8mb4_unicode_ci`.
