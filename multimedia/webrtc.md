@@ -18,6 +18,7 @@ SAMPLES & TUTORIALS
  * http://html5-demos.appspot.com/static/getusermedia/record-user-webm.html
  * https://developer.chrome.com/extensions/desktopCapture
  * https://deepstreamhub.com/tutorials/protocols/webrtc-intro/
+ * Other: [python3](https://github.com/jlaine/aiortc.git), [gstreamer](https://github.com/centricular/gstwebrtc-demos)
 
 
 TOOLS & PLATFORMS
