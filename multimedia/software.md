@@ -41,7 +41,7 @@ Compare:
 | Styling VTT         |      ?        |               |      x     |
 | DXFT captions       |               |      x        |            |
 | Multi-lang captions |      x        |      x        |      x     |
-| Soft-trimming       |      x        |               |            |
+| Soft-trimming       |               |      x        |            |
 
 
 
