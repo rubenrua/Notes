@@ -31,3 +31,7 @@ ANTES
 2017
  * Lonely Boy (The Black & The Chubby - https://www.youtube.com/watch?v=xchD-JKAdwg boda HyR)
  * Uptown Funk ft. Bruno Mars (boda HyR)
+
+2018
+ * This is Halloween - Broken Peach (E)
+ * Vaiana BSO "Que hay mas alla" (E)
