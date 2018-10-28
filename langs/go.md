@@ -15,10 +15,10 @@ Sadness
 
 * Where Collection Functions: filter, map...
 * GOPATH; Why no local? Fixed in 1.9
-* List dependecies. Not exist a list in a metadata file.
-* `err` everywere
+* Manage and List dependecies. Not exist a list in a metadata file. Check go2
+* `err` everywere. Check go2
 * Goroutines vs everybody (async/await)
-* No generics
+* No generics. Check go2
 
 
 
