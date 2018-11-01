@@ -50,6 +50,9 @@ If your software developers are able to accurately estimate how long something w
 Community > Docs > Code
 — Fabien Potencier
 
+A complex system that works is invariably found to have evolved from a simple system thot worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a simple system.
+— John Gall
+
 More: https://twitter.com/CodeWisdom
 
 
