@@ -178,6 +178,13 @@ git stash drop stash@{0}
 git clone --depth 1 your_repo_url
 ```
 
+*  Sync repos
+```sh
+# Note the period for cwd >>>>>>>>>>>>>>>>>>>>>>>> v
+git clone --bare https://your-source-repo/repo.git .
+git push --mirror https://your-destination-repo/repo.git
+```
+
 * Sharing tags
 ```sh
 git push --tags
