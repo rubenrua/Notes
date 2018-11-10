@@ -35,6 +35,7 @@ Conferences
 * 26-04-2018 PHP Vigo - [What is Openshift and how can boost my productivity?](http://redhat.slides.com/jruarive/phpvigo21/fullscreen?token=58J5fuvw)
 * 10-05-2018 Vigo JUG - [JDK 9, 10, 11 and Beyond](https://github.com/vigojug/talk-vigojug-2018-JDK-9-10-11-and-Beyond)
 * 20-06-2018 JS Vigo, GDG Vigo and GalsTech - Afternoon Web Components [intro](https://docs.google.com/presentation/d/1-qquKA1VOyRaYcUm-_fC4sb1ZWiHNdkR_9PNFNeJW4k/mobilepresent?slide=id.g36703c151f_0_60) and [lit-html](https://docs.google.com/presentation/d/1Bxbrp8GXpE86-3mLULY2OF7Wne-1LXzmLoqNLhxE1Mc/edit#slide=id.g36849c2f67_0_527)
+* 08-11-2018 VigoJug & SysadminGalicia - [Trucos para meyorar o teu Workflow](20181108-SysAdminGalicia-workflow.md)
 
 Tools
 -----
