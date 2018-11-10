@@ -8,7 +8,7 @@
 * Presentation assistant: Plugin shows shortcuts.
 * [No Tabs in IntelliJ IDEA](https://hadihariri.com/2014/06/24/no-tabs-in-intellij-idea/)
 * [Mastering the "new" Android Studio en Codemotion 2016](https://www.youtube.com/watch?v=cPz6h7R-6Q0)
-* TODO Add mooc about IntelliJ ()
+* TODO Add link to the mooc about IntelliJ????
 
 
 ## "Utilidades esenciales con Python" por Alex Hermida
@@ -18,7 +18,7 @@
 * Youtube-dl
 * Watchdog (whachmedia)
 * Pgcli (hay para MySQL)
-* Asciinema (IDEA integrar en paella player) micro a go y volvió
+* Asciinema (IDEA integrar en paella player, micro a go y volvió)
 
 
 ## "Organizando el trabajo con los taberlos de GitHub/GitLab" por Lucía Pérez
@@ -35,9 +35,7 @@
 
 ## "O poder da consola con TMUX" por Eloy Coto
 
-AUTONOTE: https://tldr.ostera.io/tmux
-AUTONOTE: Use CTL+a CTL+a (set -g prefix C-a C-a)
-AUTONOTE: `script` terminal to a file
+AUTONOTE: https://tldr.ostera.io/tmux - Use CTL+a CTL+a (set -g prefix C-a C-a) - `script` terminal to a file
 
 * Unha boa presentación: https://www.slideshare.net/jasonlotito/tmux-17005278
 * A miña configuración: https://github.com/eloycoto/dotfiles/blob/master/tmux.conf
@@ -47,14 +45,15 @@ AUTONOTE: `script` terminal to a file
 
 ## "Bash(ta) ya de teclear" por Eduardo Díaz
 
+```
 $ pushd
 $ cd ~2
 $ cat << EOF
 1234
 EOF
 $ cat <<< "1234"
-
 >>>>> CTRL + R <<<<
+```
 
 AUTONOTE: autojump (see fasd) > cd
 
@@ -64,8 +63,10 @@ AUTONOTE: autojump (see fasd) > cd
 * alacritty terminal
 * Nmtui
 
+AUTONOTE: Try i3wm, tmux, vim and an USA keyboard?? (I♥emacs)
 
 ## Beers
 
+* https://remysharp.com/2018/08/23/cli-improved
 * [My notes](/linux.md)
 * https://black.readthedocs.io/en/stable/
