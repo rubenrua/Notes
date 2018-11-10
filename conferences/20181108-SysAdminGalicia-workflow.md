@@ -1,4 +1,4 @@
-# Trucos para meyorar o teu Workflow
+# Trucos para mellorar o teu Workflow
 
 08-11-2018 https://www.meetup.com/en-AU/VigoJUG/events/255662689/
 
