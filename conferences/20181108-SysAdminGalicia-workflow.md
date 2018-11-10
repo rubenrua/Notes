@@ -3,7 +3,7 @@
 08-11-2018 https://www.meetup.com/en-AU/VigoJUG/events/255662689/
 
 
-## "Trucos con IntelliJ Idea (ou Android Studio)" por Saul Molinero
+## "Trucos con IntelliJ Idea (ou Android Studio)" por Saúl Molinero
 
 * Presentation assistant: Plugin shows shortcuts.
 * [No Tabs in IntelliJ IDEA](https://hadihariri.com/2014/06/24/no-tabs-in-intellij-idea/)
