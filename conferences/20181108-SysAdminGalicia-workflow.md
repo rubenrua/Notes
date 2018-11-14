@@ -8,11 +8,12 @@
 * Presentation assistant: Plugin shows shortcuts.
 * [No Tabs in IntelliJ IDEA](https://hadihariri.com/2014/06/24/no-tabs-in-intellij-idea/)
 * [Mastering the "new" Android Studio en Codemotion 2016](https://www.youtube.com/watch?v=cPz6h7R-6Q0)
-* TODO Add link to the mooc about IntelliJ????
+* Mooc about IntelliJ: https://javaspecialists.teachable.com/p/intellij-wizardry
 
 
 ## "Utilidades esenciales con Python" por Alex Hermida
 
+* Link: https://github.com/alexhermida/talks/tree/master/python-tools
 * Pipsi (by flask creator)
 * Httpie
 * Youtube-dl
@@ -60,6 +61,9 @@ AUTONOTE: autojump (see fasd) > cd
 
 ## "Linux sen adornos: i3wm" por Antón Rodríguez
 
+* O meu ficheiro de configuración (seguro que hai mellores tirando do Google): https://gist.github.com/antonmry/ba74d990a5e2424dddd92a05307e88fc
+* Videos sobre i3 onde está mellor explicado (ou polo menos, a configuración é máis estandar): https://www.youtube.com/watch?v=j1I63wGcvU4
+* Unix porn: https://www.reddit.com/r/unixporn/
 * alacritty terminal
 * Nmtui
 
