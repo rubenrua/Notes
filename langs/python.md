@@ -24,7 +24,8 @@ Tools
  * http://mypy-lang.org
  * https://flake8.pycqa.org/en/latest/
  * https://pypi.python.org/pypi/virtualenv
-
+ * https://black.readthedocs.io/en/stable/
+ * https://lgtm.com/ (saas)
 
 Other
 -----
