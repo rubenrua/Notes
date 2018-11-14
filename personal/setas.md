@@ -59,4 +59,4 @@ Amanita phalloydes
 * http://es.wikipedia.org/wiki/Amanita_phalloides
 * Notas: Parte de abajo esponjoso, color verde oliva
 
-|[Amanitas2](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Amanita_phalloides_young.jpg/800px-Amanita_phalloides_young.jpg)
+![Amanitas2](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Amanita_phalloides_young.jpg/800px-Amanita_phalloides_young.jpg)
