@@ -8,6 +8,7 @@ LINKS
 -----
 
  * http://www.brendangregg.com/linuxperf.html
+ * https://www.phoronix-test-suite.com/
  * http://netdata.firehol.org/ ([demo](https://london.my-netdata.io/default.html))
  * https://grafana.com/ ([demo](https://play.grafana.org))
  * https://goaccess.io/
@@ -102,5 +103,6 @@ cat /dev/dvb/adapter0/dvr0 | pv -r > /dev/null
 OTHER
 -----
 
+ * error tracking: https://sentry.io/
  * https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/
  * See performance in databases/sql.md
