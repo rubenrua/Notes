@@ -16,7 +16,6 @@ FFI
 * https://github.com/rust-lang-nursery/rust-bindgen [(doc)](https://rust-lang-nursery.github.io/rust-bindgen/)  (C/C++ -> Rust FFI bindings)
 * https://github.com/eqrion/cbindgen [(~doc)](https://michael-f-bryan.github.io/rust-ffi-guide/) (rust -> C bindings)
 
-
 Waiting
 ------
 
@@ -24,13 +23,16 @@ Waiting
 * Functions with keyword args, optional args, and/or variable-arity argument (varargs) lists: https://github.com/rust-lang/rfcs/issues/323
 * Generic SQL bindings: https://github.com/rust-lang/rfcs/issues/798
 
+Code Examples
+--------
+* https://github.com/rust-lang-nursery/rust-cookbook
+* http://zsiciarz.github.io/24daysofrust/
 
 Other
 -------
 
 * https://www.rust-lang.org/en-US/faq.html
 * https://speakerdeck.com/hywan/hello-rust-an-overview
-* http://zsiciarz.github.io/24daysofrust/
 * http://www.rustacean.net/
 * http://www.arewewebyet.org/
 * https://web.stanford.edu/class/cs140e/ (SO)
