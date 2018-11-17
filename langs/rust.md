@@ -10,9 +10,6 @@ LINKS
 * https://www.rust-lang.org
 * http://rustbyexample.com
 
-
-* https://transform.now.sh/json-to-rust-serde
-
 FFI
 -----
 * https://doc.rust-lang.org/beta/nomicon/index.html
@@ -43,4 +40,3 @@ Other
 * https://coaxion.net/blog/category/rust/ (GStreamer)
 * https://gist.github.com/jonathandturner/f529be1ed6e25f06952f0600dcfa9a3d (emacs)
 * https://readrust.net
-
