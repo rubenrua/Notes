@@ -11,6 +11,8 @@ LINKS
 * http://rustbyexample.com
 
 
+* https://transform.now.sh/json-to-rust-serde
+
 FFI
 -----
 * https://doc.rust-lang.org/beta/nomicon/index.html
