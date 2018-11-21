@@ -19,6 +19,14 @@ CHARACTER SET utf8mb4
 COLLATE utf8mb4_unicode_ci;
 ```
 
+Useful
+------
+https://en.wikibooks.org/wiki/Unicode/List_of_useful_symbols
+```
+␣ ☐ • ► - TODO
+★ ☒ ✗ ✘ - KO
+☆ ☑ ✓ ✔ - OK
+```
 
 Links
 ------
