@@ -37,6 +37,7 @@ Conferences
 * 20-06-2018 JS Vigo, GDG Vigo and GalsTech - Afternoon Web Components [intro](https://docs.google.com/presentation/d/1-qquKA1VOyRaYcUm-_fC4sb1ZWiHNdkR_9PNFNeJW4k/mobilepresent?slide=id.g36703c151f_0_60) and [lit-html](https://docs.google.com/presentation/d/1Bxbrp8GXpE86-3mLULY2OF7Wne-1LXzmLoqNLhxE1Mc/edit#slide=id.g36849c2f67_0_527)
 * XX-XX-2018 Welcome to the family.
 * 08-11-2018 VigoJug & SysadminGalicia - [Trucos para mellorar o teu Workflow](20181108-SysAdminGalicia-workflow.md)
+* 24-11-2018 NOS OPEN SPACE
 
 Tools
 -----

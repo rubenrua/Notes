@@ -1,6 +1,10 @@
 IT RRHH
 =======
 
+
+Proceso de seleccion
+====================
+
 Preguntas para entrevistas:
 
 * Continua la serie: 1, 11, 21, 1211, 111221, 312211
@@ -13,8 +17,13 @@ Preguntas para entrevistas:
 * WEB: xsendfile, faceted search, fast http client...
 * JUNIOR: GitHub, Linux, pet projects, tech info sources...
 
-LINKS
-=====
+
+Otros:
+
+* Reunion con equipo sin manager
+
+
+Links:
 
 * Mas en "Infinity Monkeys"
 * http://radar.oreilly.com/2013/11/technical-tests-youre-doing-it-wrong.html
@@ -23,3 +32,26 @@ LINKS
 * https://medium.freecodecamp.org/how-to-interview-as-a-developer-candidate-b666734f12dd
 * https://github.com/h5bp/Front-end-Developer-Interview-Questions/
 * http://javisantana.com/2017/11/02/hiring-en-un-startup.html
+
+
+ONBOARDING
+==========
+
+* Name a temporary mentor. We usually choose the last person who joined the team
+* Ask the new member to document whatever she found or she needs to ask a colleague so the next one doesn't need to do it again. It's important to have a Knowledge Base well designed and easy to use (welcome repo git)
+* Automate everything. The new member must be able to install the whole production setup in their laptop with no more than 2 commands. There is no better documentation than the automation scripts
+* Start with "good first issue" or "easy-pick"
+* Meeting with the CTO (or similar) to explain the culture of the company.
+
+
+Links:
+
+* https://twitter.com/antonmry/status/1049575284238950400
+* https://managementfromscratch.wordpress.com/2018/10/14/976/
+
+
+
+RETENER TALENTO
+===============
+
+> Y normalmente alguien elige donde trabajar basado en 4 factores: reto del trabajo, calidad del equipo, donde hay que vivir y sueldo. [@fesja](http://www.fesja.me/eran-los-sueldos-de-tuenti-desorbitados)
