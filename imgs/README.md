@@ -26,6 +26,7 @@ LOL (laughing out loud)
 ![Monolithic vs Microservices](LOL/Monolithic_vs_microservices.jpg)
 ![Hide_legacy_tech.jpg](LOL/Hide_legacy_tech.jpg)
 ![Shrek Please](LOL/Please.jpg)
+![Dynamic vs static types](LOL/dynamic_vs_static_types.jpg)
 
 
 Gifs
