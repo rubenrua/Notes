@@ -28,10 +28,16 @@ Code Examples
 * https://github.com/rust-lang-nursery/rust-cookbook
 * http://zsiciarz.github.io/24daysofrust/
 
+IDEs
+----
+* [emacs conf](http://willspeak.me/2018/12/08/racing-onwards.html) [other old](https://gist.github.com/jonathandturner/f529be1ed6e25f06952f0600dcfa9a3d)
+* https://intellij-rust.github.io/
+
 Other
 -------
 
 * https://www.rust-lang.org/en-US/faq.html
+* https://readrust.net
 * https://speakerdeck.com/hywan/hello-rust-an-overview
 * http://www.rustacean.net/
 * http://www.arewewebyet.org/
@@ -40,5 +46,3 @@ Other
 * https://github.com/rochacbruno/py2rs (For Pythonistas)
 * https://aochagavia.github.io/blog/rocket---a-rust-game-running-on-wasm/ (wasm)
 * https://coaxion.net/blog/category/rust/ (GStreamer)
-* https://gist.github.com/jonathandturner/f529be1ed6e25f06952f0600dcfa9a3d (emacs)
-* https://readrust.net
