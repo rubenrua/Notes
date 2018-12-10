@@ -50,3 +50,4 @@
 * https://certsimple-com.cdn.ampproject.org/c/s/certsimple.com/blog/nginx-http2-load-balancing-config
 * https://ilia.ws/files/nginx_torontophpug.pdf
 * Other modern HTTP reverse proxy and load balancer: https://traefik.io/
+* https://tus.io/ (open protocol for resumable uploads)
