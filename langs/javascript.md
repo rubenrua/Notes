@@ -56,19 +56,26 @@ utterance.voice = voice;
 window.speechSynthesis.speak(utterance);
 ```
 
-* The Intl.RelativeTimeFormat API
+* The Intl.RelativeTimeFormat and Intl.ListFormat API
 ```js
 // not always have to use numeric value in the output.
 const rtf = new Intl.RelativeTimeFormat('en', { numeric: 'auto' });
-
 rtf.format(-1, 'day');
 // → 'yesterday'
-
 rtf.format(0, 'day');
 // → 'today'
-
 rtf.format(-1, 'week');
 // → 'last week'
+
+const lf = new Intl.ListFormat('en');
+lf.format(['Frank']);
+// → 'Frank'
+lf.format(['Frank', 'Christine']);
+// → 'Frank and Christine'
+lf.format(['Frank', 'Christine', 'Flora']);
+// → 'Frank, Christine, and Flora'
+lf.format(['Frank', 'Christine', 'Flora', 'Harrison']);
+// → 'Frank, Christine, Flora, and Harrison'
 ```
 
 
