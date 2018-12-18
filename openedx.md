@@ -50,4 +50,18 @@ source /edx/app/edxapp/edxapp_env
 cd /edx/app/edxapp/edx-platform
 paver update_assets lms --settings=aws
 paver update_assets cms --settings=aws
+# if restart necesary
+/edx/bin/supervisorctl status
+/edx/bin/supervisorctl restart lms
+/edx/bin/supervisorctl restart cms
+tail -f /edx/var/log/{l,c}ms/edx.log
+
+```
+
+
+* Update platform
+```
+/edx/bin/update -h
+/edx/bin/update -v configuration open-release/hawthorn.master-urjcx
+/edx/bin/update -v edx-platform open-release/hawthorn.master-urjcx
 ```
