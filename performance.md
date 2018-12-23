@@ -1,4 +1,4 @@
-PERFORMANCE
+MONITORING & PERFORMANCE
 ===========
 
 ![linux observability tools](imgs/linux_perf_tools_full.svg)
@@ -80,6 +80,8 @@ cat /dev/dvb/adapter0/dvr0 | pv -r > /dev/null
 ./lmbench/bin/i686-pc-linux-gnu/bw_mem 256m rd 268.44 3913.68
 ```
 
+### HTTP
+
 * Apache HTTP server benchmarking tool (ab): https://httpd.apache.org/docs/2.4/programs/ab.html
 
 * h2load: https://nghttp2.org/documentation/h2load.1.html
@@ -87,6 +89,8 @@ cat /dev/dvb/adapter0/dvr0 | pv -r > /dev/null
 * Locust: http://locust.io/
 
 * Gatlink: https://gatling.io
+
+* GoReplay: https://goreplay.org/
 
 * NGINX: https://github.com/lebinh/ngxtop and https://github.com/vozlt/nginx-module-vts and https://goaccess.io/
 
