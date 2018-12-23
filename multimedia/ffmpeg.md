@@ -179,3 +179,11 @@ ffplay -f rawvideo -pix_fmt yuv420p -s 1280x720 -i test.yuv
 ffmpeg -pix_fmts
 ```
 
+
+##### AV1 
+
+```
+ffmpeg -i input.mp4 -c:v libaom-av1 -crf 30 -b:v 0 -strict experimental av1_test.mkv
+```
+
+
