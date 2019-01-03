@@ -20,6 +20,7 @@ LINKS
 * Managing OpenEdX Tips and Tricks: https://openedx.atlassian.net/wiki/display/OpenOPS/Managing+OpenEdX+Tips+and+Tricks
 * Migrations: https://openedx.atlassian.net/wiki/display/OPEN/Updating+Open+edX
 * Load Test: https://github.com/edx/edx-load-tests
+* Enabling XBlocks in Open edX: https://help.appsembler.com/article/176-how-to-enable-xblocks
 
 TIPS
 ----
