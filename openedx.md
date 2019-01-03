@@ -24,6 +24,13 @@ LINKS
 TIPS
 ----
 
+* Login
+```
+sudo -H -u edxapp bash
+cd
+source ~/edxapp_env
+```
+
 * Check Status:
 ```
 /edx/bin/supervisorctl status
