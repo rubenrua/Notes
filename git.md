@@ -246,6 +246,12 @@ git commit --force-with-lease
 find . \( -type d -empty \) -and \( -not -regex ./\.git.* \) -exec touch {}/.gitignore \;
 ```
 
+* Check ignore files
+```sh
+git check-ignore -v *
+```sh
+
+
 * Git remote server using SSH or file:
 ```sh
 mkdir -p git/project1.git
