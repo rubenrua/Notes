@@ -48,6 +48,12 @@ db.serverStatus().tcmalloc.tcmalloc.formattedString
 
 https://docs.mongodb.com/manual/tutorial/ensure-indexes-fit-ram/ and https://docs.mongodb.com/v3.2/faq/diagnostics/
 
+* Allow read operations to run on secondary members
+
+```mongo
+rs.slaveOk()
+```
+
 SAD
 ---
 
