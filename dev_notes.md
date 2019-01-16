@@ -111,6 +111,7 @@ Benchmarks
 
 * http://www.techempower.com/benchmarks/
 * http://benchmarksgame.alioth.debian.org/
+* https://tech.marksblogg.com/benchmarks.html
 
 ASCII
 -----
