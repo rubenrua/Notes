@@ -249,7 +249,7 @@ find . \( -type d -empty \) -and \( -not -regex ./\.git.* \) -exec touch {}/.git
 * Check ignore files
 ```sh
 git check-ignore -v *
-```sh
+```
 
 
 * Git remote server using SSH or file:
