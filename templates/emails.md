@@ -19,6 +19,7 @@
 * Espero tu pronta respuesta.
 * Quedo a la espera de vuestros comentarios/sugerencias.
 * Con esta carta quería transmitir mis sensaciones al respecto.
+* Cuando tenga más información os la trasladaré sin demora.
 
 ##### Otros:
 
@@ -33,7 +34,9 @@
 * Looking forward to your feedback and comments
 * If you have any other issues/questions, just let us know.
 * Allow me to chime in by saying that ...
+* Please feel free to contact us should you have any further questions
 * Best regards
+
 
 
 ## LINKS
