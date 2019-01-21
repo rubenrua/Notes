@@ -26,6 +26,7 @@ WEB PLAYER:
 * THEOplayer: https://www.theoplayer.com (private)
 * h5p Course Interactive Presentation: https://h5p.org/presentation (private)
 * Able Player: https://ableplayer.github.io/ableplayer/ (accessible)
+* indigo-player: https://github.com/matvp91/indigo-player (TypeScript)
 
 Compare:
 
