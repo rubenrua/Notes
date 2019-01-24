@@ -8,6 +8,7 @@ Links
 * (imagemagick) http://www.imagemagick.org/script/command-line-processing.php
 * (scikit) http://blog.yhat.com/posts/image-processing-with-scikit-image.html
 * (tesseract.js) https://github.com/naptha/tesseract.js [OCR][WEB]
+* (Compress and compare images with different codecs, right in your browser) https://squoosh.app [JS][CompressCompress]
 
 Video and Image Datesets
 ---------------
