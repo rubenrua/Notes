@@ -313,6 +313,7 @@ gitflow
 * http://nvie.com/posts/a-successful-git-branching-model/
 * https://guides.github.com/introduction/flow/
 * http://stackoverflow.com/questions/18371741/git-branching-strategy-integated-with-testing-qa-process
+* https://trunkbaseddevelopment.com (alternative)
 
 
 gitconfig
