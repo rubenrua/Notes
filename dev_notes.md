@@ -110,7 +110,7 @@ Benchmarks
 ----------
 
 * http://www.techempower.com/benchmarks/
-* http://benchmarksgame.alioth.debian.org/
+* https://benchmarksgame-team.pages.debian.net/benchmarksgame/
 * https://tech.marksblogg.com/benchmarks.html
 
 ASCII
