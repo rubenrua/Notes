@@ -43,7 +43,8 @@ Compare:
 | DXFT captions       |               |      x        |            |
 | Multi-lang captions |      x        |      x        |      x     |
 | Soft-trimming       |               |      x        |            |
-
+| PiP                 | iOS & Chrome  |               |            |
+| Chromecast          |    Chrome     |               |      x     |
 
 
 360:
