@@ -1,6 +1,8 @@
 GIT
 ===
 
+![git data transport](imgs/git.png)
+
 Tutorials
 ---------
 
@@ -325,3 +327,4 @@ other
 -----
 * https://help.github.com/articles/remove-sensitive-data/
 * https://vimeo.com/82408340
+* http://ndpsoftware.com/git-cheatsheet.html
