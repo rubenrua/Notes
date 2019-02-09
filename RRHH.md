@@ -55,3 +55,8 @@ RETENER TALENTO
 ===============
 
 > Y normalmente alguien elige donde trabajar basado en 4 factores: reto del trabajo, calidad del equipo, donde hay que vivir y sueldo. [@fesja](http://www.fesja.me/eran-los-sueldos-de-tuenti-desorbitados)
+
+What developers look for in a job:
+
+ * +++: Professional growth & learning, Work-life balancem Competitive compensation, Interesting problems to solve,  Flexibility ( schedule, remote), Company culture.
+ * ---: Preferred tech stack, Strength of engineering team, Values aligned with yours, Prestigious company brand, Workplace diversity ,Hiring manager quality, Vacation policies.
