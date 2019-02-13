@@ -1,6 +1,13 @@
 Django and Symfony
 =================
 
+One file
+--------
+https://symfony.com/doc/4.1/configuration/micro_kernel_trait.html 
+vs
+http://mlvin.xyz/django-single-file-project.html
+
+
 Request/Response objects
 ------------------------
 https://github.com/django/django/blob/master/django/http/request.py
@@ -38,7 +45,6 @@ Django contains st like a FOSUserBundle and an EasyAdminBundle
 
 DJANGO LINKS
 -------------
-* http://mlvin.xyz/django-single-file-project.html
 * https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html
 
 
