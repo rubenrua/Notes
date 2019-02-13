@@ -47,6 +47,7 @@ Quotes
 * "When people are financially invested, they want a return. When people are emotionally invested, they want to contribute" Simon Sinek
 * Cliente pideas de lo que necesita y comerciales venden lo que no tienes. CTO cargo.
 * ¿Los emprendedores nacen o se hacen? (Se contagian)
+* Only build solutions for problems that are urgent, pervasive and that the market will pay to solve.
 
 Incuvadoras vigo
 ----------------
