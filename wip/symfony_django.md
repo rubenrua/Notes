@@ -3,9 +3,9 @@ Django and Symfony
 
 One file
 --------
-https://symfony.com/doc/4.1/configuration/micro_kernel_trait.html 
-vs
-http://mlvin.xyz/django-single-file-project.html
+https://symfony.com/doc/4.1/configuration/micro_kernel_trait.html  
+vs  
+http://mlvin.xyz/django-single-file-project.html  
 
 
 Request/Response objects
