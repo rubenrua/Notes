@@ -4,6 +4,7 @@ Dev Books
 * The Architecture of Open Source Applications (http://aosabook.org/en/index.html)
 * Clean Code: A Handbook of Agile Software Craftsmanship by Robert C Martin.
 * Refactoring by Martin Fowler.
+* The Mythical Man-Month by Fred Brooks
 * High Performance Browser Networking by Ilya Grigorik (https://hpbn.co)
 
 
