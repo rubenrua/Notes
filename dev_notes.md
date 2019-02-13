@@ -83,11 +83,7 @@ Estimation
 * http://coding.abel.nu/2012/06/programmer-time-translation-table
 * https://blogs.dropbox.com/tech/2015/10/what-do-you-mean-you-need-more-time/
 
-Books
------
 
-* https://hpbn.co
-* http://aosabook.org/en/index.html
 
 Langs
 -----
