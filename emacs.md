@@ -40,7 +40,7 @@ COMMANDS:
 * M-% query-replace - Interactive replace.
 * C-s C-w C-s: (isearch) Select the (rest of the) word the TextCursor is on as the search string.
 * find-name-dired: Search DIR recursively for files matching the globbing pattern
-* find-dired: Run `find' and go into Dired mode on a buffer of the output.
+* find-dired: Run `find` and go into Dired mode on a buffer of the output.
 * re-builder: Construct a regexp interactively.
 * list-matching-lines (this is alias to occur)
 * delete-matching-lines (this is alias to flush-lines)

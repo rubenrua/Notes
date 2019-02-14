@@ -12,7 +12,7 @@ Preguntas para entrevistas:
 * ¿Que es lo que mas/menos te gusta de la tecnología XXX?
 * ¿Qué libros técnicos has leído?
 * ¿Que es SOLID, KISS, DRY, YAGNI...?
-* ¿Habla de Teoría de la complejidad computacional? [wikipedia](https://en.wikipedia.org/wiki/Computational_complexity_theory
+* ¿Habla de Teoría de la complejidad computacional? [wikipedia](https://en.wikipedia.org/wiki/Computational_complexity_theory)
 * Que huele mal en el código: http://blog.ircmaxell.com/2017/07/ponderings-on-odoriferous-syntactical.html y https://github.com/campusdomar/PuMuKIT2/blob/2.3.x/src/Pumukit/CoreBundle/Command/ImportFileToMMOCommand.php
 * WEB: xsendfile, faceted search, fast http client...
 * JUNIOR: GitHub, Linux, pet projects, tech info sources...
