@@ -196,9 +196,11 @@ $ python3 -m http.server.
 
 ### Share or access to local ports
 
-```
-ssh -L MY_PORT:HOST_IN_LOCAL_NET:LOCAL_PORT  root@proxy.com.gal
+socat or ssh -L MY_PORT:HOST_IN_LOCAL_NET:LOCAL_PORT  root@proxy.com.gal
 # Example:
+
+```
+socat  -v TCP-LISTEN:80,fork,reuseaddr TCP:172.0.0.1:8080
 ssh -L 2222:192.168.1.38:22 -L 8080:192.168.1.38:80 root@proxy.com.gal
 ssh -p 2222 localhost && wget localhost:8080
 
