@@ -14,3 +14,6 @@
 * https://blog.todoist.com/2017/05/25/how-doist-works-remote/
 * https://blog.doist.com/mental-health-and-remote-work-1b77616f6945
 
+## Other
+
+* https://www.microverse.org
