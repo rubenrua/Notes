@@ -22,6 +22,14 @@ RESOURCES
  * http://www.talkenglish.com/listening/listen.aspx
 
 
+PRONUNCIATION AND SOUNDS
+------------------------
+
+ * https://tv.uvigo.es/series/5b5b4db38f4208525be02ba8
+ * http://soundsofspeech.uiowa.edu/resources/english/english.html
+ * https://www.teachingtreasures.com.au/teaching-tools/Basic-worksheets/worksheets-english/upper/homophones-list.htm
+ * https://www.coursera.org/learn/tricky-american-english-pronunciation
+
 LINKS
 -----
 
