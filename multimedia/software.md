@@ -88,6 +88,7 @@ Media Managers
 * Panoptoo: https://www.panopto.com (private)
 * Kaltura: http://corp.kaltura.com (private)
 * MediaSite: http://www.sonicfoundry.com/mediasite/ (private)
+* Warpwire: https://www.warpwire.com/ (private)
 * ...
 
 
