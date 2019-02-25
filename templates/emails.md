@@ -15,11 +15,13 @@
 ##### Feedback:
 
 * No dudes en avisarnos con lo que consideres oportuno.
+* Quedo a vuestra disposición para cualquier consulta
 * Por favor no dudes en llamarme a ...
 * Espero tu pronta respuesta.
 * Quedo a la espera de vuestros comentarios/sugerencias.
 * Con esta carta quería transmitir mis sensaciones al respecto.
 * Cuando tenga más información os la trasladaré sin demora.
+
 
 ##### Otros:
 
@@ -36,6 +38,7 @@
 * Allow me to chime in by saying that ...
 * Please feel free to contact us should you have any further questions
 * Best regards
+* I'll respond to all queries between lines.
 
 
 
