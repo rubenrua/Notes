@@ -24,6 +24,7 @@ Quotes
  * "Todo debería hacerse tan simple como sea posible, pero no más que eso." Albert Einstein
  * "La única la inmutable es que todo cambia".
  * "Stop managing your time. Start managing your focus." @robinsharma
+ * "One things that history teaches us is that we should never underestimate human stupidity". Yuval Harari
  * See startups.md and dev_notes.md
 
 Presentations
