@@ -25,10 +25,11 @@ Sadness
 Other
 ------
 
+* https://dave.cheney.net/practical-go/presentations/qcon-china.html
 * https://syslog.ravelin.com/so-just-how-fast-are-channels-anyway-4c156a407e45
 * https://twitter.com/phollow/status/822115626563076098
 * http://www.barrucadu.co.uk/posts/2016-08-25-three-months-of-go.html
 * https://goreportcard.com
 * https://github.com/golang/go/wiki/ExperienceReports
 * http://brendanjryan.com/golang/profiling/2018/02/28/profiling-go-applications.html
-
+* https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed
