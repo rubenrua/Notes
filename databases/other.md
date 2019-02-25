@@ -1,7 +1,7 @@
 Other
 -----
 
-* Column NoSQL:
+* Column store NoSQL and column-oriented DBMS:
 
   * http://cassandra.apache.org/  Tabular NoSQL in Java for massive amounts of (write) data.
   * https://clickhouse.yandex/ (BI: reddash y superset).
