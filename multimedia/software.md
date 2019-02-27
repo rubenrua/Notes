@@ -70,6 +70,13 @@ Speech to text
 * Picovoice Cheetah: http://picovoice.ai/
 
 
+Captions
+--------
+
+* Formats converter: https://github.com/pbs/pycaption
+* Synchronizer with video: https://github.com/smacke/subsync
+
+
 Media Managers
 --------------
 
