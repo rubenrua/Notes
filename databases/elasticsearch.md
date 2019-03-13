@@ -1,5 +1,6 @@
 # ELASTICSEARCH
 
+Default port: 9300 (9200 for HTTP interface)
 
 ## Links
 

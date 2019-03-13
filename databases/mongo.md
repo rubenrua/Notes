@@ -1,6 +1,9 @@
 MONGO
 =====
 
+Default port: 27017 (27018 for `shardsvr` and 27019 for `configsvr`)
+
+
 Tips
 ----
 * Update replace in mongodb

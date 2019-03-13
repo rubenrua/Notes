@@ -1,5 +1,7 @@
 # POSTGRESQL
 
+Default port: 5432
+
 ## Extensions
 
 * https://postgis.net/

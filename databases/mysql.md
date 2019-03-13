@@ -1,5 +1,7 @@
 # MYSQL
 
+Default port: 3306
+
 ## Links
 
 * http://www.linuxhispano.net/2013/04/30/comprobar-el-estado-de-la-cache-de-mysql/
