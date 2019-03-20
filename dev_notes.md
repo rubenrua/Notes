@@ -53,6 +53,9 @@ Community > Docs > Code
 A complex system that works is invariably found to have evolved from a simple system thot worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a simple system.
 — John Gall
 
+Rewrites only work if the people involved in the 1.0 are also involved in the 2.0, and thus have the benefit of context + history and understand the accidental complexity in the old system. Otherwise, you end up with a second, different 1.0.
+— @kyleve
+
 More: https://twitter.com/CodeWisdom
 
 

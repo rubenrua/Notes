@@ -25,6 +25,7 @@ Quotes
  * "La única la inmutable es que todo cambia".
  * "Stop managing your time. Start managing your focus." @robinsharma
  * "One things that history teaches us is that we should never underestimate human stupidity". Yuval Harari
+ * 'Que todo cambie para que todo siga igual' o 'Lo que antes ser muy mal, Permanecer todo igual Y hoy resultar excelente'.
  * See startups.md and dev_notes.md
 
 Presentations
