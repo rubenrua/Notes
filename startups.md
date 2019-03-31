@@ -31,6 +31,7 @@ Links
 
 Quotes
 ---------------
+* Necessity is the mother of invention
 * "Never fear failure" Steve Jobs
 * Si quieres que algo se haga, contrólalo. Si quieres que algo se haga mejor, págalo. Si quieres que algo se haga mucho mejor, págalo mucho mejor. (En busca de la excelencia: Tom Peters)
 * Trabajar 10 pagar como 20 para rendir como 40.
