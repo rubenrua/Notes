@@ -9,6 +9,7 @@ Conferences
 2019
 ----
 
+* 02-04-2019 [batch and clickhouse meetup](20190402-batch-clickhouse.md)
 * 27-02-2019 PHP Vigo - [Mejora tu vida con TDD](20190227-PHPVigo-TDD.md)
 
 
