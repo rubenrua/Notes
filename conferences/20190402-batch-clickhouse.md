@@ -27,9 +27,10 @@ Graphext - Uso de Arrow en el mundo real
 ----------------------------------------
 by @crispamares
 
-* Apache Arrow: columnar memory format. ([Del creador de pandas](http://wesmckinney.com/blog/apache-arrow-pandas-internals/) y usa flatbuf ??)
+* Apache Arrow: columnar memory format. ([Del creador de pandas](http://wesmckinney.com/blog/apache-arrow-pandas-internals/))
+* column-oriented, zero-copy, streaming/chunk-oriented, extensible type metadata.
 * Multilenguaje: C++, C, js, java, Python, R, Rust...
-* En la presentacion Compara: JSON, CSV, Arrow, Parket (tambien de apache, optimizado para disco con snappy), pickle (solo python)
+* En la presentacion Compara: JSON, CSV, Arrow, Parket (tambien de apache, optimizado para disco con snappy), pickle (solo python para comparar)
 * pros: Zero copy interpretation, GPU support (omnisci), RAPIDS.AI, y mas. Contras: no versión 1 (v0.12.0)
 * Pregunta: sqlite? Dice que se fue de mano.
 

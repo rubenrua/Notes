@@ -25,10 +25,10 @@ Other
   * http://couchdb.apache.org/
   * https://www.kinto-storage.org/
 
-
 * Other:
 
   * https://www.pingcap.com/ TiDB is an open source distributed scalable hybrid transactional and analytical processing (HTAP) database.
+  * Data serialization formats: [XML](https://www.w3.org/TR/REC-xml/), [JSON](https://json.org/), CSV, [YAML](https://noyaml.com/), [Parquet](https://parquet.apache.org/), [Arrow](https://arrow.apache.org/), [Thrift](https://thrift.apache.org/), [Protocol Buffers](https://developers.google.com/protocol-buffers/), [FlatBuffers](https://google.github.io/flatbuffers/)
 
 
 Links about DDBB
