@@ -34,7 +34,7 @@ by @crispamares
 * Pregunta: sqlite? Dice que se fue de mano.
 
 
-Click house meetup
+ClickHouse meetup
 ==================
 
 ClickHouse introduction
