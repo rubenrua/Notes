@@ -37,20 +37,22 @@ by @crispamares
 
 ClickHouse meetup
 ==================
+https://www.altinity.com/blog/2019/4/9/madrid-clickhouse-meetup-summary
 
 ClickHouse introduction
 -----------------------
 By Alexander Zaitsev, Altinity (@alex-zaitsev)
+https://www.slideshare.net/Altinity/clickhouse-introduction-by-alexander-zaitsev-altinity-cto
 
 * Benchmark: https://github.com/timescale/tsbs and https://tech.marksblogg.com/benchmarks.html
 * SQL like funcional programming (https://clickhouse.yandex/docs/en/query_language/functions/higher_order_functions/)
 * Monitoring tool: https://prometheus.io
 
-Check https://www.slideshare.net/Altinity/presentations for the presentation
 
 ClickHouse 2019 new features
 ----------------------------
 By Alexey Milovidov, Yandex (@alexey-milovidov)
+https://yandex.github.io/clickhouse-presentations/meetup21/new_features/
 
 * Full text search index (highly experimental)
 * HDFS import/export
@@ -75,6 +77,7 @@ FROM merge (ads_schema,
 1027 predictive models in 10 seconds
 ------------------------------------
 by David Pardo Villaverde, Corunet (@dei_biz)
+https://www.slideshare.net/Altinity/1027-predictive-models-in-10-seconds-by-david-pardo-villaverde-corunet
 
 * 250M records/ 60GB
 * Clickhouse effect for check anomalies and forecast
@@ -84,3 +87,4 @@ by David Pardo Villaverde, Corunet (@dei_biz)
 Shipping Data from Postgres to Clickhouse
 -----------------------------------------
 by Murat Kabilov, Adjust
+https://www.slideshare.net/Altinity/shipping-data-from-postgres-to-clickhouse-by-murat-kabilov-adjust
