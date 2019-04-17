@@ -8,3 +8,7 @@
 * BOOTSTRAP 4: http://hackerthemes.com/bootstrap-cheatsheet
 * NETWORK: http://packetlife.net/library/cheat-sheets/
 * BIG-O ALGORITHM COMPLEXITY: http://bigocheatsheet.com/
+* GNU PARALLEL: https://www.gnu.org/software/parallel/parallel_cheat.pdf
+
+* THE BIG DATA & AI LANDSCAPE: http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
+*

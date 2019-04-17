@@ -36,4 +36,4 @@ Links about DDBB
 
 * https://schema.org
 * https://brandur.org/acid
-* http://mattturck.com
+* http://mattturck.com/bigdata2018/
