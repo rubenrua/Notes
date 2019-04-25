@@ -22,6 +22,7 @@ TECHNOLOGY
 * https://www.pluralsight.com
 * http://www.codecademy.com/
 * http://bigdatauniversity.com/
+* https://www.datacamp.com/
 
 CORPORATIVE
 * https://education.10gen.com/courses
