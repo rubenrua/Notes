@@ -48,7 +48,7 @@ Links:
 
 * https://twitter.com/antonmry/status/1049575284238950400
 * https://managementfromscratch.wordpress.com/2018/10/14/976/
-
+* https://medium.com/@flopezluis/onboarding-desde-el-otro-lado-209527b88b06
 
 
 RETENER TALENTO
