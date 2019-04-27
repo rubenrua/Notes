@@ -46,6 +46,17 @@ COMPANIES
  * http://lynckia.com/
  * http://www.releyeble.com/
  * http://gradiant.org/
+ 
+ 
+OTHER REAL TIME VIDEO PROTOCOLS
+-------------------------------
+
+ * RTMP (legacy)
+ * RAW RTSP 2.0 [Presentation](https://gstreamer.freedesktop.org/data/events/gstreamer-conference/2017/Thibault%20Saunier%20-%20GStreamer%20support%20for%20RTSP%20protocol%20version%202.0%20(Lightning%20Talk).pdf)
+ * NEWTEK NDI [site](https://www.newtek.com/ndi/), [GStreamer](https://github.com/teltek/gst-plugin-ndi), [FFmpeg SRC](https://github.com/FFmpeg/FFmpeg/commit/4b32f8b3ebfa011fcc5991bcaa97c3f5b61b49ad#diff-c49182dc0c7a70b9cd2e10853d9ec6c7), [FFmpeg issue](https://trac.ffmpeg.org/ticket/7589)
+ * SRT: [site](https://www.srtalliance.org/)
+ * RIST: [site](http://videoservicesforum.org/RIST.shtml), [GStreamer commit](https://gitlab.freedesktop.org/gstreamer/gst-plugins-bad/merge_requests/289)
+ 
 
 OTHER
 -----
