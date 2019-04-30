@@ -56,6 +56,9 @@ A complex system that works is invariably found to have evolved from a simple sy
 Rewrites only work if the people involved in the 1.0 are also involved in the 2.0, and thus have the benefit of context + history and understand the accidental complexity in the old system. Otherwise, you end up with a second, different 1.0.
 — @kyleve
 
+Cuando un sistema está en producción cuesta horrores sacarlo de ahí (preguntadle a los bancos)
+- @javisantana
+
 More: https://twitter.com/CodeWisdom
 
 
