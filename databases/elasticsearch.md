@@ -11,7 +11,7 @@ Default port: 9300 (9200 for HTTP interface)
 ## API
 
 * GET /_cat
-* GET /_cat/index
+* GET /_cat/indices
 * GET /<index>/<type>/<id>?pretty
 * GET /<index>/_search?q=*
 * GET /<index>/_search?q=k:(v1 OR v2)&from=0&size=20&sort=k:asc
