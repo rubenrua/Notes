@@ -15,3 +15,4 @@ Default port: 5432
 ## LINKS
 
 * http://www.asad.pw/awesome-postgres/
+* https://wiki.postgresql.org/wiki/Don%27t_Do_This
