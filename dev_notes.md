@@ -22,6 +22,9 @@ There are only two kinds of languages, the ones people complain about, and the o
 
 Complexity is like a bug light for smart people. We can't resist it, even though we know it's bad for us.
 
+Junior programmers create simple solutions to simple problems. Senior programmers create complex solutions to complex problems. Great programmers find simple solutions to complex problems. 
+— Charles Connell
+
 La comunidad te devuelve con creces los que les das.
 
 Always leave the campground cleaner than you found it [Ser un buen boyscout, recoge la mierda de otros].
