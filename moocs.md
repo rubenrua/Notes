@@ -32,6 +32,7 @@ OTHER
 * http://gitimmersion.com/
 * https://aprendemia.com
 * https://webina.rs
+* https://stepik.org/catalog
 
 
 Generators
