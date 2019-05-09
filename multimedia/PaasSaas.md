@@ -33,6 +33,7 @@ Storage
 -------
 
 * https://www.online.net/en/c14#pricing
+* https://wasabi.com/
 
 Recorders
 ---------
