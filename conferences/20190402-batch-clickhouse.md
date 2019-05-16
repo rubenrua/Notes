@@ -7,7 +7,7 @@ El nombre de este chiringito, es por que todo el muncho tiene algun batch...
 
 UrbanData Analytics - dataops
 -----------------------------
-Datapoops by @jmnavarro
+Dataops by @jmnavarro
 
 * Books: "getting data operations right" and "creating a data driven enterprise with dataops"
 * Automation, repeatable, rapid/speed, quality/reliable, self service tool.
