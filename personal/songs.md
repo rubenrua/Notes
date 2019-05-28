@@ -35,3 +35,6 @@ ANTES
 2018
  * This is Halloween - Broken Peach (E)
  * Vaiana BSO "Que hay mas alla" (E)
+
+2019
+ * Pousa - Uxía Lambona e a Banda Molona (E)
