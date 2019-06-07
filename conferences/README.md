@@ -9,6 +9,7 @@ Conferences
 2019
 ----
 
+* 01-06-2019 [Northwest Startup Day 2019](http://nosday.com)
 * 02-04-2019 [Batch and clickhouse meetup](20190402-batch-clickhouse.md)
 * 27-02-2019 PHP Vigo - [Mejora tu vida con TDD](20190227-PHPVigo-TDD.md)
 
@@ -30,7 +31,7 @@ Conferences
 * 16-12-2017 [GDG DevFest Galicia](20171216-devfestgal.md)
 * 14-12-2017 Vigo Labs - [Introducción a Blockchain](20171214-VigoLabs-Blockchain.md) by xoanteis
 * 03-08-2017 GDG Vigo - [The State of The Web 2017](https://delapuente.github.io/presentations/state-of-the-web-17/index.html#/1) by @delapuente
-* 17-07-2017 [Northwest Startup Day 2017](http://nosday.com)
+* 17-07-2017 [Northwest Startup Day 2017](http://www.nosday.com/edicion2017/index.html)
 * 04-07-2017 VigoJUG - [Kotlin: Java for the 21st century](https://docs.google.com/presentation/d/1K-jqOlRYFvMRJmJZuQYVp3lhH70gvfoiaWa8MzqGe9A/view) by @albertoruibal
 * 10-06-2017 Python Vigo - [PyDay Galcia](201706010-PyDayGalicia.md)
 * 06-06-2017 VigoJUG - [Introducción a Scala](https://docs.google.com/presentation/d/1BrZVBydFq5kOxhwf5_Qm9UHjYC7qqm3wgHfGUGO2Abo/mobilepresent?slide=id.p) by me
