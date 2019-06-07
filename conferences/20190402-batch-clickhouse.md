@@ -4,7 +4,10 @@ by @javisantana
 
 El nombre de este chiringito, es por que todo el muncho tiene algun batch...
 
-Videos: https://www.youtube.com/watch?list=PLZGPeFpwVFOSnrS5CJ0Sz9emARyz8EohJ&v=00VdRPRQ0yk
+Videos:
+
+* https://www.youtube.com/watch?list=PLZGPeFpwVFOSnrS5CJ0Sz9emARyz8EohJ&v=00VdRPRQ0yk
+* https://www.youtube.com/watch?v=29k0rlp6WaU&list=PLZGPeFpwVFOTiRT8raV0xXkHK-onE1nNf
 
 UrbanData Analytics - dataops
 -----------------------------
