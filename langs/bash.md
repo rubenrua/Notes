@@ -20,9 +20,19 @@ help set
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 #https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux
-for (( i = 30; i <= 37; i++ )); 
-do echo -e "\e[0;"$i"m  Hi stackoverflow\e[0m"; 
+for (( i = 30; i <= 37; i++ ));
+do echo -e "\e[0;"$i"m  Hi stackoverflow\e[0m";
 done
+
+#https://misc.flogisoft.com/bash/tip_colors_and_formatting
+RESET='\033[0m'
+BOLD='\033[1m'
+BLACK='\033[38;5;0m'
+RED='\033[38;5;1m'
+GREEN='\033[38;5;2m'
+
+echo -e "${BOLD}Hello world${RESET}"
+
 ```
 
 Links
