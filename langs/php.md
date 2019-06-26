@@ -61,3 +61,4 @@ SAD
  * Performance: https://github.com/symfony/symfony/pull/25474 and https://github.com/symfony/symfony/pull/24866
  * Session file locking: https://ma.ttias.be/php-session-locking-prevent-sessions-blocking-in-requests/
  * No enums.
+ * No capability to handle a POST request with a (big) file before upload the complete file.
