@@ -60,3 +60,4 @@ SAD
  * $a=null;var_dump($a == $a[0]);
  * Performance: https://github.com/symfony/symfony/pull/25474 and https://github.com/symfony/symfony/pull/24866
  * Session file locking: https://ma.ttias.be/php-session-locking-prevent-sessions-blocking-in-requests/
+ * No enums.
