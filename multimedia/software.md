@@ -118,3 +118,5 @@ OTHER
 * https://www.techsmith.com/camtasia.html (private)
 * https://github.com/snickers/snickers (open source alternative to the existent cloud encoding services)
 * https://github.com/PixarAnimationStudios/OpenTimelineIO
+* https://min.io/
+* https://freenas.org/
