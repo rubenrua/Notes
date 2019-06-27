@@ -13,6 +13,8 @@ Transcoder
 * http://cloud.telestream.net/
 * http://coconut.co/ (http://www.heywatch.com/)
 * https://azure.microsoft.com/en-us/pricing/details/media-services/
+* https://transloadit.com/
+
 
 Speech to text
 ---------------
