@@ -144,6 +144,7 @@ JUNIOR
 * http://mailchi.mp/bonillaware/10-cosas-que-me-hubiera-gustado-saber-cuando-empec-en-esto-bonilista
 * https://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf
 * http://pythontutor.com/
+* https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl
 
 Other
 -----
@@ -153,3 +154,4 @@ Other
 * https://www.enterpriseready.io/ ([src](https://github.com/enterpriseready/enterpriseready)) (+i18n +a11y)
 * https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
 * https://12factor.net/
+* http://10x.engineer https://twitter.com/skirani/status/1149302828420067328
