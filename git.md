@@ -104,6 +104,11 @@ git push --set-upstream origin totallyNotMasterInOrigin #or edit .git/config
 git pull --prune
 ```
 
+* Autostash local changes
+```sh
+git pull --autostash
+```
+
 See `git configure remote.origin.prune true`
 
 * Delete commits from the remote repo using other branch (https://youtu.be/mdZvYyIKURo)
