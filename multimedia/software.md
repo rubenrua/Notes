@@ -68,7 +68,7 @@ Speech to text
 * PocketSphinx: https://github.com/cmusphinx/pocketsphinx
 * Mozilla DeepSpeech: https://github.com/mozilla/DeepSpeech
 * Picovoice Cheetah: http://picovoice.ai/
-
+* kaldi: http://kaldi-asr.org
 
 Captions
 --------

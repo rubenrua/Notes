@@ -9,6 +9,7 @@ Conferences
 2019
 ----
 
+* 19-07-2019 Python Vigo - MQTT & Python y 5x Lightning talks
 * 26-06-2019 PHP Vigo - [Refactor cotidiano: La regla del campamento](20190626-PHPVigo-Refactor.md)
 * 01-06-2019 [Northwest Startup Day 2019](http://nosday.com)
 * 02-04-2019 [Batch and clickhouse meetup](20190402-batch-clickhouse.md)
