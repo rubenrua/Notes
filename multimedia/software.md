@@ -95,9 +95,9 @@ Media Managers
 * Panoptoo: https://www.panopto.com (private)
 * Kaltura: http://corp.kaltura.com (private)
 * MediaSite: http://www.sonicfoundry.com/mediasite/ (private)
-* Warpwire: https://www.warpwire.com/ (private)
-* Watchity: https://www.watchity.com/ (private)
-* ...
+* Warpwire: https://www.warpwire.com/ (private saas)
+* Watchity: https://www.watchity.com/ (private saas)
+* Wistia: https://wistia.com/ (private saas)
 
 
 COMPANIES
