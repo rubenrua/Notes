@@ -46,3 +46,4 @@ Images
 ------
 
 * https://www.imgix.com/
+* https://www.thumbr.io/
