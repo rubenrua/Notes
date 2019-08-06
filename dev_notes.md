@@ -62,7 +62,13 @@ Rewrites only work if the people involved in the 1.0 are also involved in the 2.
 Cuando un sistema está en producción cuesta horrores sacarlo de ahí (preguntadle a los bancos)
 - @javisantana
 
+If your software developers are able to accurately estimate how long something will take, you should fire them. If they've done something so many times before that they know exactly how long it'll take them to do it again, then they should have made a reusable solution by now. https://www.linkedin.com/pulse/scrum-makes-you-dumb-daniel-jones
+
 More: https://twitter.com/CodeWisdom
+
+
+
+
 
 
 ![software values table](imgs/SW_values_table.jpg)
