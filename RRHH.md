@@ -32,6 +32,8 @@ Links:
 * https://medium.freecodecamp.org/how-to-interview-as-a-developer-candidate-b666734f12dd
 * https://github.com/MaximAbramchuck/awesome-interview-questions
 * http://javisantana.com/2017/11/02/hiring-en-un-startup.html
+* https://github.com/viraptor/reverse-interview
+
 
 
 ONBOARDING
