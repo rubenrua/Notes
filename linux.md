@@ -211,6 +211,28 @@ See: http://www.vicente-navarro.com/blog/2009/05/24/creando-tuneles-tcpip-port-f
 
 See also: https://ngrok.com and [socks](https://www.linode.com/docs/networking/ssh/setting-up-an-ssh-tunnel-with-your-linode-for-safe-browsing)
 
+### supervisord with systemd unit
+
+```
+[Unit]
+Description=Laravel queues
+
+[Service]
+User=www-user
+Group=www-user
+Type=simple
+Restart=on-failure
+RestartSec=30
+Nice=10
+WorkingDirectory=/www/laravel/
+ExecStart=/usr/bin/php artisan queue:work --queue=default --sleep=30 --timeout=1800 --tries=1 --memory=256
+StandardOutput=null
+TimeoutStartSec=30
+
+[Install]
+RequiredBy=multi-user.target
+
+```
 
 ## LINKS:
 
