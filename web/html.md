@@ -63,6 +63,14 @@ Row input element with good UX in mobiles and bad UX in desktops (see select2)
 </datalist>
 ```
 
+* Design Mode
+
+```
+document.designMode = 'on'
+```
+
+Or https://github.com/GoogleChromeLabs/ProjectVisBug
+
 
 Links
 ------
