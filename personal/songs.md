@@ -38,3 +38,5 @@ ANTES
 
 2019
  * Pousa - Uxía Lambona e a Banda Molona (E)
+ * La Mujer de Verde - IZAL (E)
+ * Turnedo - Ivan Ferreiro (E)
