@@ -13,12 +13,14 @@ LINKS
 FFI
 -----
 * https://doc.rust-lang.org/beta/nomicon/index.html
-* https://github.com/rust-lang-nursery/rust-bindgen [(doc)](https://rust-lang-nursery.github.io/rust-bindgen/)  (C/C++ -> Rust FFI bindings)
+* https://github.com/rust-lang-nursery/rust-bindgen [(doc)](https://rust-lang.github.io/rust-bindgen/)  (C/C++ -> Rust FFI bindings)
 * https://github.com/eqrion/cbindgen [(~doc)](https://michael-f-bryan.github.io/rust-ffi-guide/) (rust -> C bindings)
+* [example 1](https://github.com/Michael-F-Bryan/plugins_in_rust) [example 2 with C interface](https://github.com/kmdouglass/rust-libloading-example) (rust -> rust)
 
 Waiting
 ------
 
+* ABI stability
 * Default values for struct fields: https://github.com/rust-lang/rfcs/issues/1594
 * Functions with keyword args, optional args, and/or variable-arity argument (varargs) lists: https://github.com/rust-lang/rfcs/issues/323
 * Generic SQL bindings: https://github.com/rust-lang/rfcs/issues/798
