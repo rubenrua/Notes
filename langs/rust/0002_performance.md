@@ -7,8 +7,6 @@ Rust is a [multi-paradigm system programming language](https://en.wikipedia.org/
 
 Currently, performance is not only about execution time, but it is also about development time too. And Rust is a more productive language than C. Two examples:
 
- * Compare a GStreamer/Gtk element in rust Vs the boilerplate C version.
-
  * Watch the ["Full Stack Fest 2015: Rewriting a Ruby C Extension in Rust, by Yehuda Katz" video](https://www.youtube.com/watch?v=2BdJeSC4FFI) or this fantastic [summary by Steve Klabnik](https://gist.github.com/steveklabnik/1a3ec0ca676aaddf766e).
 
 
@@ -115,6 +113,10 @@ impl fmt::Display for Mistake {
     }
 }
  ```
+
+ * or compare a GStreamer/Gtk element in rust Vs the boilerplate C version [more info](https://coaxion.net/blog/2016/05/writing-gstreamer-plugins-and-elements-in-rust).
+
+
 
 
 Notes:
