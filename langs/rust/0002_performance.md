@@ -3,9 +3,11 @@
 
 *A leopard never changes its spots*; I enjoy performance issues, and [Rust is leading most of the TechEmpower web framework benchmarks](https://news.ycombinator.com/item?id=20402082). See [benchmarks](https://www.techempower.com/benchmarks/#section=data-r18&hw=ph&test=fortune) and [src](https://github.com/TechEmpower/FrameworkBenchmarks/tree/master/frameworks/Rust/actix).
 
-Rust a [multi-paradigm system programming language](https://en.wikipedia.org/wiki/Rust_(programming_language)) whose performance is *similar* to C. ([Note1](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/gcc-rust.html) and [Note2](https://github.com/ixy-languages/ixy-languages/blob/master/Rust-vs-C-performance.md)).
+Rust is a [multi-paradigm system programming language](https://en.wikipedia.org/wiki/Rust_(programming_language)) whose performance is *similar* to C. ([Note1](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/gcc-rust.html) and [Note2](https://github.com/ixy-languages/ixy-languages/blob/master/Rust-vs-C-performance.md)).
 
 Currently, performance is not only about execution time, but it is also about development time too. And Rust is a more productive language than C. Two examples:
+
+ * Compare a GStreamer/Gtk element in rust Vs the boilerplate C version.
 
  * Watch the ["Full Stack Fest 2015: Rewriting a Ruby C Extension in Rust, by Yehuda Katz" video](https://www.youtube.com/watch?v=2BdJeSC4FFI) or this fantastic [summary by Steve Klabnik](https://gist.github.com/steveklabnik/1a3ec0ca676aaddf766e).
 
