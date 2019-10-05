@@ -19,7 +19,7 @@ Transcoder
 Speech to text
 ---------------
 
-* https://politrans.upv.es/
+* https://politrans.upv.es (ES)
 * https://www.ibm.com/watson/developercloud/doc/speech-to-text/index.html
 * http://koemei.com/
 * https://docs.microsoft.com/en-us/azure/cognitive-services/speech/home
@@ -31,6 +31,7 @@ Annotations
 -----------
 
 * https://h5p.org/interactive-video
+* http://www.etiqmedia.com/ (ES)
 
 Storage
 -------
@@ -41,6 +42,7 @@ Storage
 Recorders
 ---------
 
+* https://teltek.es Ask for Personal Rercored (ES)
 * https://www.useloom.com/
 
 Images
@@ -48,3 +50,12 @@ Images
 
 * https://www.imgix.com/
 * https://www.thumbr.io/
+
+Companies
+---------
+
+* https://teltek.es (ES)
+* https://wistia.com
+* https://mux.com
+* https://www.warpwire.com/
+* https://www.watchity.com/ (ES)
