@@ -25,6 +25,7 @@ Speech to text
 * https://docs.microsoft.com/en-us/azure/cognitive-services/speech/home
 * https://cloud.google.com/speech/
 * https://wit.ai/
+* https://www.descript.com (podcast editor with text)
 
 Annotations
 -----------
