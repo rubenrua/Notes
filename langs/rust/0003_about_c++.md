@@ -15,7 +15,7 @@ I also discovered from J. Daniel Garcia the higher drawback that I know of Rust,
 
 On the other hand, Rust makes me a passionate programmer and I couldn't stop thinking about points that IMHO make rust a better hammer than C++.
 
-* The Rust community is awesome, and that's the reason why Rust is voted most loved language for the 3rd Year in a Row in Stack Overflow Developer Survey (like (Fabien Potencier)[http://github.com/fabpot]  says (Community > Docs > Code)[https://twitter.com/fabpot/status/994475614588559360]).
+* The Rust community is awesome, and that's the reason why Rust is voted most loved language for the 3rd Year in a Row in Stack Overflow Developer Survey (like [Fabien Potencier](http://github.com/fabpot)  says [Community > Docs > Code](https://twitter.com/fabpot/status/994475614588559360)).
 * Cargo: After work with pip, maven, npm, composer... I can't work with a modern package manager.
 * I like the functional programming style. And Rust’s design has taken inspiration from many existing languages and techniques, and one significant influence is functional programming. For instance, check their type system.
 * IMHO, the C++ legacy code is the worst part of C++, the same as the legacy PHP is the worst part of PHP. This thing usually happens with overweight languages with a lot of features. that's why it's very important to isolate complexity as much as possible.
