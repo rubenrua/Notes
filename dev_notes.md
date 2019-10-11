@@ -20,6 +20,10 @@ Any fool can write code that a computer can understand. Good programmers write c
 There are only two kinds of languages, the ones people complain about, and the ones nobody uses
 — Bjarne Stroustrup
 
+A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die.
+— Thomas Kuhn (1962)
+
+
 Complexity is like a bug light for smart people. We can't resist it, even though we know it's bad for us.
 
 Junior programmers create simple solutions to simple problems. Senior programmers create complex solutions to complex problems. Great programmers find simple solutions to complex problems. 
