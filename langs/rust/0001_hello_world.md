@@ -1,6 +1,9 @@
 # 1.- Hello World
-2019-09-29
+2019-10-04
 Doc link: https://doc.rust-lang.org/book/ch01-00-getting-started.html
+
+
+Talk is cheap. Show me the code:
 
 ```sh
 $ cargo new --bin hello && cd hello

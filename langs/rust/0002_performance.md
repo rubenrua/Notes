@@ -25,7 +25,7 @@ pub extern "C" fn tr_str_is_blank(b: Buf) -> bool {
 
 
  * or read the [Declarative memory management](https://amos.me/blog/2019/declarative-memory-management/) blog post by Amos.
- 
+
  ```rust
  fn main() -> Result<(), std::io::Error> {
     let paths = ["sample4.txt"];
@@ -118,8 +118,8 @@ impl fmt::Display for Mistake {
 
 
 
-
 Notes:
 
+ - Iterators usually are more efficient than using an index (like `for`s in C), because Rust enforces bounds checks.
  - [actix](https://github.com/actix/actix) is an Actor framework for Rust with [a small, pragmatic, and extremely fast rust web framework](https://github.com/actix/actix-web).
  - next: String vs &str
