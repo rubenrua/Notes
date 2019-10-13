@@ -7,7 +7,7 @@ This week, during a GStreamer training surrounded by C and C++ developers, the s
 
 I already have read a lot of times, and like I am not a C++ developer, I never cared about it. But as a PHP developer I can put me in the other's shoes.
 
-C++ is powerful language with ∞ apps/libs like [ClickHouse](https://github.com/ClickHouse/ClickHouse), [Chromium](https://chromium.googlesource.com/chromium/src.git/+/refs/heads/master), QT, [TensorFlow](https://github.com/tensorflow/tensorflow), [OpenCV](https://github.com/opencv/opencv), almost all game engines... A C++ developer should be very proud to have this hammer.
+C++ is powerful language with ∞ apps/libs like [ClickHouse](https://github.com/ClickHouse/ClickHouse), [Chromium](https://chromium.googlesource.com/chromium/src.git/+/refs/heads/master), Qt, [TensorFlow](https://github.com/tensorflow/tensorflow), [OpenCV](https://github.com/opencv/opencv), almost all game engines... A C++ developer should be very proud to have this hammer.
 
 But the fist argumentation against Rust was that it is not OOP. While the people were arguing about that, I could not forget a presentation of [J. Daniel Garcia](https://www.arcos.inf.uc3m.es/jdgarcia/), an active member of the ISO C++ standards committee, whose title was "[Inheritance = Base class of all problems, OOP must die](https://usingstdcpp.org/2014/12/05/la-herencia-es-la-clase-base-de-todos-los-problemas/)". [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance) is a rusty classic topic but it always is good to check the [criticisms](https://en.wikipedia.org/wiki/Object-oriented_programming#Criticism) about your tools/paradigma/styles...
 
