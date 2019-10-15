@@ -27,7 +27,7 @@ LOL (laughing out loud)
 ![Hide_legacy_tech.jpg](LOL/Hide_legacy_tech.jpg)
 ![Shrek Please](LOL/Please.jpg)
 ![Dynamic vs static types](LOL/dynamic_vs_static_types.jpg)
-
+![Bug author](LOL/bug_author.jpg)
 
 Gifs
 ------
