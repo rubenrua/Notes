@@ -47,7 +47,8 @@ CARGO PLUGINS
 
 * https://github.com/dtolnay/cargo-expand
 * https://github.com/rustsec/cargo-audit
-
+* https://github.com/passcod/cargo-watch
+* https://github.com/rust-lang/cargo/wiki/Third-party-cargo-subcommands
 
 Other
 -------
