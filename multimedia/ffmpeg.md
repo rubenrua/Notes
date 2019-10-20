@@ -129,7 +129,7 @@ ffmpeg -y -i source.avi -vcodec libx264 -vprofile baseline -level:v 3 -r 25 -pre
 https://trac.ffmpeg.org/wiki/Encode/H.264#Two-PassExample
 
 
-##### Desktop capture to v4l2 device:
+##### DESKTOP CAPTURE TO V4L2 DEVICE:
 
 ```
 modprobe v4l2loopback
@@ -139,7 +139,7 @@ ffmpeg -f x11grab -r 15 -s 1280x720 -i :0.0+0,0 -vcodec rawvideo -pix_fmt yuv420
 https://github.com/umlaeute/v4l2loopback
 
 
-##### High quality gif
+##### HIGH QUALITY GIF
 
 ```
 palette="/tmp/palette.png"
@@ -152,7 +152,7 @@ ffmpeg -v warning -i $1 -i $palette -lavfi "$filters [x]; [x][1:v] paletteuse" -
 
 http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html
 
-##### Create adaptive streaming
+##### CREATE ADAPTIVE STREAMING
 
 Dash:
 ```
@@ -164,14 +164,25 @@ HLS:
 ffmpeg -f avfoundation -s 1280x720 -r 30 -i 0:0 -vcodec libx264 -preset ultrafast -keyint_min 0 -g 120 -b:v 1000k -ac 2 -strict 2 -acodec aac -b:a 64k -map 0:v -map 0:a -f hls -hls_time 8 test.m3u8
 ```
 
-##### Audio phase reversal/invert
+##### RTSP
+
+```
+ffserver -d
+ffmpeg -r 25 -s 352x288 -f video4linux2 -i /dev/video0 http://localhost:8090/feed1.ffm
+ffplay "rtsp://localhost:5554/test.mpeg4
+```
+
+https://stackoverflow.com/questions/37403282/is-there-anyone-who-can-success-real-time-streaming-with-ffserver
+https://trac.ffmpeg.org/wiki/StreamingGuide
+
+##### AUDIO PHASE REVERSAL/INVERT
 
 ```
 ffmpeg -i input.wav -af "aeval='-val(0)':c=same" output.wav
 ffmpeg -i {} -acodec aac -ab 128k -ac 1 -af pan="stereo:c0=c0:c1=-1*c1" -ar 44100 -vcodec libx264 -r 25 -crf 22 -pix_fmt yuv420p -s 1280x720 -threads 0 -strict -2 {}
 ```
 
-##### Raw video
+##### RAW VIDEO
 
 ```
 ffmpeg -i test.mp4 -c:v rawvideo -pix_fmt yuv420p test.yuv
@@ -180,10 +191,8 @@ ffmpeg -pix_fmts
 ```
 
 
-##### AV1 
+##### AV1
 
 ```
 ffmpeg -i input.mp4 -c:v libaom-av1 -crf 30 -b:v 0 -strict experimental av1_test.mkv
 ```
-
-
