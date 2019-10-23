@@ -34,6 +34,9 @@ OTHER
 * https://webina.rs
 * https://stepik.org/catalog
 
+ONLINE COURSES
+* Distributed Systems Engineering: https://pdos.csail.mit.edu/6.824/schedule.html
+* Operating System Engineering: https://pdos.csail.mit.edu/6.828/2019/schedule.html
 
 Generators
 ----------

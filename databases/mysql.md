@@ -85,7 +85,7 @@ or (adding bc)
 SELECT /*!40001 SQL_NO_CACHE */ * FROM `file`;
 ```
 
-http://dev.mysql.com/doc/refman/5.0/en/query-cache-in-select.html 
+http://dev.mysql.com/doc/refman/5.0/en/query-cache-in-select.html
 
 ### Show variables
 ```sql
@@ -106,3 +106,4 @@ https://dev.mysql.com/doc/refman/5.7/en/group-by-functions.html
 
 * Use charset `utf8mb4` collate `utf8mb4_unicode_ci`.
 * Set INNODB_BUFFER_POOL_SIZE To ~ 80% of RAM
+* SELECT SOUNDEX('Sure');
