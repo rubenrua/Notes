@@ -209,7 +209,7 @@ ssh -p 2222 localhost && wget localhost:8080
 ```
 See: http://www.vicente-navarro.com/blog/2009/05/24/creando-tuneles-tcpip-port-forwarding-con-ssh-los-8-escenarios-posibles-usando-openssh/
 
-See also: https://ngrok.com, [socks](https://www.linode.com/docs/networking/ssh/setting-up-an-ssh-tunnel-with-your-linode-for-safe-browsing) and https://tmate.io/
+See also: https://ngrok.com, https://tmate.io/ and [socks](https://www.linode.com/docs/networking/ssh/setting-up-an-ssh-tunnel-with-your-linode-for-safe-browsing)
 
 ### supervisord with systemd unit
 
