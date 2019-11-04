@@ -14,4 +14,4 @@
 
 * http://chris.beams.io/posts/git-commit/
 * http://whatthecommit.com/index.txt
-*
+* https://www.conventionalcommits.org
