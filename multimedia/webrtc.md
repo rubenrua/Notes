@@ -18,7 +18,8 @@ SAMPLES & TUTORIALS
  * http://html5-demos.appspot.com/static/getusermedia/record-user-webm.html
  * https://developer.chrome.com/extensions/desktopCapture
  * https://deepstreamhub.com/tutorials/protocols/webrtc-intro/
-
+ * https://www.html5rocks.com/en/tutorials/webrtc/infrastructure/
+ * https://webrtchacks.com/sdp-anatomy/
 
 TOOLS & PLATFORMS
 -----------------
@@ -46,8 +47,8 @@ COMPANIES
  * http://lynckia.com/
  * http://www.releyeble.com/
  * http://gradiant.org/
- 
- 
+
+
 OTHER REAL TIME VIDEO PROTOCOLS
 -------------------------------
 
@@ -56,7 +57,7 @@ OTHER REAL TIME VIDEO PROTOCOLS
  * NEWTEK NDI [site](https://www.newtek.com/ndi/), [GStreamer](https://github.com/teltek/gst-plugin-ndi), [FFmpeg SRC](https://github.com/FFmpeg/FFmpeg/commit/4b32f8b3ebfa011fcc5991bcaa97c3f5b61b49ad#diff-c49182dc0c7a70b9cd2e10853d9ec6c7), [FFmpeg issue](https://trac.ffmpeg.org/ticket/7589)
  * SRT: [site](https://www.srtalliance.org/)
  * RIST: [site](http://videoservicesforum.org/RIST.shtml), [GStreamer commit](https://gitlab.freedesktop.org/gstreamer/gst-plugins-bad/merge_requests/289)
- 
+
 
 OTHER
 -----
