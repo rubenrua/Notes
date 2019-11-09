@@ -21,6 +21,7 @@ LINKS
 * Migrations: https://openedx.atlassian.net/wiki/display/OPEN/Updating+Open+edX
 * Load Test: https://github.com/edx/edx-load-tests
 * Enabling XBlocks in Open edX: https://help.appsembler.com/article/176-how-to-enable-xblocks
+* Releases: https://docs.google.com/spreadsheets/d/11DheEtMDGrbA9hsUvZ2SEd4Cc8CaC4mAfoV8SVaLBGI/edit#gid=310733208
 
 TIPS
 ----
