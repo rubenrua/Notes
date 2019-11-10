@@ -9,6 +9,7 @@ Conferences
 2019
 ----
 
+* 09-11-2019 rustfest - [RustFest Barcelona](20191109-rustfest.md)
 * 06-08-2019 GDG Vigo - [An afternoon with IBM Research developers](20190806-GDGVigo-IBM.md)
 * 19-07-2019 Python Vigo - MQTT & Python y 5x Lightning talks
 * 26-06-2019 PHP Vigo - [Refactor cotidiano: La regla del campamento](20190626-PHPVigo-Refactor.md)
