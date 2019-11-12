@@ -65,3 +65,4 @@ Other
 * https://coaxion.net/blog/category/rust/ (GStreamer)
 * https://rust.godbolt.org/ (Compiler explorer)
 * https://github.com/ixy-languages/ixy-languages/blob/master/Rust-vs-C-performance.md (performance)
+* https://github.com/rust-lang/rustlings (learn)
