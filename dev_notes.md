@@ -25,6 +25,9 @@ A new scientific truth does not triumph by convincing its opponents and making t
 
 Complexity is like a bug light for smart people. We can't resist it, even though we know it's bad for us.
 
+Technical debt is not created all at once. It's the accumulation of many small shortcuts over time. A few extra minutes early on could save hours or days of maintenance over time.
+— Eric Elliott
+
 Junior programmers create simple solutions to simple problems. Senior programmers create complex solutions to complex problems. Great programmers find simple solutions to complex problems. 
 — Charles Connell
 
