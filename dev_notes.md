@@ -23,7 +23,6 @@ There are only two kinds of languages, the ones people complain about, and the o
 A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die.
 — Thomas Kuhn (1962)
 
-
 Complexity is like a bug light for smart people. We can't resist it, even though we know it's bad for us.
 
 Junior programmers create simple solutions to simple problems. Senior programmers create complex solutions to complex problems. Great programmers find simple solutions to complex problems. 
@@ -122,7 +121,9 @@ Licenses and versions
 
 * http://choosealicense.com/
 * https://spdx.org/licenses/
+* Other [BLS license](https://blog.sentry.io/2019/11/06/relicensing-sentry/) [SSPL](https://www.mongodb.com/licensing/server-side-public-license/faq)
 * http://semver.org/
+
 
 Benchmarks and comparatives
 ----------
