@@ -1,0 +1,40 @@
+# 8.- WIP Fun with macros
+2019-11-xx
+
+Reconozco que soy muy propenso a debugar con prints, no lo hagais, por mucho que Rust tenga funcionalidades tán interesantes como:
+
+```
+dbg!
+```
+
+Ya lo apuntaba xxx en su twit:
+
+```
+println("{:#?}", json)
+```
+
+Pero la cosa no queda aqui, ademas del clasico
+
+
+```
+panic!()
+```
+
+Existe macros con mas significado como:
+
+```
+unreachable!()
+unimplemented!()
+todo!()
+```
+
+Otros macros interesantes son:
+
+```
+assert_eq!()
+include_str! or include_bytes!
+```
+
+
+
+More in std/macos.rs u core/macros.rs

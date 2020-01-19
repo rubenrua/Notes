@@ -1,0 +1,24 @@
+# 7.- WIP Memory
+2019-11-xx
+
+Cuando descubres como es la funcion drop en en Rust empiezas a pensar que la gestion de memoría de Rust, por lo menos, es diferente.
+
+```
+pub fn drop<T>(_x: T) {}
+```
+
+Esta funcion no es mi favorita, como dice XXXX. Pero es muy interesante y descubre el poder de una de las carazteristicas más importantes de rust.
+
+> Ownership is Rust’s most unique feature, and it enables Rust to make memory safety guarantees without needing a garbage collector. Therefore, it’s important to understand how ownership works in Rust. In this chapter, we’ll talk about ownership as well as several related features: borrowing, slices, and how Rust lays data out in memory.
+
+Otra cosa que me encanta de Rust es que llegan a pensar que estas trabajando con un lenguaje de alto nivel con iteradores y closures, pero si dejar de pensar en lo importante; esta variable esta en el stack and head memory.
+
+
+Existen multitud de referencias a este complejo aspecto de Rust, la que a mi me sirvio fue:
+
+En vez de hablar de más sobre lo mismo me gustaría listar algunas de las funciones que tiene el modulo mem:
+
+mem::forget
+mem::remplace y mem::swap
+mem::size_of mem::size_of_value y mem::align_of mem::align_of_value
+mem::MaybeUninit -mem::uninitialized-
