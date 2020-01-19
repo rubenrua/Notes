@@ -58,7 +58,10 @@ http://www.thegeekstuff.com/2011/11/strace-examples/
 ldd /bin/ls
 
 #Disassemble
-objdump -d /bin/ls
+objdump -d /bin/ls or nm /bin/ls
+
+#Debug (man ld.so)
+LD_DEBUG=libs /bin/ls # or ltrace
 
 #Print the strings of printable characters in files
 strings /bin/ls

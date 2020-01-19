@@ -66,3 +66,4 @@ Other
 * https://rust.godbolt.org/ (Compiler explorer)
 * https://github.com/ixy-languages/ixy-languages/blob/master/Rust-vs-C-performance.md (performance)
 * https://github.com/rust-lang/rustlings (learn)
+* https://blog.skylight.io/rust-means-never-having-to-close-a-socket/ (blog entry about Ownership System)

@@ -13,6 +13,7 @@ Links:
 * https://autotools.io/index.html
 * http://smalltalk.gnu.org/blog/bonzinip/all-you-should-really-know-about-autoconf-and-automake
 * http://c-faq.com/decl/spiral.anderson.html
+* https://cdecl.org/ (C ↔ English)
 
 Coding style:
 -------------

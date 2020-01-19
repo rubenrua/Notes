@@ -10,6 +10,7 @@ Libs and Apps:
 * GStraemer: http://gstreamer.freedesktop.org
 * MP4 Box: https://gpac.wp.mines-telecom.fr/mp4box/
 * Rust-AV: https://github.com/rust-av
+* ExoPlayer: https://exoplayer.dev/
 
 WEB PLAYER:
 -----------

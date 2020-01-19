@@ -39,3 +39,5 @@ Links
 -----
 
 * http://jvns.ca/blog/2017/03/26/bash-quirks/ (https://twitter.com/b0rk/status/846203979403083776)
+* https://www.shellcheck.net/
+* https://eklitzke.org/bash-$%2A-and-$@ from https://news.ycombinator.com/item?id=22027809
