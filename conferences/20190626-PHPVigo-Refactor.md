@@ -3,7 +3,7 @@ Refactor cotidiano: La regla del campamento
 
 26-06-2019
 
-by Fran Iglesisas @talkingbit1
+by Fran Iglesias @talkingbit1
 
 Notas:
 
