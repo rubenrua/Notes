@@ -14,6 +14,7 @@ Redes
 
 Otros
 -----
+* http://ofaro.gal
 * https://startupxplore.com
 * https://www.startupdigest.com/digests/galicia
 * https://masquestartups.com (PODCAST)
