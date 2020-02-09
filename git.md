@@ -27,6 +27,7 @@ git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s 
 * When a string was added/deleted in the repo.
 ```sh
 git log -S caca
+git log -S caca -U1 # show the diff
 ```
 
 * Git alias. Add in `~/.gitconfig`
@@ -38,6 +39,12 @@ git log -S caca
 * Describe a commit. The output of the command looks like: `<tag>_<numCommits>_g<hash>` Where tag is the closest ancestor tag in history, numCommits is how many commits away that tag is, and <hash> is the hash of the commit being described.
 ```sh
 git describe 2.2.x #2.2.0-75-g16deae8
+```
+
+* Get last tag
+```sh
+git describe --abbrev=0 --tags # gets tag from current branch
+git describe --tags `git rev-list --tags --max-count=1` # gets tags across all branches, not just the current branch
 ```
 
 * `Add` and `commit` together.
@@ -314,6 +321,12 @@ git rebase -i master
 ```
 https://makandracards.com/makandra/527-squash-several-git-commits-into-a-single-commit
 
+* Not use current working directory.
+```sh
+cd ~/src/github.com/rust-lang/rust/ && git log && cd -
+GIT_DIR=~/src/github.com/rust-lang/rust/.git/ git log
+git  --git-dir ~/src/github.com/rust-lang/rust/.git/ log
+```
 
 gitflow
 ----
