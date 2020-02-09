@@ -196,3 +196,10 @@ ffmpeg -pix_fmts
 ```
 ffmpeg -i input.mp4 -c:v libaom-av1 -crf 30 -b:v 0 -strict experimental av1_test.mkv
 ```
+
+##### REGULAR KEY FRAMES AND SCENE-CUT-BASED (AND GET INFO)
+
+```
+ffmpeg -i input.mp4 -force_key_frames "expr:eq(mod(n,25),0)" -x264opts rc-lookahead=25:keyint=50:min-keyint=25 -c:v libx264 -preset faster -crf 23 -c:a copy -movflags faststart -pix_fmt yuv420p -t 300 output.mp4
+ffprobe input.mp4 -select_streams v -show_frames  -show_entries frame=key_frame,pict_type,coded_picture_number -of csv
+```
