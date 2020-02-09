@@ -50,12 +50,18 @@ CARGO PLUGINS
 * https://github.com/passcod/cargo-watch
 * https://github.com/rust-lang/cargo/wiki/Third-party-cargo-subcommands
 
+INTROS
+------
+
+* https://speakerdeck.com/hywan/hello-rust-an-overview
+* https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/
+
+
 Other
 -------
 
 * https://www.rust-lang.org/en-US/faq.html
 * https://readrust.net
-* https://speakerdeck.com/hywan/hello-rust-an-overview
 * http://www.rustacean.net/
 * http://www.arewewebyet.org/
 * https://web.stanford.edu/class/cs140e/ (SO)
@@ -67,3 +73,4 @@ Other
 * https://github.com/ixy-languages/ixy-languages/blob/master/Rust-vs-C-performance.md (performance)
 * https://github.com/rust-lang/rustlings (learn)
 * https://blog.skylight.io/rust-means-never-having-to-close-a-socket/ (blog entry about Ownership System)
+* https://github.com/17cupsofcoffee/tetra/blob/master/docs/FAQ.md#why-is-my-game-running-slow (enable optimizations in debug mode for some dependencies)
