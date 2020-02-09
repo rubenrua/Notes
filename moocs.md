@@ -37,6 +37,7 @@ OTHER
 ONLINE COURSES
 * Distributed Systems Engineering: https://pdos.csail.mit.edu/6.824/schedule.html
 * Operating System Engineering: https://pdos.csail.mit.edu/6.828/2019/schedule.html
+* The Missing Semester of Your CS Education: https://missing.csail.mit.edu/
 
 Generators
 ----------
