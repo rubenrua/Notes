@@ -57,7 +57,7 @@ ffmpeg -strict unofficial -sameq -ss #{trim.start} -t #{trim.duration} -i #{in} 
 ffmpeg -strict unofficial  -vf crop=in_w-240:in_h-20:120:10  -i #{in}   #{out}
 ```
 
-##### MP4 faststart:
+##### MP4 faststart (or `qt-faststart`):
 
 ```
 ffmpeg  .... -movflags faststart ...
