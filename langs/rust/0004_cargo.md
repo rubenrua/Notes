@@ -38,6 +38,8 @@ cargo build --release --target "$ARCH-pc-windows-gnu"
 cargo test --target "$ARCH-pc-windows-gnu"
 ```
 
+* Cargo allows [cheap tricks for high-performance](https://deterministic.space/high-performance-rust.html)
+
 * Cargo also includes tools to fix the code (cargo fix), to formatting code according to the style guidelines (cargo fmt) and recommend lints to catch common mistakes (cargo clippy). I love these tools and It should be inside any rust CI tool.
 
 ```
@@ -46,4 +48,4 @@ touch ./src/*.rs && cargo clippy --no-default-features -- -A clippy::cast_ptr_al
 ```
 
 
-* And, if it was not enough, also has a lot of plugins with new features like [cargo-expand](https://github.com/dtolnay/cargo-expand), [cargo-deny](https://github.com/EmbarkStudios/cargo-deny), [cargo-watch](https://github.com/passcod/cargo-watch) or [cargo-geiger](https://github.com/anderejd/cargo-geiger). Check the complete list in the [cargo wiki](https://github.com/rust-lang/cargo/wiki/Third-party-cargo-subcommands)
+* And, if it was not enough, also has a lot of plugins with new features like [cargo-expand](https://github.com/dtolnay/cargo-expand), [cargo-deny](https://github.com/EmbarkStudios/cargo-deny), [cargo-watch](https://github.com/passcod/cargo-watch), [cargo-geiger](https://github.com/anderejd/cargo-geiger) or [https://github.com/lu-zero/cargo-c](https://github.com/lu-zero/cargo-c). Check the complete list in the [cargo wiki](https://github.com/rust-lang/cargo/wiki/Third-party-cargo-subcommands)
