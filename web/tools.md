@@ -11,3 +11,13 @@ e-Commerce
 Static Site Generators
 ------
 * https://www.staticgen.com/
+
+
+Telegram 
+-----
+https://fopina.github.io/tgbot-pushitbot/
+
+
+Art
+------
+https://carbon.now.sh/
