@@ -13,11 +13,25 @@ Static Site Generators
 * https://www.staticgen.com/
 
 
-Telegram 
+Telegram
 -----
-https://fopina.github.io/tgbot-pushitbot/
+* https://fopina.github.io/tgbot-pushitbot/
 
 
-Art
+Draw & Art
 ------
-https://carbon.now.sh/
+* https://excalidraw.com/
+* https://ivanceras.github.io/svgbob-editor/
+* https://carbon.now.sh/
+
+
+VMs and other
+----
+* https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/
+* https://webassembly.sh
+
+
+Data
+----
+* https://transform.tools/
+* https://colab.research.google.com/notebooks/intro.ipynb
