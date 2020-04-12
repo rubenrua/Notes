@@ -56,6 +56,18 @@ utterance.voice = voice;
 window.speechSynthesis.speak(utterance);
 ```
 
+or
+
+```
+var msg = new SpeechSynthesisUtterance();
+var voices = window.speechSynthesis.getVoices();
+msg.voice = voices[50];
+msg.voiceURI = 'native';
+msg.text = 'Gosh! I do believe my browser can talk';
+speechSynthesis.speak(msg);
+```
+from: https://twitter.com/pragdave/status/1227998341256097794
+
 * The Intl.RelativeTimeFormat and Intl.ListFormat API
 ```js
 // not always have to use numeric value in the output.

@@ -48,4 +48,13 @@ touch ./src/*.rs && cargo clippy --no-default-features -- -A clippy::cast_ptr_al
 ```
 
 
-* And, if it was not enough, also has a lot of plugins with new features like [cargo-expand](https://github.com/dtolnay/cargo-expand), [cargo-deny](https://github.com/EmbarkStudios/cargo-deny), [cargo-watch](https://github.com/passcod/cargo-watch), [cargo-geiger](https://github.com/anderejd/cargo-geiger) or [https://github.com/lu-zero/cargo-c](https://github.com/lu-zero/cargo-c). Check the complete list in the [cargo wiki](https://github.com/rust-lang/cargo/wiki/Third-party-cargo-subcommands)
+* And, if it was not enough, also has a lot of plugins with new features like:
+
+  * [cargo-expand](https://github.com/dtolnay/cargo-expand)
+  * [cargo-deny](https://github.com/EmbarkStudios/cargo-deny)
+  * [cargo-watch](https://github.com/passcod/cargo-watch)
+  * [cargo-geiger](https://github.com/anderejd/cargo-geiger)
+  * [cargo-c](https://github.com/lu-zero/cargo-c)
+  * [flamegraph](https://github.com/flamegraph-rs/flamegraph).
+
+Check the complete list in the [cargo wiki](https://github.com/rust-lang/cargo/wiki/Third-party-cargo-subcommands)

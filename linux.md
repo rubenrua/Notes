@@ -3,6 +3,10 @@
 
 ## Tips:
 
+### Pipe magic
+`cat data_access.log 2>&1 | grep key` == `cat data_access.log |& grep key`
+`cat data_access.log | grep key` == `cat data_access.log > >(grep key)`
+
 ### Feature comparison of ack, ag, git-grep, GNU grep and ripgrep
 
 https://beyondgrep.com/feature-comparison/
@@ -56,9 +60,10 @@ http://www.thegeekstuff.com/2011/11/strace-examples/
 ```sh
 #Shared library dependencies
 ldd /bin/ls
+objdump -p /bin/ls | grep NEEDED # or grep DLL for Windows libs
 
 #Disassemble
-objdump -d /bin/ls or nm /bin/ls
+objdump -d /bin/ls or nm /bin/ls or readelf -a /bin/ls
 
 #Debug (man ld.so)
 LD_DEBUG=libs /bin/ls # or ltrace
@@ -191,11 +196,10 @@ http://stackoverflow.com/questions/249703/how-can-a-process-intercept-stdout-and
 ###  HTTP Server easy in python
 
 ```
-$ python -m SimpleHTTPServer
-```
-```
 $ python3 -m http.server.
 ```
+
+https://gist.github.com/willurd/5720255
 
 ### Share or access to local ports
 
