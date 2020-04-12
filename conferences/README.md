@@ -6,6 +6,12 @@ Conferences
 
 **Follow the [Vigo Tech Alliance](http://vigotech.org/).**
 
+
+2020
+----
+
+* 04-040-2020 online - [Taller de Sketchnoting online](20200404-Sketchnoting.md)
+
 2019
 ----
 
