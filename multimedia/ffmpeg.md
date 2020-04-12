@@ -48,6 +48,7 @@ ffmpeg -nostats  -loop 1  -i image.png  -c:v libx264  -r 30 -t 5.000 -pix_fmt yu
 ##### TRIM:
 
 ```
+ffmpeg -strict unofficial -i #{in} -sameq -ss #{trim.start} -t #{trim.duration} -acodec copy -vcodec copy  #{out}
 ffmpeg -strict unofficial -sameq -ss #{trim.start} -t #{trim.duration} -i #{in} -acodec copy -vcodec copy  #{out}
 ```
 
