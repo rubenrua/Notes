@@ -75,6 +75,8 @@ ffmpeg -vf scale=960:540,setsar=1:1 -f mp4 -threads 0  -i #{in}   #{out}
 ```
 ffmpeg -i before.mp4 -i after.mp4 -filter_complex "[0:v:0]pad=iw*2:ih[bg]; [bg][1:v:0]overlay=w" output.mp4
 ffmpeg -i before.mp4 -i after.mp4 -filter_complex "[0:v]scale=640:-1[ab], [ab]fps=fps=30[a], [a]pad=1280:720:0:120+((480-in_h)/2) [bg], [1:v]scale=640:-1[bb], [bb]fps=fps=30[b], [bg][b]overlay=w:120+((480-h)/2)" output.mp4
+ffmpeg -i before.mp4 -i after.mp4 -filter_complex hstack hmerge.mp4
+ffmpeg -i before.mp4 -i after.mp4 -filter_complex vstack vmerge.mp4
 ```
 
 ##### CONCAT:
