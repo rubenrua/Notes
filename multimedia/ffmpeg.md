@@ -79,6 +79,14 @@ ffmpeg -i before.mp4 -i after.mp4 -filter_complex hstack hmerge.mp4
 ffmpeg -i before.mp4 -i after.mp4 -filter_complex vstack vmerge.mp4
 ```
 
+##### STABILIZING VIDEO (only with --enable-libvidstab):
+
+```
+ffmpeg -i GOPR7182.MP4 -vf vidstabdetect=stepsize=32:shakiness=10:accuracy=10:result=transform_vectors.trf -f null -
+ffmpeg -i GOPR7182.MP4 -vf vidstabtransform=input=transform_vectors.trf:zoom=0:smoothing=10,unsharp=5:5:0.8:3:3:0.4 -vcodec libx264 -tune film -acodec copy -preset slow stabilized.mp4
+```
+
+
 ##### CONCAT:
 
 ```
