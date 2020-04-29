@@ -14,6 +14,8 @@ Links:
 * http://smalltalk.gnu.org/blog/bonzinip/all-you-should-really-know-about-autoconf-and-automake
 * http://c-faq.com/decl/spiral.anderson.html
 * https://cdecl.org/ (C ↔ English)
+* https://akkadia.org/drepper/dsohowto.pdf
+* https://medium.com/nataraj-raghavendra/symbolism-in-nm-4af02e425710
 
 Coding style:
 -------------
