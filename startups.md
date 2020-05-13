@@ -19,6 +19,7 @@ Otros
 * https://www.startupdigest.com/digests/galicia
 * https://masquestartups.com (PODCAST)
 * https://blog.kfund.vc/tagged/podcast (PODCAST)
+* https://itnig.net/podcast/ (PODCAST)
 * http://www.rtve.es/corporacion/impulsavision/
 
 
