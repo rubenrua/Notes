@@ -2,6 +2,7 @@ RUST
 ====
 
 > "Rust. Fast, safe and productive - pick three."
+> "I think writing Rust is actually pair programming. You are the driver and compiler is the navigator."
 
 
 LINKS
@@ -32,6 +33,7 @@ Waiting
 * Functions with keyword args, optional args, and/or variable-arity argument (varargs) lists: https://github.com/rust-lang/rfcs/issues/323
 * Generic SQL bindings: https://github.com/rust-lang/rfcs/issues/798
 * Enum variant types: https://github.com/rust-lang/rfcs/pull/2593
+* Warning redefining an OS call: https://fnordig.de/2020/05/02/rust-in-an-instant/
 
 Code Examples
 --------
