@@ -70,11 +70,8 @@ cat /dev/dvb/adapter0/dvr0 | pv -r > /dev/null
 ### NET
 
 * iperf
-
 * ifstat
-
 * iptraf
-
 * lmbench:
 ```
 ./lmbench/bin/i686-pc-linux-gnu/bw_mem 256m rd 268.44 3913.68
@@ -83,15 +80,10 @@ cat /dev/dvb/adapter0/dvr0 | pv -r > /dev/null
 ### HTTP
 
 * Apache HTTP server benchmarking tool (ab): https://httpd.apache.org/docs/2.4/programs/ab.html
-
 * h2load: https://nghttp2.org/documentation/h2load.1.html
-
 * Locust: http://locust.io/
-
 * Gatlink: https://gatling.io
-
 * GoReplay: https://goreplay.org/
-
 * NGINX: https://github.com/lebinh/ngxtop and https://github.com/vozlt/nginx-module-vts and https://goaccess.io/
 
 ### CPU
@@ -102,7 +94,7 @@ cat /dev/dvb/adapter0/dvr0 | pv -r > /dev/null
 ```
 /usr/bin/time -v 'ffprobe 8seg.mp4'
 ```
-
+* https://github.com/KDAB/hotspot
 * Intel® Performance Counter Monitor (PCM): https://software.intel.com/en-us/articles/intel-performance-counter-monitor
 
 
