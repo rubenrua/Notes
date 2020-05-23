@@ -64,6 +64,7 @@ SAD
 * PHP current status (No `doctrine/mongodb-odm`, No `api-platform`)
 * Spanish Text Index stemming: https://jira.mongodb.org/browse/SERVER-15027 https://groups.google.com/d/msg/mongodb-user/yEnD21E_9q0/WoIR7-jtAAAJ
 * Aggregation $group performance: https://jira.mongodb.org/browse/SERVER-4507
+* https://news.ycombinator.com/item?id=23270429
 
 
 Links
