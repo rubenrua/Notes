@@ -48,6 +48,7 @@ COMMANDS:
 * delete-duplicate-lines (Emacs 24.4) delete duplicated lines in text selection.
 * package-list-packages: Fetch and display the list of available packages.
 * whitespace-cleanup: Cleanup some blank problems in all buffer or at region.
+* kmacro-insert-counter: Generate a secuente `C-x ( C-x C-k TAB . RET C-x )`
 
 EMACS FILE:
 ------------
