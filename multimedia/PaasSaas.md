@@ -59,3 +59,4 @@ Companies
 * https://mux.com
 * https://www.warpwire.com/
 * https://www.watchity.com/ (ES)
+* https://bitmovin.com/
