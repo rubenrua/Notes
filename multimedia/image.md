@@ -18,3 +18,5 @@ Video and Image Datesets
 * http://image-net.org
 * http://mscoco.org
 * https://www.pexels.com
+* https://github.com/Netflix/vmaf/blob/master/resource/doc/datasets.md
+* https://www.cdvl.org/
