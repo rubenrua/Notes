@@ -18,6 +18,12 @@ Telegram
 * https://fopina.github.io/tgbot-pushitbot/
 
 
+Share and P2P
+-----
+* https://send.firefox.com/
+* https://www.sharedrop.io/
+* https://github.com/syncthing/
+
 Draw & Art
 ------
 * https://excalidraw.com/
