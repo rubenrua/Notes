@@ -33,7 +33,7 @@ Links:
 * https://github.com/MaximAbramchuck/awesome-interview-questions
 * http://javisantana.com/2017/11/02/hiring-en-un-startup.html
 * https://github.com/viraptor/reverse-interview
-
+* http://javisantana.com/2020/06/25/contratar-a-la-persona-correcta.html
 
 
 ONBOARDING
