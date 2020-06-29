@@ -52,7 +52,7 @@ Links:
 * https://managementfromscratch.wordpress.com/2018/10/14/976/
 * https://medium.com/@flopezluis/onboarding-desde-el-otro-lado-209527b88b06
 * https://xala3pa.github.io/blog/onboarding/
-
+* https://gist.github.com/dbonillaf/40fe95ffbe5407e182998413a138e038
 
 
 RETENER TALENTO
