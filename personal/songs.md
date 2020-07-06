@@ -6,6 +6,7 @@ ANTES
  * Bob Dilan - Hurricane
  * Suaves - Pardao
  * Extremoduro - Jesucristo Garcia
+ * The mission BSO - Ennio Morricone
  * ...
 
 2011
