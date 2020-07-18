@@ -5,6 +5,7 @@ Taller de Sketchnoting online
 
 link: https://dibujandocharlas.com/taller-online/
 recording: https://t.co/Z6Fu8OX6bS
+material: https://preview.mailerlite.com/g7b2s0/1399135429785032672/z5w8/
 twitter: #dibujandounsabado
  https://twitter.com/Aitortxu/status/1246397610996445184
  https://twitter.com/ydarias/status/1246388012407275520
