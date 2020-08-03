@@ -71,3 +71,4 @@ screen /dev/tty.usbmodem2413 115200
  * https://www.blinkstick.com
  * https://sonoff.tech
  * https://bootlin.com/
+ * https://pikvm.org/ and https://mtlynch.io/tinypilot/
