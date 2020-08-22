@@ -16,6 +16,7 @@ Links:
 * https://cdecl.org/ (C ↔ English)
 * https://akkadia.org/drepper/dsohowto.pdf
 * https://medium.com/nataraj-raghavendra/symbolism-in-nm-4af02e425710
+* http://www.avabodh.com/cin/cin.html
 
 Coding style:
 -------------
