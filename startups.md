@@ -55,6 +55,7 @@ Quotes
 * ¿Los emprendedores nacen o se hacen? (Se contagian)
 * Only build solutions for problems that are urgent, pervasive and that the market will pay to solve.
 * Ningún árbol crece hasta el cielo
+* “People who say it cannot be done, should not interrupt those who are doing it” (Bernard Shaw)
 
 Incuvadoras vigo
 ----------------
