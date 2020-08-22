@@ -26,6 +26,7 @@ https://en.wikibooks.org/wiki/Unicode/List_of_useful_symbols
 ␣ ☐ • ► - TODO
 ★ ☒ ✗ ✘ - KO
 ☆ ☑ ✓ ✔ - OK
+↺  - OTHER
 ```
 
 Links
