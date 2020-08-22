@@ -94,6 +94,10 @@ cat /dev/dvb/adapter0/dvr0 | pv -r > /dev/null
 ```
 /usr/bin/time -v 'ffprobe 8seg.mp4'
 ```
+* perf
+```
+perf stat 'ffprobe 8seg.mp4'
+```
 * https://github.com/KDAB/hotspot
 * Intel® Performance Counter Monitor (PCM): https://software.intel.com/en-us/articles/intel-performance-counter-monitor
 
