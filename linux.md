@@ -201,6 +201,13 @@ $ python3 -m http.server.
 
 https://gist.github.com/willurd/5720255
 
+### Udev
+
+```
+udevadm info --attribute-walk --name=/dev/video0 | grep name
+echo 'KERNEL=="video[0-9]*", ATTR{name}=="rgb133 (0-0)", GROUP="video", SYMLINK+="screen"' > /etc/udev/rules.d/gc.rules
+```
+
 ### Share or access to local ports
 
 socat or ssh -L MY_PORT:HOST_IN_LOCAL_NET:LOCAL_PORT  root@proxy.com.gal
