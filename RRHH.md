@@ -34,6 +34,7 @@ Links:
 * http://javisantana.com/2017/11/02/hiring-en-un-startup.html
 * https://github.com/viraptor/reverse-interview
 * http://javisantana.com/2020/06/25/contratar-a-la-persona-correcta.html
+* https://gist.github.com/dbonillaf/40fe95ffbe5407e182998413a138e038
 
 
 ONBOARDING
