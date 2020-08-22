@@ -61,6 +61,12 @@ screen /dev/tty.usbmodem2413 115200
 
  * TODO
 
+## V4L2 M2M
+
+https://bootlin.com/
+https://static.sched.com/hosted_files/ossna2020/2b/2020-06%20ELCNA%20-%20Nicolas%20Dufresne.pdf
+https://linux-sunxi.org/Table_of_Allwinner_based_boards
+
 ## OTHER
 
  * https://www.kickstarter.com/projects/onion/omega2-5-iot-computer-with-wi-fi-powered-by-linux?lang=es
