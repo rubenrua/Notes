@@ -7,3 +7,4 @@ TODO
 * I Will Teach You To Be Rich by Ramit Sethi
 * The Total Money Makeover by Dave Ramsey
 * Unshakeable by Tony Robbins
+* Thinking, Fast and Slow
