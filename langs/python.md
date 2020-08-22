@@ -34,3 +34,4 @@ Other
  * https://github.com/faif/python-patterns
  * http://www.labri.fr/perso/nrougier/from-python-to-numpy
  * https://kate.io/blog/2017/08/22/weird-python-integers/
+ * http://nuitka.net/
