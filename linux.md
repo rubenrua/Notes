@@ -248,3 +248,4 @@ RequiredBy=multi-user.target
 * http://www.vicente-navarro.com/blog/2009/06/13/reenvio-dinamico-de-puertos-montar-un-servidor-socks-con-ssh/
 * autojump - https://olivierlacan.com/posts/cd-is-wasting-your-time/ (See https://github.com/clvv/fasd)
 * https://tldr.sh (alternative to man pages)
+* BPF https://blog.cloudflare.com/sandboxing-in-linux-with-zero-lines-of-code/
