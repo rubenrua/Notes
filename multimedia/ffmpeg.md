@@ -175,6 +175,12 @@ HLS:
 ffmpeg -f avfoundation -s 1280x720 -r 30 -i 0:0 -vcodec libx264 -preset ultrafast -keyint_min 0 -g 120 -b:v 1000k -ac 2 -strict 2 -acodec aac -b:a 64k -map 0:v -map 0:a -f hls -hls_time 8 test.m3u8
 ```
 
+HLS on rpi:
+```
+ffmpeg -framerate 30 -video_size 800x600 -i /dev/video0 c:v mjpeg -q:v 0 -f image2 -update 1 -atomic_writing 1 /tmp/webcam/jpeg/frame.jpg -c:v h264_omx -profile:v high -b:v 2048k -flags +cgop -g 30 -keyint_min 30 -f hls -hls_time 1  -hls_flags delete_segments+program_date_time+temp_file+independent_segments -hls_allow_cache 0 -hls_segment_type fmp4 -hls_list_size 32 -hls_delete_threshold 64 /tmp/webcam/hls/stream.m3u8
+```
+
+
 ##### RTSP
 
 ```
