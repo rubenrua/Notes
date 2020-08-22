@@ -27,7 +27,7 @@ FFI
 Waiting
 ------
 
-* ABI stability
+* ABI stability [(note)](https://people.gnome.org/~federico/blog/rust-stable-abi.html)
 * Less dependence on the LLVM project [(note)](https://jason-williams.co.uk/a-possible-new-backend-for-rust)
 * Default values for struct fields: https://github.com/rust-lang/rfcs/issues/1594
 * Functions with keyword args, optional args, and/or variable-arity argument (varargs) lists: https://github.com/rust-lang/rfcs/issues/323

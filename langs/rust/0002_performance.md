@@ -120,6 +120,6 @@ impl fmt::Display for Mistake {
 
 Notes:
 
- - Iterators usually are more efficient than using an index (like `for`s in C), because Rust enforces bounds checks.
+ - Iterators usually are more efficient than using an index (like `for`s in C), because Rust enforces bounds checks ([example](https://jneem.github.io/nnnoiseless/)).
  - [actix](https://github.com/actix/actix) is an Actor framework for Rust with [a small, pragmatic, and extremely fast rust web framework](https://github.com/actix/actix-web).
  - next: String vs &str
