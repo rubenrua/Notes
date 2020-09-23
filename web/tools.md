@@ -20,7 +20,9 @@ Telegram
 
 Share and P2P
 -----
-* https://send.firefox.com/
+* ~https://send.firefox.com/~ https://github.com/mozilla/send
+* https://webwormhole.io/
+* https://file.pizza/
 * https://www.sharedrop.io/
 * https://github.com/syncthing/
 
