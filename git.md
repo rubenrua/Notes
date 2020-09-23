@@ -328,6 +328,17 @@ GIT_DIR=~/src/github.com/rust-lang/rust/.git/ git log
 git  --git-dir ~/src/github.com/rust-lang/rust/.git/ log
 ```
 
+* Partial clone
+```sh
+git clone --filter=blob:limit=1m <url>
+git clone --no-checkout --filter=blob:none <url>
+git clone --no-checkout --filter=tree:none <url>
+```
+
+https://www.youtube.com/watch?v=0sRHRMp-Bpc
+
+
+
 gitflow
 ----
 * http://nvie.com/posts/a-successful-git-branching-model/
