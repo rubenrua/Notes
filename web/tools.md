@@ -43,3 +43,8 @@ Data
 ----
 * https://transform.tools/
 * https://colab.research.google.com/notebooks/intro.ipynb
+
+
+Mail
+----
+* https://www.1secmail.com/
