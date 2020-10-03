@@ -48,12 +48,13 @@ https://coderwall.com/p/yxeiiw
 ```
 
 
-* Using calc in CSS
+* Using calc/clamp in CSS
 ```css
 width: calc(50px * 2);
 width: calc(200px / 2);
 width: calc(40px + 40px);
 width: calc(200px - 80px);
+width: clamp(20ch, 50% - 2ch, 70ch);
 ```
 http://xitrus.es/blog/80/Cálculos_en_el_CSS_con_calc()_de_CSS3
 
