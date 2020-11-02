@@ -9,6 +9,7 @@
 ## RaspberryPi
 
  * https://www.raspberrypi.org/
+ * https://www.jeffgeerling.com/
 
 ### SSH
 
