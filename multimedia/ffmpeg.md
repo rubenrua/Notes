@@ -169,6 +169,9 @@ Dash:
 ```
 ffmpeg -f avfoundation -s 1280x720 -r 30 -i 0:0 -vcodec libx264 -preset ultrafast -keyint_min 0 -g 120 -b:v 1000k -ac 2 -strict 2 -acodec aac -b:a 64k -map 0:v -map 0:a -f dash -min_seg_duration 4000 -use_template 1 -use_timeline 0 -init_seg_name init-\$RepresentationID\$.mp4 -media_seg_name test-\$RepresentationID\$-\$Number\$.mp4 test.mpd
 ```
+```
+ffmpeg -f flv -listen 1 -i rtmp://192.168.50.165:1935/live/app -an -c:v copy -b:v 500k -ldash 1 -streaming 1 -use_template 1 -use_timeline 0 -seg_duration 4 -remove_at_exit 1 -f dash /usr/local/var/www/ldash/1.mpd
+```
 
 HLS:
 ```
