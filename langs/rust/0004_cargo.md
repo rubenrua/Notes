@@ -24,11 +24,18 @@ But cargo is more:
 
 ```
 rustup target add x86_64-unknown-linux-musl
-cargo build --target x86_64-unknown-linux-musl
+cargo build --target x86_64-unknown-linux-musl --release
 ldd target/x86_64-unknown-linux-musl/release/bin
 # not a dynamic executable
 file target/x86_64-unknown-linux-musl/release/bin
 # ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, BuildID[sha1]=de25e6720a53afe8ba4e17428d1b324e37094cee
+```
+```
+RUSTFLAGS='-C target-feature=+crt-static' cargo +nightly build --target x86_64-unknown-linux-gnu --release
+ldd target/x86_64-unknown-linux-gnu/release/bin
+# not a dynamic executable
+file target/x86_64-unknown-linux-gnu/release/bin
+# ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, BuildID[sha1]=8542a9fb9a37583177d8b0b9e427ee2afe7716e0, for GNU/Linux 3.2.0, with debug_info, not stripped
 ```
 
 * Cargo allows cross compilation. [From linux to windows example](https://stackoverflow.com/questions/31492799/cross-compile-a-rust-application-from-linux-to-windows)
