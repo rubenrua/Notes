@@ -51,3 +51,4 @@
 * https://ilia.ws/files/nginx_torontophpug.pdf
 * Other modern HTTP reverse proxy and load balancer: https://traefik.io/
 * https://tus.io/ (open protocol for resumable uploads)
+* NGINX configuration generator: https://github.com/digitalocean/nginxconfig.io
