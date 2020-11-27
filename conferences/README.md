@@ -10,7 +10,9 @@ Conferences
 2020
 ----
 
-* 04-040-2020 online - [Taller de Sketchnoting online](20200404-Sketchnoting.md)
+* 27-11-2020 online - [Tarugoconf Sofá Edition](https://www.tarugoconf.com/)
+* 27-10-2020 online - [demuxed](https://2020.demuxed.com/)
+* 04-04-2020 online - [Taller de Sketchnoting online](20200404-Sketchnoting.md)
 
 2019
 ----
