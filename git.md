@@ -71,6 +71,7 @@ git clean -xdf
 * Create a new branch
 ```sh
 git checkout -b branch_name
+git switch -c branch_name
 ```
 
 * List branches ordered by most recent commit.
@@ -91,6 +92,7 @@ git checkout -
 * Grab a file from another branch without switching branches:
 ```sh
 git checkout <BRANCH> -- path/to/file
+git show <COMMIT>:path/to/file > outfile
 ```
 
 * Delete remote branch or remote tag
@@ -115,7 +117,6 @@ git pull --prune
 ```sh
 git pull --autostash
 ```
-
 See `git configure remote.origin.prune true`
 
 * Delete commits from the remote repo using other branch (https://youtu.be/mdZvYyIKURo)
@@ -206,7 +207,7 @@ git push --tags
 
 * List git contributos
 ```sh
-git shortlog -s -n
+git shortlog -s -n -e
 ```
 
 * Git deamon
