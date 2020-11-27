@@ -26,6 +26,7 @@ Speech to text
 * https://cloud.google.com/speech/
 * https://wit.ai/
 * https://www.descript.com (podcast editor with text)
+* https://www.simonsays.ai/
 
 Annotations
 -----------
@@ -52,6 +53,12 @@ Images
 
 * https://www.imgix.com/
 * https://www.thumbr.io/
+
+GPU IaaS
+---------
+
+* https://gpueater.com/
+* https://www.scaleway.com/en/gpu-instances/
 
 Companies
 ---------
