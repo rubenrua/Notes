@@ -111,7 +111,7 @@ Langs
 -----
 
 * http://hyperpolyglot.org/
-* http://githut.info
+* https://octoverse.github.com/#top-languages ~http://githut.info~
 * http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
 * http://redmonk.com/sogrady/2018/03/07/language-rankings-1-18/
 * http://cwe.mitre.org/top25/
