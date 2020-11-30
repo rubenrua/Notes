@@ -41,6 +41,7 @@ Links
 -----
 
 * http://jvns.ca/blog/2017/03/26/bash-quirks/ (https://twitter.com/b0rk/status/846203979403083776)
+* https://wizardzines.com/comics/parameter-expansion/ by @b0rk
 * https://www.shellcheck.net/
 * https://eklitzke.org/bash-$%2A-and-$@ from https://news.ycombinator.com/item?id=22027809
 * https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html#tag_18_06_02
