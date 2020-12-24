@@ -10,7 +10,7 @@ e-Commerce
 
 Static Site Generators
 ------
-* https://www.staticgen.com/
+* https://www.staticgen.com/ or https://jamstack.org/generators/
 
 
 Telegram
