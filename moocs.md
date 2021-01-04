@@ -40,7 +40,7 @@ ONLINE COURSES
 * Operating System Engineering: https://pdos.csail.mit.edu/6.828/2019/schedule.html
 * The Missing Semester of Your CS Education: https://missing.csail.mit.edu/
 * Opera&ng Systems from the Ground Up: https://cs140e.stanford.edu
-* CS-3210: Design Operating Systems: https://tc.gts3.org/cs3210/2020/spring/
+* CS-3210: Design Operating Systems: https://tc.gts3.org/cs3210/2020/spring/ [rust]
 * Build a Modern Computer from First Principles: From Nand to Tetris: https://www.coursera.org/learn/build-a-computer
 * The Hardware/Software Interface Class: https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL
 
