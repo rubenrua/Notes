@@ -16,6 +16,7 @@ Otros
 -----
 * http://ofaro.gal
 * https://startupxplore.com
+* https://www.crunchbase.com
 * https://www.startupdigest.com/digests/galicia
 * https://masquestartups.com (PODCAST)
 * https://blog.kfund.vc/tagged/podcast (PODCAST)
