@@ -7,3 +7,4 @@ LINKS
 * http://shaka-player-demo.appspot.com/docs/api/tutorial-welcome.html
 * https://medium.com/canal-tech/how-video-streaming-works-on-the-web-an-introduction-7919739f7e1
 * http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
+* https://ciechanow.ski/cameras-and-lenses/
