@@ -27,7 +27,7 @@ Coding style:
 Tips
 ----
 
-* -Wall and -Wextra on GCC; -Weverything on Clang; /W4 or /Wall on MSVC
+* -Wall and -Wextra on GCC; -Weverything on Clang; /W4 or /Wall on MSVC (-E debug)
 * http://www.catb.org/esr/structure-packing/
 * http://www.catonmat.net/blog/simple-ld-preload-tutorial/ (http://occams-razor.webs.uvigo.es/download/occams-razor-01-03.pdf)
 * http://lxr.free-electrons.com/source/Documentation/assoc_array.txt
@@ -36,11 +36,12 @@ Tips
 Tools
 -----
 
-* Valgrind: http://valgrind.org/
+* Valgrind and cia: http://valgrind.org/  https://github.com/KDE/heaptrack
 * Meson: http://mesonbuild.com/
 * Copiler explorer: http://gcc.godbolt.org/
 * clang-format: http://releases.llvm.org/7.0.1/tools/clang/docs/ClangForm and GNU indent: https://www.gnu.org/software/indent/
-
+* List BC: https://abi-laboratory.pro/ ([example](https://abi-laboratory.pro/?view=timeline&l=glibc))
+* libc alt: [glibc](https://www.gnu.org/software/libc/), [musl](http://musl.libc.org/), [uClibc](https://www.uclibc.org/), [cosmopolitan](https://justine.lol/cosmopolitan/index.html). ([Comparison](http://www.etalabs.net/compare_libcs.html))
 
 Books
 -----
