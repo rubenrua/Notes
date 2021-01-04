@@ -231,3 +231,12 @@ ffprobe input.mp4 -select_streams v -show_frames  -show_entries frame=key_frame,
 ffprobe -show_streams nvidia_hw_encoding.mp4
 ffmpeg -i nvidia_hw_encoding.mp4 -c copy -bsf:v trace_headers -f null -
 ```
+
+
+#### DEBUG
+
+```
+ffmpeg -hide_banner -loglevel panic -i iphone_H265.mov -acodec copy -vcodec copy -f md5 -
+ffmpeg -hide_banner -loglevel panic -i iphone_H265.mov -acodec copy -vcodec copy -f framemd5 -
+```
+https://trac.ffmpeg.org/wiki/framemd5%20Intro%20and%20HowTo
