@@ -60,6 +60,16 @@ INTROS
 * https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/
 
 
+
+BOOKS
+-----
+
+* https://nnethercote.github.io/perf-book/introduction.html
+* https://rust-lang.github.io/async-book/index.html
+* https://doc.rust-lang.org/beta/nomicon/index.html
+* https://rustwasm.github.io/docs/book/
+* https://rust-unofficial.github.io/patterns/
+
 Other
 -------
 
