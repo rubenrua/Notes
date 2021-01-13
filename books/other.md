@@ -6,3 +6,4 @@ recopilate my ∞ list :(
 * Drive: The Surprising Truth About What Motivates Us (Daniel H. Pink)
 * https://twitter.com/standupmaths
 * Thinking, fast and slow (Daniel Kahneman)
+* Sapiens (Yuval Harari)
