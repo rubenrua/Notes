@@ -160,6 +160,7 @@ JUNIOR
 * https://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf
 * http://pythontutor.com/
 * https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl
+* https://chriskiehl.com/article/thoughts-after-6-years
 
 Other
 -----
