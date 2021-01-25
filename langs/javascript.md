@@ -90,6 +90,11 @@ lf.format(['Frank', 'Christine', 'Flora', 'Harrison']);
 // → 'Frank, Christine, Flora, and Harrison'
 ```
 
+* List video capabilities
+```js
+RTCRtpSender.getCapabilities('video')
+```
+from: https://twitter.com/maniksach/status/1352696407648477184?s=20
 
 Other:
 ------
