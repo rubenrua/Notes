@@ -10,6 +10,7 @@ LINKS
 
 * https://www.rust-lang.org
 * http://rustbyexample.com
+* https://cheats.rs/
 
 BLOGS
 -----
@@ -64,6 +65,7 @@ INTROS
 BOOKS
 -----
 
+* https://lborb.github.io/book/
 * https://nnethercote.github.io/perf-book/introduction.html
 * https://rust-lang.github.io/async-book/index.html
 * https://doc.rust-lang.org/beta/nomicon/index.html
