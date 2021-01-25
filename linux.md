@@ -56,14 +56,25 @@ strace -yy wget https://cdn0.bodas.net/usuarios/fotos/7/1/9/0/sfxb_376425.jpg
 http://www.thegeekstuff.com/2011/11/strace-examples/
 
 
+### BPF
+
+* https://blog.cloudflare.com/sandboxing-in-linux-with-zero-lines-of-code/
+* https://confused.ai/posts/intercepting-zoom-tls-encryption-bpf-uprobes
+
+
 ### Show info about a exec
 ```sh
 #Shared library dependencies
 ldd /bin/ls
+lddtree /bin/ls
 objdump -p /bin/ls | grep NEEDED # or grep DLL for Windows libs
 
+#Symbols
+nm -D /bin/ls or readelf -a /bin/ls
+
 #Disassemble
-objdump -d /bin/ls or nm /bin/ls or readelf -a /bin/ls
+objdump -d /bin/ls
+gdb -batch -ex "disassemble/rs main"  /bin/ls
 
 #Debug (man ld.so)
 LD_DEBUG=libs /bin/ls # or ltrace
@@ -201,6 +212,8 @@ $ python3 -m http.server.
 
 https://gist.github.com/willurd/5720255
 
+Special client:  aria2 (axel)
+
 ### Udev
 
 ```
@@ -255,4 +268,3 @@ RequiredBy=multi-user.target
 * http://www.vicente-navarro.com/blog/2009/06/13/reenvio-dinamico-de-puertos-montar-un-servidor-socks-con-ssh/
 * autojump - https://olivierlacan.com/posts/cd-is-wasting-your-time/ (See https://github.com/clvv/fasd)
 * https://tldr.sh (alternative to man pages)
-* BPF https://blog.cloudflare.com/sandboxing-in-linux-with-zero-lines-of-code/
