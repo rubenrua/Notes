@@ -34,6 +34,7 @@ Annotations
 * https://h5p.org/interactive-video
 * http://www.etiqmedia.com/ (ES)
 * https://labelbox.com/
+* https://superannotate.com/
 
 Storage
 -------
