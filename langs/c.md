@@ -36,7 +36,7 @@ Tips
 Tools
 -----
 
-* Valgrind and cia: http://valgrind.org/  https://github.com/KDE/heaptrack
+* Valgrind and cia: http://valgrind.org/  https://github.com/KDE/heaptrack https://github.com/koute/memory-profiler
 * Meson: http://mesonbuild.com/
 * Copiler explorer: http://gcc.godbolt.org/
 * clang-format: http://releases.llvm.org/7.0.1/tools/clang/docs/ClangForm and GNU indent: https://www.gnu.org/software/indent/
