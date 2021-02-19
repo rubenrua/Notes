@@ -114,6 +114,7 @@ flock -n /tmp/path.to.lockfile -c command with args
 
 http://www.elevatedcode.com/2013/05/07/flock-for-cron-jobs.html
 http://www.computerhope.com/unix/utrap.htm
+https://github.com/leahneukirchen/nq
 Other in GO [croncape](https://github.com/sensiocloud/croncape) [jobber](https://github.com/dshearer/jobber)
 
 
