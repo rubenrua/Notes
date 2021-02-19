@@ -25,6 +25,7 @@ PACKAGES:
 * auto-comple: http://auto-complete.org/
 * dumb-jump: https://github.com/jacktasia/dumb-jump/blob/master/README.md
 * ido: (part of Emacs starting with release 22)
+* Ivy, Counsel, Swiper: https://github.com/abo-abo/swiper
 * helm: https://github.com/emacs-helm/helm
 * magic: https://github.com/magit/magit
 * projectile: https://github.com/bbatsov/projectile
@@ -49,6 +50,8 @@ COMMANDS:
 * package-list-packages: Fetch and display the list of available packages.
 * whitespace-cleanup: Cleanup some blank problems in all buffer or at region.
 * kmacro-insert-counter: Generate a secuente `C-x ( C-x C-k TAB . RET C-x )`
+* global-display-line-numbers-mode: Useful for remote pair programing.
+* imenu
 
 EMACS FILE:
 ------------
