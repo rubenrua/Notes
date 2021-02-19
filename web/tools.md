@@ -39,11 +39,15 @@ VMs and other
 * https://webassembly.sh
 
 
+Design
+----
+* https://penpot.app/
+
 Data
 ----
 * https://transform.tools/
 * https://colab.research.google.com/notebooks/intro.ipynb
-
+* https://gradient.paperspace.com/
 
 Mail
 ----
