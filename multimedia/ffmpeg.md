@@ -208,6 +208,7 @@ ffmpeg -i {} -acodec aac -ab 128k -ac 1 -af pan="stereo:c0=c0:c1=-1*c1" -ar 4410
 ffmpeg -i test.mp4 -c:v rawvideo -pix_fmt yuv420p test.yuv
 ffplay -f rawvideo -pix_fmt yuv420p -s 1280x720 -i test.yuv
 ffmpeg -pix_fmts
+ffmpeg -i test.mp4  -c:v rawvideo  -an -f rawvideo - | ffplay -i - -f rawvideo -pix_fmt yuv420p -s 2560x1440
 ```
 
 
