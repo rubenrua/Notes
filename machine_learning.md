@@ -10,7 +10,7 @@ Courses:
 * https://www.coursera.org/learn/machine-learning ([Material](http://cs229.stanford.edu/materials.html))
 * https://www.udacity.com/course/deep-learning--ud730
 * https://github.com/spmallick/learnopencv
-
+* https://courses.opencv.org/
 
 Links:
 ------
@@ -27,6 +27,13 @@ Tuturials:
 * https://www.makeartwithpython.com/blog/poor-mans-deep-learning-camera/
 * https://webrtchacks.com/webrtc-cv-tensorflow/
 * https://medium.com/@ageitgey/build-a-face-recognition-system-for-60-with-the-new-nvidia-jetson-nano-2gb-and-python-46edbddd7264
+
+OAK-1
+------
+
+* https://docs.luxonis.com/en/latest/ ([src](https://github.com/luxonis/depthai-docs-website))
+* https://github.com/luxonis/depthai/tree/main
+* https://github.com/luxonis/depthai-experiments
 
 Other:
 -------
