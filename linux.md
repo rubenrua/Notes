@@ -18,9 +18,9 @@ cut -d " " -f 2 data_access.log | grep XXXX | sort | uniq -c | sort -h | sed 's/
 grep -o "start.*end" data_access.log | sort | uniq
 ```
 
-https://www.thegeekstuff.com/2013/06/cut-command-examples
-https://github.com/dbohdan/structured-text-tools
-https://www.datascienceatthecommandline.com
+https://www.thegeekstuff.com/2013/06/cut-command-examples  
+https://github.com/dbohdan/structured-text-tools  
+https://www.datascienceatthecommandline.com  
 
 ### Execute xargs in parallel
 ```sh
@@ -29,9 +29,9 @@ printf %s\\n {0..99} | xargs -n 1 -P 8 script-to-run.sh input/ output/
 cat commands.sh | xargs -P4  -I "{}" sh -c "{}"
 ```
 
-Note: See also `parallel`.
-https://stackoverflow.com/questions/28357997/running-programs-in-parallel-using-xargs
-https://mike42.me/blog/how-to-use-parallel-to-speed-up-your-work
+Note: See also `parallel`.  
+https://stackoverflow.com/questions/28357997/running-programs-in-parallel-using-xargs  
+https://mike42.me/blog/how-to-use-parallel-to-speed-up-your-work  
 
 ### Trace the Execution
 ```sh
@@ -112,10 +112,10 @@ http://manpages.ubuntu.com/manpages/precise/en/man1/pkexec.1.html
 flock -n /tmp/path.to.lockfile -c command with args
 ```
 
-http://www.elevatedcode.com/2013/05/07/flock-for-cron-jobs.html
-http://www.computerhope.com/unix/utrap.htm
-https://github.com/leahneukirchen/nq
-Other in GO [croncape](https://github.com/sensiocloud/croncape) [jobber](https://github.com/dshearer/jobber)
+http://www.elevatedcode.com/2013/05/07/flock-for-cron-jobs.html  
+http://www.computerhope.com/unix/utrap.htm  
+https://github.com/leahneukirchen/nq  
+Other in GO [croncape](https://github.com/sensiocloud/croncape) [jobber](https://github.com/dshearer/jobber)  
 
 
 ### Xephyr: Pseudo-X server
@@ -261,6 +261,13 @@ TimeoutStartSec=30
 RequiredBy=multi-user.target
 
 ```
+
+### About coreutils
+
+http://maizure.org/projects/decoded-gnu-coreutils/  
+https://news.ycombinator.com/item?id=26396798  
+https://busybox.net/  
+
 
 ## LINKS:
 
