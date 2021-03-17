@@ -50,7 +50,7 @@ COMMANDS:
 * package-list-packages: Fetch and display the list of available packages.
 * whitespace-cleanup: Cleanup some blank problems in all buffer or at region.
 * kmacro-insert-counter: Generate a secuente `C-x ( C-x C-k TAB . RET C-x )`
-* global-display-line-numbers-mode: Useful for remote pair programing.
+* global-display-line-numbers-mode or global-linum-mode: Useful for remote pair programing.
 * imenu
 
 EMACS FILE:
