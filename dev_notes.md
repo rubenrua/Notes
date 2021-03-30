@@ -71,6 +71,9 @@ If debugging is the process of removing bugs, then programming must be the proce
 
 If your software developers are able to accurately estimate how long something will take, you should fire them. If they've done something so many times before that they know exactly how long it'll take them to do it again, then they should have made a reusable solution by now.
 
+First Law of Software Architecture: Everything in software architecture is a trade-off.
+— Fundametals of Software Architecture. Mark Richards and Neal Ford
+
 More: https://twitter.com/CodeWisdom
 
 
