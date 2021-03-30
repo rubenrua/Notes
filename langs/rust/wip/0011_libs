@@ -1,3 +1,10 @@
+Syntactic sugar
+
+https://docs.rs/maplit/1.0.2/maplit/
+https://crates.io/crates/derive_is_enum_variant
+
+---
+
 Multimedia
 
 https://rustav.org/
@@ -26,3 +33,30 @@ PARSER
 
 
 https://github.com/Marwes/combine/wiki/Tutorial
+
+
+---
+
+BG JOBS
+
+https://github.com/sgrif/swirl
+
+
+----
+
+LDOPEN
+
+https://crates.io/crates/libloading
+
+----
+
+ART
+
+https://nannou.cc/
+
+-----
+test
+
+https://crates.io/crates/quickcheck
+https://crates.io/crates/hyperfine
+https://crates.io/crates/criterion

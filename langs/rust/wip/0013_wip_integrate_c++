@@ -1,0 +1,5 @@
+> C++ has a very complex ABI, and the Rust ABI is not frozen. However, both C++ and Rust support functions that use the C ABI. Therefore, interoperability between C++ and Rust involves writing things in such a way that C++ sees Rust code as C code and Rust sees C++ code as C code.
+
+https://cxx.rs/
+https://manishearth.github.io/blog/2021/02/22/integrating-rust-and-c-plus-plus-in-firefox/
+https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability
