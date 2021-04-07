@@ -99,6 +99,7 @@ cat /dev/dvb/adapter0/dvr0 | pv -r > /dev/null
 perf stat 'ffprobe 8seg.mp4'
 ```
 * https://github.com/namhyung/uftrace
+* https://gitlab.gnome.org/GNOME/sysprof
 * https://github.com/KDAB/hotspot
 * Intel® Performance Counter Monitor (PCM): https://software.intel.com/en-us/articles/intel-performance-counter-monitor
 
