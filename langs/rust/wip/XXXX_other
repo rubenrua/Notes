@@ -1,5 +1,5 @@
 https://rustyyato.github.io/rust/syntactic/sugar/2019/01/17/Closures-Magic-Functions.html
-
+https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md
 
 ---
 
@@ -9,3 +9,26 @@ https://rustyyato.github.io/rust/syntactic/sugar/2019/01/17/Closures-Magic-Funct
  • https://blog.jabid.in/2019/10/11/drop.html
  • https://twitter.com/lapsu/status/1185394714951999488?s=19
  • https://thesquareplanet.com/blog/rust-tips-and-tricks/
+
+
+----
+
+More
+
+[ ] https://docs.rs/bincode/1.0.1/bincode/ from https://deterministic.space/serve-archived-static-files-over-http.html
+[ ] https://crates.io/crates/derive_is_enum_variant from https://github.com/rust-net-web/accept-encoding
+[ ] println!("{:#?}", users); pretty output
+[ ] https://github.com/programble/scraper
+[ ] error_chain http://antoyo.ml/evolution-rust-programmer
+[ ] https://docs.rs/crate/fragile/0.3.0 https://coaxion.net/blog/2019/02/mpsc-channel-api-for-painless-usage-of-threads-with-gtk-in-rust/
+[ ] .collect::<Type>() serde_json::from_str::<Type>(line).unwrap()
+[ ] std::mem::size_of and size_of_val https://twitter.com/MaikKlein_DEV/status/1159445743926763521?s=20
+[ ] std::mem::replace https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs/blob/0.5.2/gst-plugin-s3/src/s3sink.rs#L444
+[ ] https://github.com/async-rs/async-std
+[ ] https://twitter.com/focusaurus/status/1177221145587830784?s=19
+[ ] Libloading http://adventures.michaelfbryan.com/posts/plugins-in-rust/ y https://github.com/kmdouglass/rust-libloading-example
+[ ] https://github.com/sdroege/gst-plugin-rs/commit/074a82d8ad44d7c7988c5e79296b03349b416797 and https://www.reddit.com/r/rust/comments/7pvoja/comment/dskghgr
+[ ] https://github.com/japaric/rust-san/blob/master/README.md
+[ ] https://docs.rs/anyhow/
+[ ] https://docs.rs/smallvec/1.2.0/smallvec/
+[ ] https://github.com/imazen/imageflow
