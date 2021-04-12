@@ -111,3 +111,5 @@ OTHER
 * https://github.com/PixarAnimationStudios/OpenTimelineIO
 * https://min.io/ (S3 API)
 * https://freenas.org/
+* https://vitrivr.org (content-based multimedia retrieval system)
+* https://mediapipe.dev (customizable ML solutions for live and streaming media)
