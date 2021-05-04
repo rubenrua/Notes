@@ -51,6 +51,7 @@ Tips
 SAD
 ---
 
+ * bus factor: https://blog.krakjoe.ninja/2021/05/avoiding-busses.html?m=1
  * Legacy PHP code
  * All is an array (list, dict, set...) [See php-ds](https://github.com/php-ds)
  * var_dump(0 == 'count'?true:false);
