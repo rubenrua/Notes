@@ -75,6 +75,7 @@ Or https://github.com/GoogleChromeLabs/ProjectVisBug
 Links
 ------
 
+ * More tips: https://markodenic.com/html-tips/
  * Bootstrap: http://getbootstrap.com/
  * Foundation: http://foundation.zurb.com
  * ANT DESIGN: https://ant.design (for ReactJS)
