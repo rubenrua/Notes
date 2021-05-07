@@ -26,6 +26,7 @@ Tools
  * https://pypi.python.org/pypi/virtualenv
  * https://black.readthedocs.io/en/stable/
  * https://lgtm.com/ (saas)
+ * https://semgrep.dev/ (multi-lang)
 
 Other
 -----

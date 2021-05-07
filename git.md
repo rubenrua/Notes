@@ -358,3 +358,4 @@ other
 * https://help.github.com/articles/remove-sensitive-data/
 * https://vimeo.com/82408340
 * http://ndpsoftware.com/git-cheatsheet.html
+* https://github.com/jonas/tig

@@ -52,3 +52,7 @@ Data
 Mail
 ----
 * https://www.1secmail.com/
+
+Calendar
+--------
+* https://calendso.com/
