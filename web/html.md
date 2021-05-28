@@ -72,6 +72,15 @@ document.designMode = 'on'
 Or https://github.com/GoogleChromeLabs/ProjectVisBug
 
 
+* Link to text fragment
+
+```
+https://blog.chromium.org/2019/12/chrome-80-content-indexing-es-modules.html#:~:text=ECMAScript%20Modules%20in%20Web%20Workers
+https://github.com/rubenrua/Notes/blob/master/web/html.md#:~:text=Link%20to%20text%20fragment
+```
+https://web.dev/text-fragments
+https://caniuse.com/url-scroll-to-text-fragment
+
 Links
 ------
 
