@@ -1,0 +1,24 @@
+https://rustyyato.github.io/rust/syntactic/sugar/2019/01/17/Closures-Magic-Functions.html
+
+```
+fn foo(mut f: impl FnMut() + Copy) {
+    f();
+}
+
+fn bar(mut f: impl FnMut() + Copy) {
+    f();
+    foo(f);
+    f();
+    foo(f);
+}
+
+fn main() {
+    let mut i = 0;
+    bar(move || {
+        i += 1;
+        println!("{}", i);
+    });
+}
+```
+
+https://twitter.com/RReverser/status/1392917726541361161
