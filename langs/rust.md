@@ -46,20 +46,11 @@ IDEs
 * [emacs conf](http://willspeak.me/2018/12/08/racing-onwards.html) [other old](https://gist.github.com/jonathandturner/f529be1ed6e25f06952f0600dcfa9a3d)
 * https://intellij-rust.github.io/
 
-CARGO PLUGINS
--------------
-
-* https://github.com/dtolnay/cargo-expand
-* https://github.com/rustsec/cargo-audit
-* https://github.com/passcod/cargo-watch
-* https://github.com/rust-lang/cargo/wiki/Third-party-cargo-subcommands
-
 INTROS
 ------
 
 * https://speakerdeck.com/hywan/hello-rust-an-overview
 * https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/
-
 
 
 BOOKS
