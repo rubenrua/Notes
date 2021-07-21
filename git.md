@@ -84,6 +84,11 @@ git for-each-ref --sort=-committerdate refs/remotes
 git merge-base A B
 ```
 
+* Get all the branches where the commit exists
+```sh
+git branch --contains <commit-id>
+```
+
 * Checkout your last branch
 ```sh
 git checkout -
@@ -359,3 +364,5 @@ other
 * https://vimeo.com/82408340
 * http://ndpsoftware.com/git-cheatsheet.html
 * https://github.com/jonas/tig
+* https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame
+* https://github.com/korfuri/awesome-monorepo

@@ -15,3 +15,4 @@
 * http://chris.beams.io/posts/git-commit/
 * http://whatthecommit.com/index.txt
 * https://www.conventionalcommits.org
+* https://api.coala.io/en/latest/Developers/Writing_Good_Commits.html

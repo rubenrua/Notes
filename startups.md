@@ -59,6 +59,13 @@ Quotes
 * People who say it cannot be done, should not interrupt those who are doing it (Bernard Shaw)
 * When failure is expensive, plan carefully. When failure is cheap, act quickly. (James Clear)
 
+Palabros
+------------------
+* Incertidumbre / Uncertainty
+* Valor añadido / Added value
+* MPV / MVP
+* Cambio de contexto / Context switch
+
 Incuvadoras vigo
 ----------------
 * http://www.zfv.es/viavigo/index.php?objeto=aceleradora+startup
