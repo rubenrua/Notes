@@ -28,6 +28,7 @@ Quotes
  * 'Que todo cambie para que todo siga igual' o 'Lo que antes ser muy mal, Permanecer todo igual Y hoy resultar excelente'.
  * El coste de Netflix no son los 9 euros mensuales, son las 10 horas semanales.
  * Efecto/Fenomeno de Baader-Meinhof: Descubres algo y luego lo ves hasta en la sopa. (Ilusión de frecuencia)
+ * Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has. (Margaret Mead) 
  * Hasta para morir hay que tener suerte.
  * See startups.md and dev_notes.md
 

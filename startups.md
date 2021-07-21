@@ -59,6 +59,7 @@ Quotes
 * People who say it cannot be done, should not interrupt those who are doing it (Bernard Shaw)
 * When failure is expensive, plan carefully. When failure is cheap, act quickly. (James Clear)
 * Si no cuestan dinero no son principios, son opiniones. (Diego Mariño)
+* Let curiosity be your compass. It remains Day 1. (Jeff Bezos)
 
 Palabros
 ------------------
