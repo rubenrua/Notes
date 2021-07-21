@@ -5,15 +5,16 @@ Tips
 ----
 * TL;DR:
 ```
-    l(ist) - Displays 11 lines around the current line or continue the previous listing.
     s(tep) - Execute the current line, stop at the first possible occasion.
     n(ext) - Continue execution until the next line in the current function is reached or it returns.
+    finish - Execute until selected stack frame returns.    
+    stepi - Execute one machine instruction, then stop and return to the debugger.   
+    l(ist) - Displays 11 lines around the current line or continue the previous listing.
     b(reak) - Set a breakpoint (depending on the argument provided).
     p(rint) - Evaluate the expression in the current context and print its value. There’s also pp to display using pprint instead.
     r(eturn) - Continue execution until the current function returns.
     q(uit) - Quit the debugger.
-    finish - Execute until selected stack frame returns.
-    info - info about thread, stack, frame, args, locals, variables, breakpoints
+    info - info about thread, stack, frame, args, locals, variables, breakpoints    
 ```
 
 * `thread apply all bt` or `bt full`
@@ -70,6 +71,29 @@ https://stackoverflow.com/questions/5941158/gdb-print-to-file-instead-of-stdout
 https://stackoverflow.com/questions/1262639/multiple-commands-in-gdb-separated-by-some-sort-of-delimiter
 
 
+* Reload shares
+```
+info shared
+shared .
+# set auto-solib-add off # to disable outload
+```
+
+* Set source code directories
+```
+function (void) at  file.c:66
+file.c: No such file or directory.
+(gdb) dir /tmp/pr/PK_4.4.6211.0/source/modules/stub
+Source directories searched: /tmp/pr/PK_4.4.6211.0/source/modules/stub:$cdir:$cwd
+```
+
+* Inspect memory mappings
+```
+(gdb) catch syscall exit exit_group
+(gdb) run
+(gdb) info proc map
+```
+from https://fasterthanli.me/articles/whats-in-the-box
+
 
 gdbinit
 ----
@@ -84,6 +108,6 @@ Links
 * https://ccrma.stanford.edu/~jos/stkintro/Useful_commands_gdb.html
 * https://www-archive.mozilla.org/unix/debugging-faq
 * https://stackoverflow.com/questions/6517423/how-to-do-an-specific-action-when-a-certain-breakpoint-is-hit-in-gdb
-TODO
-
-
+* https://wiki.st.com/stm32mpu/wiki/GDB_commands
+* https://eocanha.org/blog/2021/04/27/gstreamer-webkit-debugging-by-instrumenting-source-code-1-3/
+* TODO
