@@ -27,6 +27,7 @@ Quotes
  * "One things that history teaches us is that we should never underestimate human stupidity". Yuval Harari
  * 'Que todo cambie para que todo siga igual' o 'Lo que antes ser muy mal, Permanecer todo igual Y hoy resultar excelente'.
  * El coste de Netflix no son los 9 euros mensuales, son las 10 horas semanales.
+ * Efecto/Fenomeno de Baader-Meinhof: Descubres algo y luego lo ves hasta en la sopa. (Ilusión de frecuencia)
  * Hasta para morir hay que tener suerte.
  * See startups.md and dev_notes.md
 
