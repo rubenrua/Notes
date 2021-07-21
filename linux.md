@@ -4,8 +4,8 @@
 ## Tips:
 
 ### Pipe magic
-`cat data_access.log 2>&1 | grep key` == `cat data_access.log |& grep key`
-`cat data_access.log | grep key` == `cat data_access.log > >(grep key)`
+`cat data_access.log 2>&1 | grep key` == `cat data_access.log |& grep key`  
+`cat data_access.log | grep key` == `cat data_access.log > >(grep key)`  
 
 ### Feature comparison of ack, ag, git-grep, GNU grep and ripgrep
 
@@ -58,8 +58,8 @@ http://www.thegeekstuff.com/2011/11/strace-examples/
 
 ### BPF
 
-* https://blog.cloudflare.com/sandboxing-in-linux-with-zero-lines-of-code/
-* https://confused.ai/posts/intercepting-zoom-tls-encryption-bpf-uprobes
+* https://blog.cloudflare.com/sandboxing-in-linux-with-zero-lines-of-code/  
+* https://confused.ai/posts/intercepting-zoom-tls-encryption-bpf-uprobes  
 
 
 ### Show info about a exec
@@ -237,7 +237,7 @@ ssh -p 2222 localhost && wget localhost:8080
 ```
 See: http://www.vicente-navarro.com/blog/2009/05/24/creando-tuneles-tcpip-port-forwarding-con-ssh-los-8-escenarios-posibles-usando-openssh/
 
-See also: https://ngrok.com, https://github.com/agrinman/tunnelto, https://github.com/schollz/croc, https://tmate.io/ and [socks](https://www.linode.com/docs/networking/ssh/setting-up-an-ssh-tunnel-with-your-linode-for-safe-browsing)
+See also: https://ngrok.com, https://github.com/agrinman/tunnelto, https://github.com/schollz/croc, https://tmate.io, https://github.com/Overv/outrun and [socks](https://www.linode.com/docs/networking/ssh/setting-up-an-ssh-tunnel-with-your-linode-for-safe-browsing)
 
 ### supervisord with systemd unit
 
