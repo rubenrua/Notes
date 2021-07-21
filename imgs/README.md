@@ -29,6 +29,8 @@ LOL (laughing out loud)
 ![Shrek Please](LOL/Please.jpg)
 ![Dynamic vs static types](LOL/dynamic_vs_static_types.jpg)
 ![Bug author](LOL/bug_author.jpg)
+|[Long term effects](LOL/long-term-effects.jpg)
+
 
 Gifs
 ------
