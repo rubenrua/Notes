@@ -210,6 +210,9 @@ ffplay -f rawvideo -pix_fmt yuv420p -s 1280x720 -i test.yuv
 ffmpeg -pix_fmts
 ffmpeg -i test.mp4  -c:v rawvideo  -an -f rawvideo - | ffplay -i - -f rawvideo -pix_fmt yuv420p -s 2560x1440
 ```
+https://trac.ffmpeg.org/wiki/colorspace  
+https://www.facebook.com/permalink.php?story_fbid=2413101932257643&id=100006735798590  
+
 
 
 ##### AV1
