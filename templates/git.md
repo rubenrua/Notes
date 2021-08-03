@@ -16,3 +16,4 @@
 * http://whatthecommit.com/index.txt
 * https://www.conventionalcommits.org
 * https://api.coala.io/en/latest/Developers/Writing_Good_Commits.html
+* https://github.com/nikitavoloboev/gitupdate

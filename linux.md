@@ -274,5 +274,5 @@ https://busybox.net/
 * https://github.com/0xAX/linux-insides
 * http://wiki.openvz.org/Package_managers
 * http://www.vicente-navarro.com/blog/2009/06/13/reenvio-dinamico-de-puertos-montar-un-servidor-socks-con-ssh/
-* autojump - https://olivierlacan.com/posts/cd-is-wasting-your-time/ (See https://github.com/clvv/fasd)
+* autojump - https://olivierlacan.com/posts/cd-is-wasting-your-time/ (See https://github.com/clvv/fasd or https://github.com/ajeetdsouza/zoxide)
 * https://tldr.sh (alternative to man pages)
