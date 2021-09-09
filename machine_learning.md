@@ -24,6 +24,7 @@ Links:
 Tuturials:
 ---------
 
+* https://sebastianraschka.com/blog/2020/numpy-intro.html
 * https://www.makeartwithpython.com/blog/poor-mans-deep-learning-camera/
 * https://webrtchacks.com/webrtc-cv-tensorflow/
 * https://medium.com/@ageitgey/build-a-face-recognition-system-for-60-with-the-new-nvidia-jetson-nano-2gb-and-python-46edbddd7264
