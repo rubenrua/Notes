@@ -60,7 +60,7 @@ http://www.thegeekstuff.com/2011/11/strace-examples/
 
 * https://blog.cloudflare.com/sandboxing-in-linux-with-zero-lines-of-code/  
 * https://confused.ai/posts/intercepting-zoom-tls-encryption-bpf-uprobes  
-
+* https://github.com/iovisor/bcc (https://www.brendangregg.com/blog/2021-08-27/slack-crashes-secret-stderr.html)
 
 ### Show info about a exec
 ```sh

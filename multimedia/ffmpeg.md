@@ -212,7 +212,7 @@ ffmpeg -i test.mp4  -c:v rawvideo  -an -f rawvideo - | ffplay -i - -f rawvideo -
 ```
 https://trac.ffmpeg.org/wiki/colorspace  
 https://www.facebook.com/permalink.php?story_fbid=2413101932257643&id=100006735798590  
-
+https://mux.com/blog/your-browser-and-my-browser-see-different-colors  
 
 
 ##### AV1

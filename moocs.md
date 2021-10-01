@@ -34,6 +34,7 @@ OTHER
 * https://webina.rs
 * https://stepik.org/catalog
 * https://www.classcentral.com/provider/coursera?sort=rating-up
+* https://courses.streaminglearningcenter.com
 
 ONLINE COURSES
 * Distributed Systems Engineering: https://pdos.csail.mit.edu/6.824/schedule.html

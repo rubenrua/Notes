@@ -67,6 +67,7 @@ Palabros
 * Valor añadido / Added value
 * MPV / MVP
 * Cambio de contexto / Context switch
+* Compartir conocimiento / Knowledge sharing
 
 Incuvadoras vigo
 ----------------

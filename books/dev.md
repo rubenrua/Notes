@@ -15,3 +15,4 @@ TODO
 * Design data intensive application
 * The Code Book by Simon Singh (https://simonsingh.net/books/the-code-book/the-book/read-an-excerpt/)
 * Software economics by Luis Artola (https://leanpub.com/software-economics)
+* BPF Performance Tools (https://www.brendangregg.com/bpf-performance-tools-book.html)

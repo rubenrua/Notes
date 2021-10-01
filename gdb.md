@@ -95,6 +95,17 @@ Source directories searched: /tmp/pr/PK_4.4.6211.0/source/modules/stub:$cdir:$cw
 from https://fasterthanli.me/articles/whats-in-the-box
 
 
+* Print instead of stopping inside a bp
+```
+break foo if x>0
+commands
+silent
+printf "x is %d\n",x
+cont
+end
+```
+from https://stackoverflow.com/questions/6517423/how-to-do-an-specific-action-when-a-certain-breakpoint-is-hit-in-gdb
+
 gdbinit
 ----
 https://github.com/rubenrua/dotfiles/blob/master/.gdbinit
@@ -111,3 +122,4 @@ Links
 * https://wiki.st.com/stm32mpu/wiki/GDB_commands
 * https://eocanha.org/blog/2021/04/27/gstreamer-webkit-debugging-by-instrumenting-source-code-1-3/
 * TODO
+

@@ -9,8 +9,7 @@ Courses:
 
 * https://www.coursera.org/learn/machine-learning ([Material](http://cs229.stanford.edu/materials.html))
 * https://www.udacity.com/course/deep-learning--ud730
-* https://github.com/spmallick/learnopencv
-* https://courses.opencv.org/
+* https://course.fast.ai/
 
 Links:
 ------

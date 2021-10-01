@@ -14,6 +14,8 @@ Ask a programmer to review 10 lines of code, he'll find 10 issues. Ask him to do
 
 El código es como un chiste, si lo explicas es malo.
 
+You can optimise for execution speed. You can optimise for space. But the most precious thing you should optimise for is understandability.
+
 Any fool can write code that a computer can understand. Good programmers write code that humans can understand (Escribes una vez, lees src cuatro veces.)
 — Martin Follen.
 
