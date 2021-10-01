@@ -16,6 +16,7 @@ https://beyondgrep.com/feature-comparison/
 grep XXXX data_access.log | sort | uniq -c | sort -h
 cut -d " " -f 2 data_access.log | grep XXXX | sort | uniq -c | sort -h | sed 's/\s\+/ /g'
 grep -o "start.*end" data_access.log | sort | uniq
+sed -n "s/${search}/${replace}/p" data_access.log # grep ${search} data_access.log | sed "s/${search}/${replace}/"
 ```
 
 https://www.thegeekstuff.com/2013/06/cut-command-examples  
