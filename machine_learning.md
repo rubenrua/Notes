@@ -1,8 +1,9 @@
 Machine Learning
 ================
 
-
 > Machine learning is the field of study that gives computers the ability to learn without being explicitly programmed.
+
+> The First Rule of Machine Learning: Start Without Machine Learning
 
 Courses:
 --------
