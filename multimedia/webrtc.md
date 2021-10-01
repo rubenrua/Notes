@@ -59,7 +59,7 @@ OTHER REAL TIME VIDEO PROTOCOLS
  * NEWTEK NDI [site](https://www.newtek.com/ndi/), [GStreamer](https://github.com/teltek/gst-plugin-ndi), [FFmpeg SRC](https://github.com/FFmpeg/FFmpeg/commit/4b32f8b3ebfa011fcc5991bcaa97c3f5b61b49ad#diff-c49182dc0c7a70b9cd2e10853d9ec6c7), [FFmpeg issue](https://trac.ffmpeg.org/ticket/7589)
  * SRT: [site](https://www.srtalliance.org/)
  * RIST: [site](http://videoservicesforum.org/RIST.shtml), [GStreamer commit](https://gitlab.freedesktop.org/gstreamer/gst-plugins-bad/merge_requests/289)
-
+ * WHTP: [site](https://www.ietf.org/archive/id/draft-ietf-wish-whip-00.html) [simple client](https://github.com/lminiero/simple-whip-client)
 
 OTHER
 -----
