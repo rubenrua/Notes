@@ -9,6 +9,7 @@ more:
 ```
 dpkg -c package.deb
 rpm -qlp package.rpm
+pacman -Qpl
 ```
 or
 ```
@@ -21,30 +22,35 @@ less package.{deb|rpm}
 ```
 dpkg -S file
 rpm -qf file
+pacman -Qo file
 ```
 
 * List installed pkgs
 ```
 dpkg -l
 rpm -qa
+pacman -Q
 ```
 
 * List files of an installed pkg
 ```
 dpkg -L package
 rpm -ql package
+pacman -Ql package
 ```
 
 * Show info of a pkg
 ```
 apt-cache show yasm
 rpm -qi package
+pacman -Qi package
 ```
 
 * Show info of a pkg file
 ```
 dpkg -I package.deb ????
 rpm -qpi package.rpm
+pacman -Qp
 ```
 or
 ```
@@ -90,3 +96,7 @@ sudo apt-mark showhold
 
 sudo yum install 'dnf-command(versionlock)'
 sudo yum versionlock add  <package-name>
+
+
+
+
