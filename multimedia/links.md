@@ -9,3 +9,4 @@ LINKS
 * http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
 * https://ciechanow.ski/cameras-and-lenses/
 * https://medium.com/tempus-ex/hello-video-codec-9937f64835bd
+* https://developer.chrome.com/blog/videong/

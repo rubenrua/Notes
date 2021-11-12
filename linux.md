@@ -272,7 +272,7 @@ https://busybox.net/
 
 ## LINKS:
 
-* https://github.com/0xAX/linux-insides
+* https://github.com/0xAX/linux-insides https://makelinux.github.io/kernel/map/
 * http://wiki.openvz.org/Package_managers
 * http://www.vicente-navarro.com/blog/2009/06/13/reenvio-dinamico-de-puertos-montar-un-servidor-socks-con-ssh/
 * autojump - https://olivierlacan.com/posts/cd-is-wasting-your-time/ (See https://github.com/clvv/fasd or https://github.com/ajeetdsouza/zoxide)

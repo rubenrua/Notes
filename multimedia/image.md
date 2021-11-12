@@ -30,3 +30,4 @@ Video and Image Datesets
 * https://www.pexels.com
 * https://github.com/Netflix/vmaf/blob/master/resource/doc/datasets.md
 * https://www.cdvl.org/
+* https://www.kaggle.com/datasets?tags=13207-Computer+Vision

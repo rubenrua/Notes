@@ -11,6 +11,7 @@ LINKS
 * https://www.rust-lang.org
 * http://rustbyexample.com
 * https://cheats.rs/
+* https://caniuse.rs/
 
 BLOGS
 -----
@@ -29,7 +30,7 @@ Waiting
 ------
 
 * ABI stability [(note)](https://people.gnome.org/~federico/blog/rust-stable-abi.html) [(note2)](https://gankra.github.io/blah/swift-abi/)
-* Less dependence on the LLVM project [(note)](https://jason-williams.co.uk/a-possible-new-backend-for-rust) [(gcc)](https://rust-gcc.github.io/)
+* Less dependence on the LLVM project [(note)](https://jason-williams.co.uk/a-possible-new-backend-for-rust) [(gcc)](https://rust-gcc.github.io/) [(gcc2)](https://lwn.net/Articles/871283/)
 * Default values for struct fields: https://github.com/rust-lang/rfcs/issues/1594
 * Functions with keyword args, optional args, and/or variable-arity argument (varargs) lists: https://github.com/rust-lang/rfcs/issues/323
 * Generic SQL bindings: https://github.com/rust-lang/rfcs/issues/798 [(check)](https://github.com/launchbadge/sqlx)

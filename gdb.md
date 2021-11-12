@@ -86,6 +86,19 @@ file.c: No such file or directory.
 Source directories searched: /tmp/pr/PK_4.4.6211.0/source/modules/stub:$cdir:$cwd
 ```
 
+* Install Debug Symbol Packages
+Ubuntu:
+```
+apt install debian-goodies
+find-dbgsym-packages [core_path|running_pid|binary_path]
+```
+from https://wiki.ubuntu.com/Debug%20Symbol%20Packages
+
+Centos:
+```
+dnf debuginfo-install xxxx
+```
+
 * Inspect memory mappings
 ```
 (gdb) catch syscall exit exit_group
