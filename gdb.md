@@ -70,6 +70,21 @@ https://stackoverflow.com/questions/5941158/gdb-print-to-file-instead-of-stdout
 ```
 https://stackoverflow.com/questions/1262639/multiple-commands-in-gdb-separated-by-some-sort-of-delimiter
 
+* Script
+```
+$ cat gdb.script
+file /usr/bin/gst-launch-1.0
+set args filesrc location= MPEG2_1080i_sample.mkv ! matroskademux ! fakesink
+break file.c:59 if j == 1615
+commands
+silent
+printf "GDB DEBUG i == %d\n", i
+cont
+end
+run
+$ gdb -x gdb.script
+```
+
 
 * Reload shares
 ```
