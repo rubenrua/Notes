@@ -3,7 +3,7 @@ GDB
 
 Tips
 ----
-* TL;DR:
+##### TL;DR:
 ```
     s(tep) - Execute the current line, stop at the first possible occasion.
     n(ext) - Continue execution until the next line in the current function is reached or it returns.
@@ -17,11 +17,13 @@ Tips
     info - info about thread, stack, frame, args, locals, variables, breakpoints    
 ```
 
-* `thread apply all bt` or `bt full`
+##### Full backtrace
+`thread apply all bt` or `bt full`
 
-* `CFLAGS='-O0 -ggdb3'`
+##### GDB CFLAGS
+`CFLAGS='-O0 -ggdb3'`
 
-* Breakpoints:
+##### Breakpoints:
 ```
 g_assert_not_reached();
 G_BREAKPOINT();
@@ -37,23 +39,23 @@ or
 break do_quert
 break fields.c:172
 ```
-* Printfs:
+##### Printfs:
 ```
 __builtin_printf
 __builtin_dump_struct      // https://clang.llvm.org/docs/LanguageExtensions.html#builtin-dump-struct
 ```
 
-* Args
+##### Args
 ```
 gdb --args gst-launch-1.0 videotestsrc num-buffers=200 pattern=1 ! video/x-raw, framerate=25/1 ! autovideoconvert  !  fakesink
 ```
 
-* Batch
+##### Batch
 ```
 gdb -batch -n -ex 'set pagination off' -ex run -ex bt -ex 'bt full' -ex 'thread apply all bt full' --args hello
 ```
 
-* Logging
+##### Logging
 ```
 (gdb) set logging on
 (gdb) set logging file my_god_object.log
@@ -61,7 +63,7 @@ gdb -batch -n -ex 'set pagination off' -ex run -ex bt -ex 'bt full' -ex 'thread 
 ```
 https://stackoverflow.com/questions/5941158/gdb-print-to-file-instead-of-stdout
 
-* Function
+##### Function
 ```
 (gdb) define fn
 > finish
@@ -70,7 +72,7 @@ https://stackoverflow.com/questions/5941158/gdb-print-to-file-instead-of-stdout
 ```
 https://stackoverflow.com/questions/1262639/multiple-commands-in-gdb-separated-by-some-sort-of-delimiter
 
-* Script
+##### Script
 ```
 $ cat gdb.script
 file /usr/bin/gst-launch-1.0
@@ -86,14 +88,14 @@ $ gdb -x gdb.script
 ```
 
 
-* Reload shares
+##### Reload shares
 ```
 info shared
 shared .
 # set auto-solib-add off # to disable outload
 ```
 
-* Set source code directories
+##### Set source code directories
 ```
 function (void) at  file.c:66
 file.c: No such file or directory.
@@ -101,7 +103,7 @@ file.c: No such file or directory.
 Source directories searched: /tmp/pr/PK_4.4.6211.0/source/modules/stub:$cdir:$cwd
 ```
 
-* Install Debug Symbol Packages
+##### Install Debug Symbol Packages
 Ubuntu:
 ```
 apt install debian-goodies
@@ -114,7 +116,7 @@ Centos:
 dnf debuginfo-install xxxx
 ```
 
-* Inspect memory mappings
+##### Inspect memory mappings
 ```
 (gdb) catch syscall exit exit_group
 (gdb) run
@@ -123,7 +125,7 @@ dnf debuginfo-install xxxx
 from https://fasterthanli.me/articles/whats-in-the-box
 
 
-* Print instead of stopping inside a bp
+##### Print instead of stopping inside a bp
 ```
 break foo if x>0
 commands
