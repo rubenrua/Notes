@@ -10,6 +10,7 @@
 
  * https://www.raspberrypi.org/
  * https://www.jeffgeerling.com/
+ * https://www.rgb-pi.com/
 
 ### SSH
 
