@@ -64,7 +64,7 @@ GPU IaaS
 
 ML Editors
 -----------
-* https://runwayml.com/
+* https://runwayml.com
 
 Companies
 ---------
