@@ -36,8 +36,24 @@ OAK-1
 * https://github.com/luxonis/depthai/tree/main
 * https://github.com/luxonis/depthai-experiments
 
+Tools
+-----
+* https://www.tensorflow.org/               Framework
+* https://keras.io/                         High level API Built on top of TF
+* https://pytorch.org/                      Framework
+* https://www.fast.ai/                      Framework
+* https://numpy.org/                        python lib
+* https://pandas.pydata.org/                python lib
+* https://jupyter.org/                      python tool
+* https://colab.research.google.com         online tool
+* https://onnx.ai/                          interoperability
+* https://gpuopen.com/radeon-ml/
+* https://www.khronos.org/opencl/
+* https://developer.nvidia.com/cuda-zone
+
 Other:
 -------
 * https://m.xataka.com/robotica-e-ia/aprende-sobre-inteligencia-artificial-por-internet-cursos-publicaciones-y-las-recomendaciones-de-expertos
 * https://github.com/eriklindernoren/ML-From-Scratch
 * https://www.kaggle.com/
+
