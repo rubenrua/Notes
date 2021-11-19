@@ -10,7 +10,17 @@ https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-stand
  • https://thesquareplanet.com/blog/rust-tips-and-tricks/
  • https://medium.com/itir/dyn-traits-in-rust-in-2-hours-1a44130ac514
 
+---
 
+Rust in OSS base projects:
+
+* Linux: https://security.googleblog.com/2021/04/rust-in-linux-kernel.html https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/
+* Android: https://security.googleblog.com/2021/06/rustc-interop-in-android-platform.html
+* Chromium: https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability
+* Mesa: https://indico.freedesktop.org/event/1/contributions/40/attachments/27/37/main.pdf
+* sqlite https://www.sqlite.org/whyc.html
+
+https://twitter.com/geofft/status/1439270891502948362?s=19
 ----
 
 More
