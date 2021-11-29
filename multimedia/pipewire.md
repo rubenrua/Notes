@@ -14,3 +14,4 @@ https://www.youtube.com/watch?v=jBrsW6eancA
 TOOLS
 -------
 https://gitlab.freedesktop.org/ryuukyu/helvum
+https://github.com/wwmm/easyeffects
