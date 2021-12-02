@@ -57,6 +57,10 @@ or
 less package.{deb|rpm}
 ```
 
+* Download a package
+```
+apt download gstreamer1.0-tools
+```
 
 * Build deps
 ```
@@ -68,6 +72,8 @@ Extract
 ==========
 ```
 ar x ffmpeg_4.2.1-2_armhf.deb
+dpkg -x ffmpeg_4.2.1-2_armhf.deb
+
 rpm2cpio ./packagecloud-test-1.1-1.x86_64.rpm | cpio -idmv
 ```
 

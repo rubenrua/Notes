@@ -166,6 +166,15 @@ fpm -s dir -t deb \
   -n name -v $VERSION_NUMBER .
 ```
 
+Fake:
+```
+equivs-control pkg-fake
+equivs-build pkg-fake
+dpkg -i pkg-fake.deb
+```
+From https://askubuntu.com/questions/18192/how-to-fake-a-package-version-installed
+
+
 ###  SSH: Avoid disconnection timeout
 
 ```

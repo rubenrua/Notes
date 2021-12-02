@@ -10,8 +10,11 @@ https://www.youtube.com/watch?v=jBrsW6eancA
 
 
 
+https://itso.dk/?p=730
 
 TOOLS
 -------
 https://gitlab.freedesktop.org/ryuukyu/helvum
 https://github.com/wwmm/easyeffects
+
+
