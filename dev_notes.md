@@ -127,7 +127,8 @@ Licenses and versions
 
 * http://choosealicense.com/
 * https://spdx.org/licenses/
-* Other [BLS license](https://blog.sentry.io/2019/11/06/relicensing-sentry/) [SSPL](https://www.mongodb.com/licensing/server-side-public-license/faq)
+* https://tldrlegal.com/
+* Other [BLS license](https://blog.sentry.io/2019/11/06/relicensing-sentry/) [SSPL](https://www.mongodb.com/licensing/server-side-public-license/faq) [Rust GStreamer LGPL plugins to MPL](https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs/-/issues/168) [OGG from GPL to a lax/very liberal license](https://lwn.net/2001/0301/a/rms-ov-license.php3)
 * http://semver.org/
 
 
