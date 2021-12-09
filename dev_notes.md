@@ -156,6 +156,7 @@ QA
 * https://medium.com/@fesja/10-skills-you-must-have-to-be-a-great-qa-40ee58232599#.sqdeviiap
 * http://fantasai.inkedblade.net/style/talks/filing-good-bugs/
 * https://github.com/minimaxir/big-list-of-naughty-strings
+* OSS samples: [coreutils](https://www.pixelbeat.org/docs/coreutils-testing.html), [sqlite](https://www.sqlite.org/testing.html), [Rust](https://brson.github.io/2017/07/10/how-rust-is-tested)
 
 JUNIOR
 ------
