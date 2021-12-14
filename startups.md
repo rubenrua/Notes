@@ -60,6 +60,7 @@ Quotes
 * When failure is expensive, plan carefully. When failure is cheap, act quickly. (James Clear)
 * Si no cuestan dinero no son principios, son opiniones. (Diego Mariño)
 * Let curiosity be your compass. It remains Day 1. (Jeff Bezos)
+* Organization is the enemy of innovation // Order or progress (Naval Ravikant)
 
 Palabros
 ------------------
