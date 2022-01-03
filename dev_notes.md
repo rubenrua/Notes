@@ -178,4 +178,5 @@ Other
 * https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
 * https://12factor.net/
 * http://10x.engineer https://twitter.com/skirani/status/1149302828420067328
+* http://programming-motherfucker.com/
 * https://sourcegraph.com/search
