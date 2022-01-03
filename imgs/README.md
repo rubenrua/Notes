@@ -30,7 +30,7 @@ LOL (laughing out loud)
 ![Dynamic vs static types](LOL/dynamic_vs_static_types.jpg)
 ![Bug author](LOL/bug_author.jpg)
 ![Long term effects](LOL/long-term-effects.jpg)
-
+![Ferris as Golang](https://github.com/mkrl/misbrands/blob/master/ferris.svg)
 
 Gifs
 ------
