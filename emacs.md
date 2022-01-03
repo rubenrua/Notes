@@ -19,6 +19,7 @@ LINKS:
 * http://spacemacs.org
 * http://emacs.sexy
 * https://cestlaz.github.io/stories/emacs/ and https://www.youtube.com/watch?v=49kBWM3RQQ8&list=PL9KxKa8NpFxIcNQa9js7dQQIHc81b0-Xg
+* https://github.com/susam/emfy
 
 PACKAGES:
 ----------
