@@ -50,5 +50,5 @@ Books
 -----
 
  * The C Programming Language (by Brian W. Kernighan and Dennis M. Ritchie)
- * Modern C (by Jens Gustedt) //https://gforge.inria.fr/frs/?group_id=6881
+ * Modern C (by Jens Gustedt) // https://gustedt.gitlabpages.inria.fr/modern-c/ 
  * Beej’s Guide to C Programming // http://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf
