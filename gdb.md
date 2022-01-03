@@ -136,6 +136,27 @@ end
 ```
 from https://stackoverflow.com/questions/6517423/how-to-do-an-specific-action-when-a-certain-breakpoint-is-hit-in-gdb
 
+
+##### Override system symbol
+```
+// File getenv.c
+// To compile: gcc -shared -Wall -fPIC -o getenv.so getenv.c -ldl
+// To use: export LD_PRELOAD="./getenv.so", then run any program you want
+// See http://www.catonmat.net/blog/simple-ld-preload-tutorial-part-2/
+#define _GNU_SOURCE
+#include <stdio.h>
+#include <dlfcn.h>
+// This function will take the place of the original getenv() in libc
+char *getenv(const char *name) {
+  printf("Calling getenv(\"%s\")\n", name);
+  char *(*original_getenv)(const char*);
+  original_getenv = dlsym(RTLD_NEXT, "getenv");
+  return (*original_getenv)(name);
+}
+```
+
+From https://github.com/zdobersek/libpine or https://frida.re (similar to https://blog.jhm.dev/posts/papers-please/)
+
 gdbinit
 ----
 https://github.com/rubenrua/dotfiles/blob/master/.gdbinit
