@@ -30,6 +30,8 @@ Quotes
  * Efecto/Fenomeno de Baader-Meinhof: Descubres algo y luego lo ves hasta en la sopa. (Ilusión de frecuencia, sesgo de confirmación)
  * Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has. (Margaret Mead) 
  * Hasta para morir hay que tener suerte.
+ * "La bondad tiene que ver con lo que haces, no con a quién rezas". (Terry Pratchett)
+ * "El respeto por la verdad está cerca de ser la base de toda moralidad". (Frank Herbert)
  * See startups.md and dev_notes.md
 
 Presentations
