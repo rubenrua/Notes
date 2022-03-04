@@ -18,3 +18,8 @@ dev
 * https://www.youtube.com/user/blinkontalks
 * https://github.com/keyou/chromium_demo
 * https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability
+
+other
+----
+* https://github.com/stream-projects/stream-video-image
+
