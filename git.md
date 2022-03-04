@@ -295,6 +295,11 @@ here'
 git show --numstat 38f1fed
 ```
 
+* Mean of lines per commit
+```
+git log --no-merges | awk 'BEGIN {commits=lines=0;} /^commit [0-9a-f]{40}/ {commits++;} /^ {4}/ {lines++;} END {print lines/commits;}'
+```
+
 * Cleanup unnecessary files and optimize the local repository
 ```sh
 git gc

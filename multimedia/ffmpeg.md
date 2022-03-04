@@ -140,6 +140,12 @@ ffmpeg -y -i source.avi -vcodec libx264 -vprofile baseline -level:v 3 -r 25 -pre
 https://trac.ffmpeg.org/wiki/Encode/H.264#Two-PassExample
 
 
+##### TEST SRC
+```
+ffmpeg -f lavfi -i testsrc=duration=10:size=1280x720:rate=30 testsrc.mpg
+ffmpeg -f lavfi -i testsrc=duration=10:size=1280x720:rate=30 -vf "drawtext=x=120:y=h-lh-1:fontsize=32:fontcolor=white:shadowcolor=black:shadowx=1:shadowy=1:timecode='00\:00\:00\:00':timecode_rate=30"  -vcodec libx264 testsrc.mp4
+```
+
 ##### DESKTOP CAPTURE TO V4L2 DEVICE:
 
 ```

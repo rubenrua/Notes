@@ -57,3 +57,7 @@ Mail
 Calendar
 --------
 * https://calendso.com/
+
+More
+-------
+* https://free-for.dev/

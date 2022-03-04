@@ -157,6 +157,10 @@ char *getenv(const char *name) {
 
 From https://github.com/zdobersek/libpine or https://frida.re (similar to https://blog.jhm.dev/posts/papers-please/)
 
+
+##### coredumpctl
+Ubuntu package systemd-coredump
+
 gdbinit
 ----
 https://github.com/rubenrua/dotfiles/blob/master/.gdbinit

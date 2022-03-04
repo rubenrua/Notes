@@ -7,6 +7,7 @@ Mecanical keyboards
 * https://kbdfans.com/
 * https://drop.com/
 * https://www.duckychannel.com.tw/en/Ducky-One2-sf - current
+* https://ergodox-ez.com/
 
 NASs
 -----------
