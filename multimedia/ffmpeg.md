@@ -274,3 +274,8 @@ ffmpeg -demuxers -hide_banner | tail -n +5 | cut -d' ' -f4 | xargs -i{} ffmpeg -
 ffmpeg -hwaccels               # List hardware acceleration components
 ffmpeg -init_hw_device list    # list hardware devices
 ```
+
+
+##### V4L2 LIST FORMATS
+ffmpeg -hide_banner -f video4linux2 -list_formats all -i /dev/video0
+
