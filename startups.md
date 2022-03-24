@@ -22,7 +22,7 @@ Otros
 * https://blog.kfund.vc/tagged/podcast (PODCAST)
 * https://itnig.net/podcast/ (PODCAST)
 * http://www.rtve.es/corporacion/impulsavision/
-
+* https://www.kfund.vc/spanish-ecosystem-insights (DATA)
 
 Links
 -----

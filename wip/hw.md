@@ -8,6 +8,7 @@ Mecanical keyboards
 * https://drop.com/
 * https://www.duckychannel.com.tw/en/Ducky-One2-sf - current
 * https://ergodox-ez.com/
+* https://keebfolio.netlify.app/
 
 NASs
 -----------

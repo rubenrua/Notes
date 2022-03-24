@@ -83,6 +83,10 @@ https://developer.mozilla.org/en/docs/Web/CSS/length
 https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
 
 
+* Aspect Ratio is Great
+
+https://css-irl.info/aspect-ratio-is-great/
+
 Links
 ------
 

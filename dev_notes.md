@@ -68,6 +68,9 @@ Rewrites only work if the people involved in the 1.0 are also involved in the 2.
 Cuando un sistema está en producción cuesta horrores sacarlo de ahí (preguntadle a los bancos)
 — @javisantana
 
+Cuando uno tiene un martillo todo le parecen clavos
+- Manel
+
 If debugging is the process of removing bugs, then programming must be the process of putting them in.
 — Edsger W. Dijkstra
 

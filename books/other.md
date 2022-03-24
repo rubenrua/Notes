@@ -7,3 +7,4 @@ recopilate my ∞ list :(
 * https://twitter.com/standupmaths
 * Thinking, fast and slow (Daniel Kahneman)
 * Sapiens (Yuval Harari)
+* Noise: A Flaw in Human Judgment
