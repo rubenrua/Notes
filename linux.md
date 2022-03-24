@@ -16,6 +16,7 @@ https://beyondgrep.com/feature-comparison/
 grep XXXX data_access.log | sort | uniq -c | sort -h
 cut -d " " -f 2 data_access.log | grep XXXX | sort | uniq -c | sort -h | sed 's/\s\+/ /g'
 grep -o "start.*end" data_access.log | sort | uniq
+grep -oP "definitely lost: \K[0-9,]" valgrind.out
 sed -n "s/${search}/${replace}/p" data_access.log # grep ${search} data_access.log | sed "s/${search}/${replace}/"
 cat yellow_tripdata_2014-09.csv | LANG=C sort --parallel=$(nproc) -S 50% -k5 -n -r -t "," | head -n 10
 ```
