@@ -19,6 +19,10 @@ Quality metrics amd other
 * PSNR https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio
 * VMAF https://github.com/Netflix/vmaf (videos only)
 
+```
+$ compare -verbose -fuzz 0.4% -metric PSNR -size 176x144 -depth 8 frame_1b.rgba frame_1a.rgba /tmp/diff.png
+$ dssim -o difference.png original.png modified.png
+```
 
 Video and Image Datesets
 ---------------

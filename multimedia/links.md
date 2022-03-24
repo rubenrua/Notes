@@ -12,6 +12,6 @@ LINKS
 * https://ciechanow.ski/cameras-and-lenses/
 * https://medium.com/tempus-ex/hello-video-codec-9937f64835bd
 * https://www.debugvideo.com/
-* https://codecalamity.com/hardware-encoding-4k-hdr10-videos/
+* https://codecalamity.com/category/video/
 * https://developer.chrome.com/blog/videong/
 * https://tinyurl.com/cros-gfx-video  [QA]

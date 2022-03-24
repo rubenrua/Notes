@@ -279,3 +279,5 @@ ffmpeg -init_hw_device list    # list hardware devices
 ##### V4L2 LIST FORMATS
 ffmpeg -hide_banner -f video4linux2 -list_formats all -i /dev/video0
 
+#####  VMAF
+ffmpeg -y -i "{converted}" -i "{original}" -lavfi "[0:v]fps=fps={fps}[input0_0];[1:v]fps=fps={fps}[input1_0];[input0_0][input1_0]libvmaf=log_fmt=json:model_path={model}:log_path={log_path}:ssim=1:psnr=1:n_threads=4" -report -f null -
