@@ -58,6 +58,15 @@ strace -yy wget https://cdn0.bodas.net/usuarios/fotos/7/1/9/0/sfxb_376425.jpg
 
 http://www.thegeekstuff.com/2011/11/strace-examples/
 
+```
+ltrace -x "@lib*"  gst-launch-1.0  -q videotestsrc num-buffers=10 ! cacasink
+ltrace -e "@lib*"  gst-launch-1.0  -q videotestsrc num-buffers=10 ! cacasink
+
+man ltrace (-C --demangle, -f Trace child processes, -c summary)
+```
+
+http://peeterjoot.com/2016/10/19/using-ltrace-to-dig-into-shared-libraries/
+
 
 ### BPF
 
