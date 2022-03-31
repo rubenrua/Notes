@@ -54,6 +54,14 @@ ART
 
 https://nannou.cc/
 
+
+----
+
+WEB
+
+https://yew.rs/ (frontend)
+https://github.com/deislabs/wagi (from https://github.com/rstropek/rust-samples/tree/master/hello-wagi)
+
 -----
 test
 
