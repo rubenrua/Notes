@@ -60,3 +60,6 @@ test
 https://crates.io/crates/quickcheck
 https://crates.io/crates/hyperfine
 https://crates.io/crates/criterion
+
+https://github.com/nextest-rs/nextest
+https://github.com/cucumber-rs/cucumber
