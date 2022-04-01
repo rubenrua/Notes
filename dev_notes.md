@@ -69,7 +69,7 @@ Cuando un sistema está en producción cuesta horrores sacarlo de ahí (pregunta
 — @javisantana
 
 Cuando uno tiene un martillo todo le parecen clavos
-- Manel
+— Manel
 
 If debugging is the process of removing bugs, then programming must be the process of putting them in.
 — Edsger W. Dijkstra
