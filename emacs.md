@@ -30,6 +30,7 @@ PACKAGES:
 * helm: https://github.com/emacs-helm/helm
 * magic: https://github.com/magit/magit
 * projectile: https://github.com/bbatsov/projectile
+* deadgrep: https://github.com/Wilfred/deadgrep
 
 COMMANDS:
 -----------
