@@ -356,7 +356,7 @@ gitflow
 * https://guides.github.com/introduction/flow/
 * http://stackoverflow.com/questions/18371741/git-branching-strategy-integated-with-testing-qa-process
 * https://trunkbaseddevelopment.com (alternative)
-
+* https://about.gitlab.com/blog/2020/01/30/all-aboard-merge-trains/
 
 gitconfig
 ----
