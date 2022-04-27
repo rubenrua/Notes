@@ -113,3 +113,4 @@ OTHER
 * https://freenas.org/
 * https://vitrivr.org (content-based multimedia retrieval system)
 * https://mediapipe.dev (customizable ML solutions for live and streaming media)
+* https://tdarr.io/ (https://github.com/HaveAGitGat/Tdarr)
