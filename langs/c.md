@@ -43,7 +43,7 @@ Tools
 * clang-format: http://releases.llvm.org/7.0.1/tools/clang/docs/ClangForm and GNU indent: https://www.gnu.org/software/indent/
 * List BC: https://abi-laboratory.pro/ ([example](https://abi-laboratory.pro/?view=timeline&l=glibc))
 * libc alt: [glibc](https://www.gnu.org/software/libc/), [musl](http://musl.libc.org/), [uClibc](https://www.uclibc.org/), [cosmopolitan](https://justine.lol/cosmopolitan/index.html). ([Comparison](http://www.etalabs.net/compare_libcs.html), [more wikipedia](https://en.wikipedia.org/wiki/Linux_kernel_interfaces#The_C_standard_library)) 
-* better C: https://github.com/git/git/blob/master/banned.h, https://github.com/microsoft/checkedc, https://github.com/google/wuffs....
+* better C: https://github.com/git/git/blob/master/banned.h, https://github.com/microsoft/checkedc, https://github.com/google/wuffs, https://ziglang.org/, https://harelang.org/....
 
 
 Books
