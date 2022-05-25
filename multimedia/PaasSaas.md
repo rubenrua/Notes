@@ -36,6 +36,7 @@ Annotations
 * https://labelbox.com/
 * https://superannotate.com/
 * https://roboflow.com/
+* https://frame.io/
 
 Storage
 -------
