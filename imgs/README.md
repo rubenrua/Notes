@@ -47,4 +47,5 @@ Gifs
 ![pena](gifs/pena.gif)  
 ![automatic failover](gifs/automatic-failover.gif)  
 ![shutupandtakemymoney](gifs/shutupandtakemymoney.gif)  
+![Matt D'Avella](gifs/matt-d-avella-running.gif)  
 ![welcome](gifs/welcome.gif)  
