@@ -7,7 +7,7 @@
 * Refactor subsystem X for readability
 * Remove deprecated methods
 * Release version 1.0.0
-
+* Fast CI, happy dev
 
 
 ## LINKS
