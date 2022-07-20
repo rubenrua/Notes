@@ -10,7 +10,7 @@ TOOLS
 * RE tester: https://regex101.com/
 * PHP and JS RE basic tester: http://regex.larsolavtorvik.com/
 * Regular expression generator: http://txt2re.com/index-python.php3?s=18:Aug:2014%20%22This%20is%20an%20Example!%22&9
-
+* English to RegEx with Natural Language Processing: https://www.autoregex.xyz/
 
 LINKS
 -----

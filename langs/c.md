@@ -33,6 +33,7 @@ Tips
 * http://lxr.free-electrons.com/source/Documentation/assoc_array.txt
 * http://blog.jpauli.tech/2016/11/30/on-c-performances.html
 * https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html
+* https://en.wikipedia.org/wiki/Profile-guided_optimization
 
 Tools
 -----

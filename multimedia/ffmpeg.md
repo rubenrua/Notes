@@ -11,6 +11,7 @@ LINKS
  * https://trac.ffmpeg.org/wiki/Concatenate *1
  * http://developer.download.nvidia.com/compute/redist/ffmpeg/1511-patch/FFMPEG-with-NVIDIA-Acceleration-on-Ubuntu_UG_v01.pdf
  * http://joinbox.github.io/dash-video/
+ * https://github.com/alfg/ffmpeg-commander
 
 
 TUTORIALS

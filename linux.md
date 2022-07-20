@@ -162,6 +162,14 @@ sudo apt-get build-dep XXXXXX
 dpkg-buildpackage -b -uc
 ```
 
+###  Brew: Recompile package from source
+```
+brew rm gst-plugins-bad
+brew edit gst-plugins-bad
+brew reinstall --build-from-source gst-plugins-bad
+```
+
+
 
 ### Debian: generate deb package.
 

@@ -11,6 +11,13 @@ Links
  * http://yosefk.com/c++fqa/
  * http://eel.is/c++draft/diff.iso & http://eel.is/c++draft/diff.library
 
+Other
+-----
+
+ * successors?:
+   * https://www.rust-lang.org/
+   * https://github.com/SerenityOS/jakt
+   * https://github.com/carbon-language/carbon-lang
 
 Books
 -----

@@ -66,6 +66,7 @@ GPU IaaS
 ML Editors
 -----------
 * https://runwayml.com
+* https://www.vidext.io/
 
 WebRTC
 ------
