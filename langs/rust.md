@@ -36,6 +36,7 @@ Waiting
 * Generic SQL bindings: https://github.com/rust-lang/rfcs/issues/798 [(check)](https://github.com/launchbadge/sqlx)
 * Warning redefining an OS call: https://fnordig.de/2020/05/02/rust-in-an-instant/
 * Implement likely/unlikely intrinsic: https://github.com/rust-lang/rust/issues/26179
+* Better C++ interoperability
 
 Code Examples
 --------
