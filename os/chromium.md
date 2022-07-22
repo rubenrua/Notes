@@ -11,6 +11,7 @@ releases
 * https://www.chromestatus.com/features/schedule
 * https://chromiumdash.appspot.com/releases?platform=Linux
 * https://fugu-tracker.web.app/
+* https://omahaproxy.appspot.com/
 
 dev
 ----
