@@ -34,7 +34,6 @@ Waiting
 * Default values for struct fields: https://github.com/rust-lang/rfcs/issues/1594
 * Functions with keyword args, optional args, and/or variable-arity argument (varargs) lists: https://github.com/rust-lang/rfcs/issues/323
 * Generic SQL bindings: https://github.com/rust-lang/rfcs/issues/798 [(check)](https://github.com/launchbadge/sqlx)
-* Enum variant types: https://github.com/rust-lang/rfcs/pull/2593
 * Warning redefining an OS call: https://fnordig.de/2020/05/02/rust-in-an-instant/
 * Implement likely/unlikely intrinsic: https://github.com/rust-lang/rust/issues/26179
 
