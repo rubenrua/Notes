@@ -14,6 +14,7 @@ Transcoder
 * http://coconut.co/ (http://www.heywatch.com/)
 * https://azure.microsoft.com/en-us/pricing/details/media-services/
 * https://transloadit.com/
+* https://octet.video/
 
 
 Speech to text
