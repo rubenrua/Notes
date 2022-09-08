@@ -255,6 +255,10 @@ Special client:  aria2 (axel)
 udevadm info --attribute-walk --name=/dev/video0 | grep name
 echo 'KERNEL=="video[0-9]*", ATTR{name}=="rgb133 (0-0)", GROUP="video", SYMLINK+="screen"' > /etc/udev/rules.d/gc.rules
 ```
+or
+```
+echo 'ACTION=="add", SUBSYSTEM=="video4linux", DRIVERS=="uvcvideo", RUN+="/usr/bin/v4l2-ctl --set-ctrl=power_line_frequency=1"' > /etc/udev/rules.d/v4l2.rules
+```
 
 ### Share or access to local ports
 
