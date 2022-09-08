@@ -1,4 +1,4 @@
-# 5.- Async .await
+# 6.- Async .await
 2019-11-08
 
 Yesterday, *async.await* syntax hit stable Rust, as part of the 1.39.0 release. Welcome!!!
