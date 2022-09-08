@@ -1,3 +1,4 @@
+
 Xeito: Palabra en Gallego; hacer las cosas con xeito es hacer las cosas bien y con rigor y arte. Vamos, no hacer trapalladas. Sedme xeitosos siempre.
 
 Talk is cheap. Show me the code
@@ -161,6 +162,11 @@ QA
 * http://fantasai.inkedblade.net/style/talks/filing-good-bugs/
 * https://github.com/minimaxir/big-list-of-naughty-strings
 * OSS samples: [coreutils](https://www.pixelbeat.org/docs/coreutils-testing.html), [sqlite](https://www.sqlite.org/testing.html), [Rust](https://brson.github.io/2017/07/10/how-rust-is-tested)
+
+SALES
+-----
+
+* https://news.disaaster.io/bc/y7teJbNFOpslkVXYUYcfb8YjGINH9L4FQI87ha/
 
 JUNIOR
 ------
