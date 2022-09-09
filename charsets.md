@@ -36,3 +36,4 @@ Links
 * https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/
 * http://www.emojitracker.com
 * https://github.com/migonzalvar/talks/tree/master/2016-11-php-vigo
+* https://github.com/BurntSushi/dotfiles/blob/cb01234174bd58194363e54e9c3c8b2ffa1774ef/bin/rust/find-invalid-utf8/main.rs 
