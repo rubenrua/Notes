@@ -42,7 +42,7 @@ pub const SOFTWARES: &[Software] = &[
 ];
 ```
 
-I want to use a contant static table with a list of a custom struct. And I need a function with an argument can be SOFTWARES or the output of filtering it:
+I want to use a constant static table with a list of a custom struct. And I need a function whose argument can be the table directly or the output of filtering it:
 
 ```
 fn f(s: ?????) {
@@ -120,7 +120,7 @@ fn main() {
 ```
 
 
-But we can do it better avoid cloning. After reading https://users.rust-lang.org/t/solved-function-taking-slice-of-objects-as-well-as-slice-of-references-to-objects/13553/3 a solution using AsRef jumps to the scenario:
+But we can do it better avoid cloning. After reading [a similar issue in the Rust forum](https://users.rust-lang.org/t/solved-function-taking-slice-of-objects-as-well-as-slice-of-references-to-objects/13553/3) a solution using `AsRef` jumps to the scenario:
 
 ```
 #[derive(Debug)]
@@ -183,7 +183,7 @@ fn main() {
 ```
 
 
-But impl AsRef<T> for T looks ugly. Playing with generating ASM and [rustfilt](https://github.com/luser/rustfilt) we can see the diff between the to `f` implemented:
+But impl AsRef<T> for T looks ugly. Playing with generating ASM and [rustfilt](https://github.com/luser/rustfilt) we can see the diff between the two `f` implemented:
  * Using `<&T as core::convert::AsRef<U>>::as_ref`
  * Using `<test::Software as core::convert::AsRef<test::Software>>::as_ref`
 
