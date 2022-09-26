@@ -1,3 +1,5 @@
+TODO
+
 Shared libraries has advantages like:
 
 * Security: Update the lib without update the bin
@@ -5,6 +7,7 @@ Shared libraries has advantages like:
 * Disk Usaga: Binaries using static libraries are bigger.
 * Memory footprint: Use dynamic libraries allows to  reduce a system's memory footprint by making every application share the same implementation of a library (Apple cares about this a lot on its mobile devices).
 * Shared libraries are dynamic: The ability to change which library is being used without needing to rebuild the main program (https://news.ycombinator.com/item?id=27010194)
+* Allow and prowerful closed libraries/SDKs (binaries without src).
 
 BUT static in general is the best
 https://twitter.com/ManishEarth/status/1364599927637041153?s=20
@@ -22,3 +25,6 @@ https://gankra.github.io/blah/swift-abi/
 
 
 > C++ has a very complex ABI, and the Rust ABI is not frozen. However, both C++ and Rust support functions that use the C ABI. Therefore, interoperability between C++ and Rust involves writing things in such a way that C++ sees Rust code as C code and Rust sees C++ code as C code.
+
+
+conclusion https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi
