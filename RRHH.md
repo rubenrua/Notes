@@ -35,6 +35,7 @@ Links:
 * https://github.com/viraptor/reverse-interview
 * http://javisantana.com/2020/06/25/contratar-a-la-persona-correcta.html
 * https://gist.github.com/dbonillaf/40fe95ffbe5407e182998413a138e038
+* https://github.com/jorgef/engineeringladders
 
 
 ONBOARDING

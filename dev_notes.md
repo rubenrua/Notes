@@ -177,6 +177,7 @@ JUNIOR
 * http://pythontutor.com/
 * https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl
 * https://chriskiehl.com/article/thoughts-after-6-years
+* https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
 
 Other
 -----

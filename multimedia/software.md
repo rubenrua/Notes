@@ -70,6 +70,7 @@ Speech to text
 * Mozilla DeepSpeech: https://github.com/mozilla/DeepSpeech
 * Picovoice Cheetah: http://picovoice.ai/
 * kaldi: http://kaldi-asr.org
+* whisper: https://openai.com/blog/whisper/
 
 Captions
 --------

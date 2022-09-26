@@ -12,6 +12,9 @@ https://www.youtube.com/watch?v=jBrsW6eancA
 
 https://itso.dk/?p=730
 
+
+https://bootlin.com/blog/an-introduction-to-pipewire/  (from https://news.ycombinator.com/item?id=32629624)
+
 TOOLS
 -------
 https://gitlab.freedesktop.org/ryuukyu/helvum

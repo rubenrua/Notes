@@ -37,6 +37,7 @@ Waiting
 * Warning redefining an OS call: https://fnordig.de/2020/05/02/rust-in-an-instant/
 * Implement likely/unlikely intrinsic: https://github.com/rust-lang/rust/issues/26179
 * Better C++ interoperability
+* Sandboxed build.rs
 
 Code Examples
 --------
@@ -64,6 +65,7 @@ BOOKS
 * https://doc.rust-lang.org/beta/nomicon/index.html
 * https://rustwasm.github.io/docs/book/
 * https://rust-unofficial.github.io/patterns/
+* https://rust-lang.github.io/api-guidelines/about.html
 
 Other
 -------
