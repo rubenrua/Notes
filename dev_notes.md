@@ -28,6 +28,9 @@ A new scientific truth does not triumph by convincing its opponents and making t
 
 Complexity is like a bug light for smart people. We can't resist it, even though we know it's bad for us.
 
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies.
+— Tony Hoare
+
 Technical debt is not created all at once. It's the accumulation of many small shortcuts over time. A few extra minutes early on could save hours or days of maintenance over time.
 — Eric Elliott
 
