@@ -16,3 +16,4 @@ LINKS
 * https://developer.chrome.com/blog/videong/
 * https://tinyurl.com/cros-gfx-video  [QA]
 * http://mp4ra.org/#/codecs
+* https://github.com/OmarShehata/jpeg-sandbox [JPEG]
