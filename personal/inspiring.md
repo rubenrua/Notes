@@ -13,6 +13,7 @@ Songs
 
 Quotes
 -------
+ * Que prefieres: a) usar una calculadora b) arreglar una calculadora c) vender una calculadora
  * "Hacer menos cosas pero hacerlas mejor."
  * "Que tu pereza nunca supere tu curiosidad"
  * "Piensa en grande pero ejecuta en pequeño."
