@@ -14,10 +14,10 @@ Static Site Generators
 * https://www.staticgen.com/ or https://jamstack.org/generators/
 
 
-Telegram
+Telegram & Notifications
 -----
 * https://fopina.github.io/tgbot-pushitbot/
-
+* https://ntfy.sh/
 
 Share and P2P
 -----
