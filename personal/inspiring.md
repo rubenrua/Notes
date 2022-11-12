@@ -32,6 +32,7 @@ Quotes
  * Hasta para morir hay que tener suerte.
  * "La bondad tiene que ver con lo que haces, no con a quién rezas". (Terry Pratchett)
  * "El respeto por la verdad está cerca de ser la base de toda moralidad". (Frank Herbert)
+ * Flipa!
  * See startups.md and dev_notes.md
 
 Presentations
