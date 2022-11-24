@@ -47,6 +47,19 @@ Tools
 * better C: https://github.com/git/git/blob/master/banned.h, https://github.com/microsoft/checkedc, https://github.com/google/wuffs, https://ziglang.org/, https://harelang.org/....
 
 
+Linking
+-----
+* https://gitlab.collabora.com/vivek/libcapsule/-/blob/master/doc/Strategy.txt
+
+* https://github.com/hpvb/dynamic-linktime-load (from https://github.com/hpvb/dynload-wrapper)
+* https://github.com/yugr/Implib.so
+
+* https://github.com/hpvb/dynamic-linktime-load (from https://github.com/hpvb/dynload-wrapper) using `#pragma weak ffff`
+* https://github.com/yugr/Implib.so (from https://stackoverflow.com/questions/45917816/is-there-an-elegant-way-to-avoid-dlsym-when-using-dlopen-in-c) using `ASM trampoline functions`
+
+
+
+
 Books
 -----
 
