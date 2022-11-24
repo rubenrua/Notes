@@ -135,7 +135,12 @@ Licenses and versions
 * http://choosealicense.com/
 * https://spdx.org/licenses/
 * https://tldrlegal.com/
-* Other [BLS license](https://blog.sentry.io/2019/11/06/relicensing-sentry/) [SSPL](https://www.mongodb.com/licensing/server-side-public-license/faq) [Rust GStreamer LGPL plugins to MPL](https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs/-/issues/168) [OGG from GPL to a lax/very liberal license](https://lwn.net/2001/0301/a/rms-ov-license.php3)
+* Other
+** [BLS license](https://blog.sentry.io/2019/11/06/relicensing-sentry/) 
+** [BLS](https://docs.google.com/document/d/1kiW9qmNlJ9oQZM6r5o4_N54sX5F8_ccwCy0zpGh3MXk/edit)
+** [SSPL](https://www.mongodb.com/licensing/server-side-public-license/faq) 
+** [Rust GStreamer LGPL plugins to MPL](https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs/-/issues/168) 
+** [OGG from GPL to a lax/very liberal license](https://lwn.net/2001/0301/a/rms-ov-license.php3) 
 * http://semver.org/
 
 
