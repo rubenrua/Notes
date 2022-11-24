@@ -20,6 +20,7 @@ Other
    * https://www.rust-lang.org/
    * https://github.com/SerenityOS/jakt
    * https://github.com/carbon-language/carbon-lang
+   * https://github.com/hsutter/cppfront
 
 Toolkit/toolbox
 -----------
