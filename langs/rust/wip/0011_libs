@@ -53,6 +53,13 @@ LDOPEN
 
 https://crates.io/crates/libloading
 
+
+----
+
+FFI INTEROPERABILITY
+
+https://github.com/1Password/typeshare
+
 ----
 
 ART
