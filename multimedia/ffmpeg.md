@@ -14,10 +14,10 @@ LINKS
  * https://github.com/alfg/ffmpeg-commander
  * https://ffmpeg.guide/
 
-
 TUTORIALS
 ---------
 
+ * https://img.ly/blog/ultimate-guide-to-ffmpeg/ [INTRO]
  * http://sonnati.wordpress.com/2012/10/19/ffmpeg-the-swiss-army-knife-of-internet-streaming-part-vi/
  * https://opencast.jira.com/wiki/display/MHDOC/ETH+Zurich's+FFmpeg+encoding+profiles
  * http://dranger.com/ffmpeg/tutorial01.html
