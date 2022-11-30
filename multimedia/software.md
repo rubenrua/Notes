@@ -99,6 +99,11 @@ Media Managers
 * Kaltura: http://corp.kaltura.com (private)
 * MediaSite: http://www.sonicfoundry.com/mediasite/ (private)
 
+Edit
+-----
+
+* https://lav.io/notes/videogrep-tutorial/
+* https://github.com/WyattBlue/auto-editor
 
 OTHER
 -----
