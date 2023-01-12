@@ -68,6 +68,7 @@ BOOKS
 * https://rust-lang.github.io/api-guidelines/about.html
 * https://google.github.io/comprehensive-rust/welcome.html
 * https://rust-unofficial.github.io/too-many-lists/first-ownership.html
+* https://marabos.nl/atomics/
 
 Other
 -------
