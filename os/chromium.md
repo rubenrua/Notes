@@ -5,6 +5,21 @@ Chromium
 :_(
 
 
+build
+-----
+
+```
+git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
+export PATH="$PATH:$( realpath depot_tools)"
+mkdir chromium && cd chromium
+fetch --nohooks chromium
+cd src
+./build/install-build-deps.sh
+gn gen out/Default
+gn args --args="is_component_ffmpeg=true " out/Default--list
+ninja -C out/Default chrome chrome_sandbox chromedriver.unstripped
+``
+
 releases
 --------
 
