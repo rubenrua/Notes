@@ -24,6 +24,28 @@ $ compare -verbose -fuzz 0.4% -metric PSNR -size 176x144 -depth 8 frame_1b.rgba 
 $ dssim -o difference.png original.png modified.png
 ```
 
+Color formats
+---------------
+* GStreamer: https://github.com/GStreamer/gstreamer/blob/main/subprojects/gst-plugins-base/gst-libs/gst/video/video-format.h#L59
+* FFmpeg: `ffmpeg -pix_fmts`
+* FFmpeg-GStreamer formats maping (from https://gitlab.freedesktop.org/gstreamer/gstreamer/-/blob/main/subprojects/gst-libav/ext/libav/gstavcodecmap.c#L2723):
+
+| FFMPEG     | GSTREAMER  |
+|------------|------------|
+| yuv420p    | I420       |
+| yuv422p    | Y42B       |
+| yuv420p10le| I420_10LE  |
+| yuv422p10le| I422_10LE  |
+| yuv420p12le| I420_12LE  |
+| yuv422p12le| I422_12LE  |
+| yuv444     | Y444       |
+| yuv444p10le| Y444_10LE  |
+| yuv444p12le| Y444_12LE  |
+
+
+* Other: https://gist.github.com/Jim-Bar/3cbba684a71d1a9d468a6711a6eddbeb
+
+
 Video and Image Datesets
 ---------------
 
