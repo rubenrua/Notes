@@ -38,6 +38,7 @@ Waiting
 * Implement likely/unlikely intrinsic: https://github.com/rust-lang/rust/issues/26179
 * Better C++ interoperability
 * Sandboxed build.rs
+* Support defining C-compatible variadic functions https://github.com/rust-lang/rust/issues/44930
 
 Code Examples
 --------
