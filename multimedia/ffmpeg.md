@@ -273,9 +273,12 @@ ffmpeg -demuxers -hide_banner | tail -n +5 | cut -d' ' -f4 | xargs -i{} ffmpeg -
 
 #### LIST HW
 ```
-ffmpeg -hwaccels               # List hardware acceleration components
-ffmpeg -init_hw_device list    # list hardware devices
+ffmpeg -hwaccels               # Show available HW acceleration methods (aka `AVHWDeviceType` + `HWAccel`[1])
+ffmpeg -init_hw_device list    # List hardware devices (aka `AVHWDeviceType`)
 ```
+
+[1] HWAccel was deleted in commit [5633f9a](https://github.com/FFmpeg/FFmpeg/commit/5633f9a8a221f7511d5ec9b4c57a21c890271ad0). So `-hwaccels` == `-init_hw_device list`  
+Note: Internal hw decoders are `AVHWAccel`. External wrapper (or Standalone) decoders are `FFCodec`.  
 
 
 ##### V4L2 LIST FORMATS
