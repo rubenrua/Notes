@@ -242,6 +242,7 @@ ffprobe input.mp4 -select_streams v -show_frames  -show_entries frame=key_frame,
 ```
 ffprobe -v trace infile.mp4
 #or AtomicParsley infile.mp4 -T 1
+#or fq d infile.mp4
 ```
 https://superuser.com/questions/559372/using-ffmpeg-to-locate-moov-atom  
 https://gitlab.freedesktop.org/gstreamer/gst-plugins-good/-/blob/1.18/gst/isomp4/qtdemux_types.c#L27  
