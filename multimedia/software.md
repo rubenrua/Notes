@@ -28,6 +28,7 @@ WEB PLAYER:
 * h5p Course Interactive Presentation: https://h5p.org/presentation (private)
 * Able Player: https://ableplayer.github.io/ableplayer/ (accessible)
 * indigo-player: https://github.com/matvp91/indigo-player (TypeScript)
+* VLC.js: https://code.videolan.org/jbk/vlc.js demo https://videolabs.io/communication/vlcjs-demo/vlc.html
 
 Compare:
 
