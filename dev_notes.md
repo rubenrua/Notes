@@ -190,6 +190,12 @@ JUNIOR
 * https://chriskiehl.com/article/thoughts-after-6-years
 * https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
 
+TECH LEAD
+---------
+
+* https://ilya.grigorik.com/the-principal-engineers-handbook/
+* https://medium.com/@atilag/challenges-of-a-technical-lead-8f1bfb4999cb
+
 Other
 -----
 
