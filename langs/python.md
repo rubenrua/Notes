@@ -25,6 +25,7 @@ Tools
  * https://flake8.pycqa.org/en/latest/
  * https://pypi.python.org/pypi/virtualenv
  * https://black.readthedocs.io/en/stable/
+ * https://github.com/charliermarsh/ruff
  * https://lgtm.com/ (saas)
  * https://semgrep.dev/ (multi-lang)
 
