@@ -1,3 +1,0 @@
-# Tools
-
-* https://browsersync.io/

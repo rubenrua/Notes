@@ -62,6 +62,11 @@ Calendar
 --------
 * https://calendso.com/
 
+Dev
+----
+* https://browsersync.io/
+
 More
 -------
 * https://free-for.dev/
+
