@@ -12,6 +12,8 @@ LINKS
 * https://ciechanow.ski/cameras-and-lenses/
 * https://medium.com/tempus-ex/hello-video-codec-9937f64835bd
 * https://github.com/kevmo314/codec-from-scratch [scratch]
+* https://phoboslab.org/log/2023/02/qoa-time-domain-audio-compression
+* https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression
 * https://www.debugvideo.com/
 * https://codecalamity.com/category/video/
 * https://developer.chrome.com/blog/videong/
