@@ -1,3 +1,4 @@
+
 Web tools
 ==============
 
@@ -39,6 +40,9 @@ VMs and other
 * https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/
 * https://webassembly.sh
 
+Image
+----
+* https://www.remove.bg/
 
 Design
 ----
