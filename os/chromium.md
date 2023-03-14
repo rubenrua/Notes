@@ -14,11 +14,14 @@ export PATH="$PATH:$( realpath depot_tools)"
 mkdir chromium && cd chromium
 fetch --nohooks chromium
 cd src
-./build/install-build-deps.sh
-gn gen out/Default
-gn args --args="is_component_ffmpeg=true " out/Default--list
-ninja -C out/Default chrome chrome_sandbox chromedriver.unstripped
-``
+# or https://chromium.googlesource.com/chromium/src/+/main/docs/linux/build_instructions.md#Arch-Linux
+./build/install-build-deps.sh --no-nacl --no-arm --no-chromeos-fonts
+dirmd help && file ../depot_tools/.cipd_bin/dirmd 
+./tools/clang/scripts/update.py
+gn gen --args="is_component_ffmpeg=true" out/Default
+gn args out/Default --list
+time ninja -C out/Default chrome chrome_sandbox chromedriver.unstripped
+```
 
 releases
 --------
