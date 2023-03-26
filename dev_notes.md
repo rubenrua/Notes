@@ -177,6 +177,7 @@ QA
 SALES
 -----
 
+* https://docs.fedoraproject.org/en-US/package-maintainers/Staying_Close_to_Upstream_Projects/
 * https://news.disaaster.io/bc/y7teJbNFOpslkVXYUYcfb8YjGINH9L4FQI87ha/
 
 JUNIOR
