@@ -52,8 +52,9 @@ Video and Image Datesets
 * https://github.com/openimages/dataset
 * https://research.google.com/youtube8m/
 * http://image-net.org
-* http://mscoco.org
 * https://www.pexels.com
 * https://github.com/Netflix/vmaf/blob/master/resource/doc/datasets.md
 * https://www.cdvl.org/
 * https://www.kaggle.com/datasets?tags=13207-Computer+Vision
+* https://www.deepmind.com/open-source/kinetics
+* https://cocodataset.org/

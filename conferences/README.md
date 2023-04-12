@@ -6,6 +6,10 @@ Conferences
 
 **Follow the [Vigo Tech Alliance](http://vigotech.org/).**
 
+2023
+----
+
+* 22-03-2023 BCN Video Tech: Spring Tech Talks
 
 2020
 ----
