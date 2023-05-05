@@ -165,6 +165,14 @@ sudo apt-get build-dep XXXXXX
 dpkg-buildpackage -b -uc
 ```
 
+### Arch: Recompile package from source
+```
+asp export XXXXXX
+cd XXXXXX
+makepkg
+makepkg -P
+```
+
 ###  Brew: Recompile package from source
 ```
 brew rm gst-plugins-bad
