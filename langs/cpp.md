@@ -16,6 +16,7 @@ Links
 Other
 -----
 
+ * concepts
  * successors?:
    * https://www.rust-lang.org/
    * https://github.com/SerenityOS/jakt
