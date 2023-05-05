@@ -1,0 +1,17 @@
+## WebGPU and friends
+
+# Libs
+
+https://github.com/gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/tree/trunk/deno_webgpu
+
+
+# Tutorials
+
+https://eliemichel.github.io/LearnWebGPU/ For native graphics in C++.
+https://sotrh.github.io/learn-wgpu/ Rust lib
+https://alain.xyz/blog/raw-webgpu   WebGPU for TypeScript
+
+# Articles
+
+https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu
