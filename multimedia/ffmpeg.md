@@ -23,7 +23,7 @@ TUTORIALS
  * https://opencast.jira.com/wiki/display/MHDOC/ETH+Zurich's+FFmpeg+encoding+profiles
  * http://dranger.com/ffmpeg/tutorial01.html
  * https://github.com/leandromoreira/ffmpeg-libav-tutorial
-
+ * https://amiaopensource.github.io/ffmprovisr
 
 
 NOTES
