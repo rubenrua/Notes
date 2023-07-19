@@ -122,7 +122,8 @@ Estimation
 
 * http://coding.abel.nu/2012/06/programmer-time-translation-table
 * https://blogs.dropbox.com/tech/2015/10/what-do-you-mean-you-need-more-time/
-
+* ..de que para muchas tareas ningún equipo puede superar a una sola persona trabajando individualmente.
+* 40 mujeres no dan a luz en una semana
 
 
 Langs
