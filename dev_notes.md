@@ -86,6 +86,9 @@ If your software developers are able to accurately estimate how long something w
 First Law of Software Architecture: Everything in software architecture is a trade-off.
 — Fundametals of Software Architecture. Mark Richards and Neal Ford
 
+Los programadores tenemos un problema, no sabemos construir sobre lo que los demás han construído ya. (Not invented here)
+— Javi Santana
+
 More: https://twitter.com/CodeWisdom
 
 
