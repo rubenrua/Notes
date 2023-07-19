@@ -22,6 +22,7 @@ Other
    * https://github.com/SerenityOS/jakt
    * https://github.com/carbon-language/carbon-lang
    * https://github.com/hsutter/cppfront
+   * https://github.com/val-lang/val
 
 Toolkit/toolbox
 -----------
