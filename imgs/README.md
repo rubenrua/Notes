@@ -10,6 +10,7 @@ Liked
 ![Ideal_real_team_plans](Ideal_real_team_plans.png)  
 ![MVP](MVP.png)  
 ![break_context](break_context.jpg)  
+![toxic_work](toxic_work.jpg)
 
 
 LOL (laughing out loud)
