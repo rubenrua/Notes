@@ -8,6 +8,7 @@ https://github.com/gfx-rs/wgpu/tree/trunk/deno_webgpu
 
 # Tutorials
 
+https://enccs.github.io/gpu-programming/
 https://eliemichel.github.io/LearnWebGPU/ For native graphics in C++.
 https://sotrh.github.io/learn-wgpu/ Rust lib
 https://alain.xyz/blog/raw-webgpu   WebGPU for TypeScript
