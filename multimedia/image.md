@@ -29,6 +29,7 @@ Color formats
 * GStreamer: https://github.com/GStreamer/gstreamer/blob/main/subprojects/gst-plugins-base/gst-libs/gst/video/video-format.h#L59
 * FFmpeg: `ffmpeg -pix_fmts`
 * FFmpeg-GStreamer formats maping (from https://gitlab.freedesktop.org/gstreamer/gstreamer/-/blob/main/subprojects/gst-libav/ext/libav/gstavcodecmap.c#L2723):
+* DRM Linux: https://github.com/torvalds/linux/blob/master/include/uapi/drm/drm_fourcc.h
 
 | FFMPEG     | GSTREAMER  |
 |------------|------------|
