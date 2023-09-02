@@ -14,6 +14,7 @@ LINKS
  * https://github.com/alfg/ffmpeg-commander
  * https://ffmpeg.guide/
  * https://gitlab.freedesktop.org/gstreamer/meson-ports/ffmpeg
+ * https://ffmpeg.lav.io/
 
 TUTORIALS
 ---------
