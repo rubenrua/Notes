@@ -148,6 +148,16 @@ DISPLAY=:3.0 ssh -X jennie@desktop xterm
 http://jeffskinnerbox.me/posts/2014/Apr/29/howto-using-xephyr-to-create-a-new-display-in-a-window/
 
 
+### Headless rendering with westom
+```sh
+weston -S $HOME/weston-sock -B headless-backend.so --use-gl &
+WAYLAND_DISPLAY=$HOME/weston-sock gst-launch-1.0 wpevideosrc location=https://x.com ! queue ! fakevideosink
+```
+
+https://gitlab.freedesktop.org/gstreamer/gstreamer/-/commit/ae7871c019cb4827b62adda60417622cec1894dd
+
+
+
 ###  VNC server
 ```sh
 sudo apt-get -y install x11vnc
