@@ -17,3 +17,4 @@
 * https://www.conventionalcommits.org
 * https://api.coala.io/en/latest/Developers/Writing_Good_Commits.html
 * https://github.com/nikitavoloboev/gitupdate
+* https://github.com/jorisroovers/gitlint
