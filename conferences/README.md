@@ -10,6 +10,7 @@ Conferences
 ----
 
 * 22-03-2023 BCN Video Tech: Spring Tech Talks
+* 25-09-2023 GStreamer Conference 2023 A coruña
 
 2020
 ----
