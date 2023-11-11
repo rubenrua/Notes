@@ -9,8 +9,10 @@ Conferences
 2023
 ----
 
-* 22-03-2023 BCN Video Tech: Spring Tech Talks
+* 22-03-2023 BCN Video Tech - Spring Tech Talks
 * 25-09-2023 GStreamer Conference 2023 A coruña
+* 28-10-2023 A Industriosa - Introducción a Mesa, por Alejandro Piñeiro de Igalia
+
 
 2020
 ----
