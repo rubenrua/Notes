@@ -293,3 +293,8 @@ ffmpeg -hide_banner -f video4linux2 -list_formats all -i /dev/video0
 ```
 ffmpeg -y -i "{converted}" -i "{original}" -lavfi "[0:v]fps=fps={fps}[input0_0];[1:v]fps=fps={fps}[input1_0];[input0_0][input1_0]libvmaf=log_fmt=json:model_path={model}:log_path={log_path}:ssim=1:psnr=1:n_threads=4" -report -f null -
 ```
+
+#####  ROI
+```
+ffmpeg -hwaccel vaapi -vaapi_device /dev/dri/renderD128 -i ./STREAM1_720p30.y4m -vf 'format=nv12|vaapi, hwupload, addroi=64:64:128:128:-0.3', -c:v h264_vaapi -bf 0 -g 1 -vframes 2 ./STREAM1_720p30_roi.264
+```
