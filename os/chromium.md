@@ -44,4 +44,4 @@ dev
 other
 ----
 * https://github.com/stream-projects/stream-video-image
-
+* https://github.com/foutrelis/chromium-launcher/
