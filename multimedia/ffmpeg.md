@@ -26,6 +26,11 @@ TUTORIALS
  * https://github.com/leandromoreira/ffmpeg-libav-tutorial
  * https://amiaopensource.github.io/ffmprovisr
 
+CORPORATIONS
+------------
+ * https://fflabs.eu/about/
+ * https://videolabs.io/about/
+ * https://ffmpeg.org/consulting.html
 
 NOTES
 -----
