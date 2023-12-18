@@ -177,10 +177,12 @@ dpkg-buildpackage -b -uc
 
 ### Arch: Recompile package from source
 ```
-asp export XXXXXX
+pkgctl repo clone --protocol=https chromium
+# or git clone https://gitlab.archlinux.org/archlinux/packaging/packages/pkgname.git
 cd XXXXXX
 makepkg
-makepkg -P
+makepkg --install
+# or pacman -U pkgname-pkgver.pkg.tar.zst
 ```
 
 ###  Brew: Recompile package from source
