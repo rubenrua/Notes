@@ -16,12 +16,15 @@ fetch --nohooks chromium
 cd src
 # or https://chromium.googlesource.com/chromium/src/+/main/docs/linux/build_instructions.md#Arch-Linux
 ./build/install-build-deps.sh --no-nacl --no-arm --no-chromeos-fonts
-dirmd help && file ../depot_tools/.cipd_bin/dirmd 
+dirmd help && file ../../depot_tools/.cipd_bin/dirmd 
 ./tools/clang/scripts/update.py
+# or gn gen --args=use_sysroot=false is_debug=false is_component_ffmpeg=true use_qt=false use_chromium_rust_toolchain=false enable_rust=false proprietary_codecs=true ffmpeg_branding="Chrome" out/Default
 gn gen --args="is_component_ffmpeg=true" out/Default
 gn args out/Default --list
 time ninja -C out/Default chrome chrome_sandbox chromedriver.unstripped
 ```
+
+See: https://gitlab.archlinux.org/archlinux/packaging/packages/chromium/-/blob/main/PKGBUILD
 
 releases
 --------
