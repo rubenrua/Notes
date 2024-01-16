@@ -179,6 +179,7 @@ dpkg-buildpackage -b -uc
 ```
 pkgctl repo clone --protocol=https chromium
 # or git clone https://gitlab.archlinux.org/archlinux/packaging/packages/pkgname.git
+# or git clone https://aur.archlinux.org/aur-pkgname.git
 cd XXXXXX
 makepkg
 makepkg --install

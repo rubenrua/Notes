@@ -67,5 +67,6 @@ touch ./src/*.rs && cargo clippy --no-default-features -- -A clippy::cast_ptr_al
   * [cargo-c](https://github.com/lu-zero/cargo-c)
   * [flamegraph](https://github.com/flamegraph-rs/flamegraph).
   * [cargo-edit](https://github.com/killercup/cargo-edit)
+  * [cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)
 
 Check the complete list in the [cargo wiki](https://github.com/rust-lang/cargo/wiki/Third-party-cargo-subcommands)
