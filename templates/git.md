@@ -9,6 +9,7 @@
 * Release version 1.0.0
 * Fast CI, happy dev
 * Whitespace formatting
+* Reduce unnecessarily complexity
 
 ## LINKS
 
