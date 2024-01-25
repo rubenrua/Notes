@@ -284,6 +284,8 @@ or
 echo 'ACTION=="add", SUBSYSTEM=="video4linux", DRIVERS=="uvcvideo", RUN+="/usr/bin/v4l2-ctl --set-ctrl=power_line_frequency=1"' > /etc/udev/rules.d/v4l2.rules
 ```
 
+Note: `udevadm info -e` to export all  
+
 ### Share or access to local ports
 
 socat or ssh -L MY_PORT:HOST_IN_LOCAL_NET:LOCAL_PORT  root@proxy.com.gal
