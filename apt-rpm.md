@@ -39,11 +39,18 @@ rpm -ql package
 pacman -Ql package
 ```
 
-* Show info of a pkg
+* Show info of a installe pkg
 ```
-apt-cache show yasm
+apt-cache show package
 rpm -qi package
-pacman -Qi package
+pacman -Qii package
+```
+
+* Show info of a remote pkg
+```
+apt-cache show package
+dnf info package
+pacman -Sii package
 ```
 
 * Show info of a pkg file

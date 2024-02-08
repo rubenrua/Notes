@@ -99,8 +99,12 @@ LD_DEBUG=libs /bin/ls # or ltrace
 #Print the strings of printable characters in files
 strings /bin/ls
 
-#Show native perf extension
+#Show native perf extension of a binary
 elfx86exts /bin/ls #from https://github.com/pkgw/elfx86exts
+
+# Show native perf extension in my CPU
+more /proc/cpuinfo
+gcc -march=native -Q --help=target
 ```
 
 https://www.cs.swarthmore.edu/~newhall/unixhelp/compilecycle.html

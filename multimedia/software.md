@@ -106,6 +106,13 @@ Edit
 * https://lav.io/notes/videogrep-tutorial/
 * https://github.com/WyattBlue/auto-editor
 
+Compare
+-----
+
+* https://gitlab.gnome.org/YaLTeR/identity
+* https://github.com/IENT/YUView
+
+
 OTHER
 -----
 

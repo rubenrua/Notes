@@ -87,6 +87,7 @@ run
 $ gdb -x gdb.script
 ```
 
+`set debuginfod enabled on` is useful
 
 ##### Reload shares
 ```
