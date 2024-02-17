@@ -25,6 +25,7 @@ TUTORIALS
  * http://dranger.com/ffmpeg/tutorial01.html
  * https://github.com/leandromoreira/ffmpeg-libav-tutorial
  * https://amiaopensource.github.io/ffmprovisr
+ * https://slhck.info/ffmpeg-encoding-course/
 
 CORPORATIONS
 ------------
@@ -294,6 +295,12 @@ Note: Internal hw decoders are `AVHWAccel`. External wrapper (or Standalone) dec
 ffmpeg -hide_banner -f video4linux2 -list_formats all -i /dev/video0
 ```
 
+#####  CALCULATING SIMPLE QUALITY METRICS (PSNR and SSIM)
+```
+ffmpeg -i <degraded> -i <reference> -filter_complex psnr -f null /dev/null
+ffmpeg -i <degraded> -i <reference> -filter_complex ssim -f null /dev/null
+```
+
 #####  VMAF
 ```
 ffmpeg -y -i "{converted}" -i "{original}" -lavfi "[0:v]fps=fps={fps}[input0_0];[1:v]fps=fps={fps}[input1_0];[input0_0][input1_0]libvmaf=log_fmt=json:model_path={model}:log_path={log_path}:ssim=1:psnr=1:n_threads=4" -report -f null -
@@ -303,3 +310,9 @@ ffmpeg -y -i "{converted}" -i "{original}" -lavfi "[0:v]fps=fps={fps}[input0_0];
 ```
 ffmpeg -hwaccel vaapi -vaapi_device /dev/dri/renderD128 -i ./STREAM1_720p30.y4m -vf 'format=nv12|vaapi, hwupload, addroi=64:64:128:128:-0.3', -c:v h264_vaapi -bf 0 -g 1 -vframes 2 ./STREAM1_720p30_roi.264
 ```
+
+#####  DEBUGGING MOTION VECTORS
+```
+ffplay -flags2 +export_mvs input.mp4 -vf codecview=mv=pf+bf+bb
+```
+
