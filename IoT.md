@@ -80,3 +80,4 @@ https://linux-sunxi.org/Table_of_Allwinner_based_boards
  * https://sonoff.tech
  * https://bootlin.com/
  * https://pikvm.org/ and https://mtlynch.io/tinypilot/
+ * https://openmv.io/ (cameras)
