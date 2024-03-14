@@ -11,7 +11,7 @@ Liked
 ![MVP](MVP.png)  
 ![break_context](break_context.jpg)  
 ![toxic_work](toxic_work.jpg)
-
+![Innovator's Dilemma](innovator_s_dilemma.jpeg)
 
 LOL (laughing out loud)
 -------------------------
