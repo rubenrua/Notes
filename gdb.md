@@ -162,6 +162,18 @@ From https://github.com/zdobersek/libpine or https://frida.re (similar to https:
 ##### coredumpctl
 Ubuntu package systemd-coredump
 
+
+#####
+```
+break _start
+run
+record
+reverse-step reverse-continue reverse-next reverse-finish
+```
+
+vs rr from https://www.sourceware.org/gdb/wiki/ProcessRecord/Tutorial
+
+
 gdbinit
 ----
 https://github.com/rubenrua/dotfiles/blob/master/.gdbinit

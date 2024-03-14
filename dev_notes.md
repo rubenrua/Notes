@@ -92,6 +92,8 @@ Los programadores tenemos un problema, no sabemos construir sobre lo que los dem
 Ningún Plan, por bueno que sea, resiste su primer contacto con el enemigo.
 — Helmuth von Moltke
 
+Prefiere la evolucion que la revolucion.
+
 More: https://twitter.com/CodeWisdom
 
 

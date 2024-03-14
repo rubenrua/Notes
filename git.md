@@ -372,3 +372,4 @@ other
 * https://github.com/jonas/tig
 * https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame
 * https://github.com/korfuri/awesome-monorepo
+* https://jvns.ca/blog/2024/02/16/popular-git-config-options/
