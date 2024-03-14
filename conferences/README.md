@@ -9,6 +9,7 @@ Conferences
 2023
 ----
 
+* 14-03-2024 A Industriosa - Solana 101 by Jose Corral
 * 17-02-2024 A Industriosa - Obradoiro Segueliñas Rust: Sesión de introdución
 
 2023
