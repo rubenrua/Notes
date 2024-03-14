@@ -8,3 +8,5 @@ recopilate my ∞ list :(
 * Thinking, fast and slow (Daniel Kahneman)
 * Sapiens (Yuval Harari)
 * Noise: A Flaw in Human Judgment
+* Start with Why
+* Creativity Inc
