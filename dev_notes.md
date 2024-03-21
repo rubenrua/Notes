@@ -75,7 +75,10 @@ Rewrites only work if the people involved in the 1.0 are also involved in the 2.
 Cuando un sistema está en producción cuesta horrores sacarlo de ahí (preguntadle a los bancos)
 — @javisantana
 
-Cuando uno tiene un martillo todo le parecen clavos
+Organizations which design systems (in the broad sense used here) are constrained to produce designs which are copies of the communication structures of these organizations
+— Conway's law
+
+Cuando uno tiene un martillo todo le parecen clavos (otra version de Conway's law)
 — Manel
 
 If debugging is the process of removing bugs, then programming must be the process of putting them in.
