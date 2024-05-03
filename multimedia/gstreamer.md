@@ -12,7 +12,6 @@ Players:
 * https://gitlab.gnome.org/guidog/livi (C+gtk4+libadwaita)
 * https://github.com/ryd3v/VideoPlayer (Python+Qt)
 
-
 vs FFmpeg:
 
  * Both are Open Source and Cross Platform.

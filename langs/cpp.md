@@ -23,6 +23,7 @@ Other
    * https://github.com/carbon-language/carbon-lang
    * https://github.com/hsutter/cppfront
    * https://github.com/val-lang/val
+   * https://github.com/seanbaxter/circle/blob/master/new-circle/README.md
 
 Toolkit/toolbox
 -----------
