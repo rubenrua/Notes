@@ -16,7 +16,7 @@ Preguntas para entrevistas:
 * Que huele mal en el código: http://blog.ircmaxell.com/2017/07/ponderings-on-odoriferous-syntactical.html y https://github.com/campusdomar/PuMuKIT2/blob/2.3.x/src/Pumukit/CoreBundle/Command/ImportFileToMMOCommand.php
 * WEB: xsendfile, faceted search, fast http client...
 * JUNIOR: GitHub, Linux, pet projects, tech info sources...
-* SENIOR: De que te sientes mas/menos orgulloso?
+* SENIOR: De que te sientes mas/menos orgulloso? Que harias ante un conflicto?
 
 Otros:
 
@@ -36,7 +36,7 @@ Links:
 * http://javisantana.com/2020/06/25/contratar-a-la-persona-correcta.html
 * https://gist.github.com/dbonillaf/40fe95ffbe5407e182998413a138e038
 * https://github.com/jorgef/engineeringladders
-
+* https://roadmap.sh/
 
 ONBOARDING
 ==========

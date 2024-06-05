@@ -10,3 +10,8 @@ recopilate my ∞ list :(
 * Noise: A Flaw in Human Judgment
 * Start with Why
 * Creativity Inc
+* The 7 habits of highly effective people. Stephen Covey
+
+
+
+

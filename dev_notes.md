@@ -92,6 +92,9 @@ First Law of Software Architecture: Everything in software architecture is a tra
 Los programadores tenemos un problema, no sabemos construir sobre lo que los demás han construído ya. (Not invented here)
 — Javi Santana
 
+Los programadores quieren programar. La vaca va al monte.
+
+
 Ningún Plan, por bueno que sea, resiste su primer contacto con el enemigo.
 — Helmuth von Moltke
 
