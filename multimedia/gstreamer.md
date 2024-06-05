@@ -11,6 +11,7 @@ Players:
 * https://github.com/Rafostar/clapper (GJS+gtk4+OpenGL)
 * https://gitlab.gnome.org/guidog/livi (C+gtk4+libadwaita)
 * https://github.com/ryd3v/VideoPlayer (Python+Qt)
+* https://codeberg.org/comcloudway/melon (Python+Gtk)
 
 vs FFmpeg:
 
@@ -26,4 +27,6 @@ vs FFmpeg:
    * GStreamer can use FFmpeg codecs (gstreamer1.0-libav).
  * FFmpeg has more low level optimizations (color conversion for instace https://gitlab.freedesktop.org/gstreamer/orc/-/issues/13)
  * Firefox and Chromium use FFmpeg.
+ * FFmpeg don't support webasm by default
+ * NVIDIA Deepsteem uses GStreamer
  * [personal opinion] GStreamer framework is easier to use (and more powerful). FFmpeg tools are easier to use (and more powerful)

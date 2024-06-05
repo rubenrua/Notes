@@ -105,6 +105,8 @@ navigator.mediaDevices.getSupportedConstraints()
 ```
 from: https://webrtchacks.com/bad-lighting-fix-with-javascript-webcam-exposure/
 
+* MediaStreamTrack
+from: https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack and https://webrtchacks.com/how-to-make-virtual-backgrounds-transparent-in-webrtc/
 
 Other:
 ------
