@@ -13,8 +13,16 @@ LINKS
  * http://joinbox.github.io/dash-video/
  * https://github.com/alfg/ffmpeg-commander
  * https://ffmpeg.guide/
- * https://gitlab.freedesktop.org/gstreamer/meson-ports/ffmpeg
  * https://ffmpeg.lav.io/
+
+
+OTHER BUILD SYSTEMS
+-------------------
+
+ * https://gitlab.freedesktop.org/gstreamer/meson-ports/ffmpeg
+ * https://github.com/andrewrk/ffmpeg
+ * https://conan.io/center/recipes/ffmpeg
+ * https://vcpkg.io/en/package/ffmpeg
 
 TUTORIALS
 ---------
