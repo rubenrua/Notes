@@ -211,6 +211,7 @@ TECH LEAD
 
 * https://ilya.grigorik.com/the-principal-engineers-handbook/
 * https://medium.com/@atilag/challenges-of-a-technical-lead-8f1bfb4999cb
+* https://makemeacto.substack.com/p/plan-your-succession-today
 
 Other
 -----
