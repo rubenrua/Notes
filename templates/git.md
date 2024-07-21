@@ -10,6 +10,7 @@
 * Fast CI, happy dev
 * Whitespace formatting
 * Reduce unnecessarily complexity
+* It inevitably bitrots
 
 ## LINKS
 

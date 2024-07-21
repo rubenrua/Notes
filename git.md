@@ -332,6 +332,8 @@ git rebase -i master
 ```
 https://makandracards.com/makandra/527-squash-several-git-commits-into-a-single-commit
 
+`--autosquash`, `--autostash` and `--update-refs` are useful options.
+
 * Not use current working directory.
 ```sh
 cd ~/src/github.com/rust-lang/rust/ && git log && cd -
