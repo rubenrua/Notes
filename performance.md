@@ -102,6 +102,7 @@ perf stat 'ffprobe 8seg.mp4'
 * https://gitlab.gnome.org/GNOME/sysprof
 * https://github.com/KDAB/hotspot
 * Intel® Performance Counter Monitor (PCM): https://software.intel.com/en-us/articles/intel-performance-counter-monitor
+* Apple Instruments (formerly Xray): https://registerspill.thorstenball.com/p/did-you-know-about-instruments
 
 ### performance analysis tool (perf GUI)
 
