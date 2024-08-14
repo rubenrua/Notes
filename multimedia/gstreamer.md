@@ -12,6 +12,7 @@ Players:
 * https://gitlab.gnome.org/guidog/livi (C+gtk4+libadwaita)
 * https://github.com/ryd3v/VideoPlayer (Python+Qt)
 * https://codeberg.org/comcloudway/melon (Python+Gtk)
+* https://gitlab.gnome.org/GNOME/Incubator/showtime (Python+gtk4+libadwaita)
 
 vs FFmpeg:
 
