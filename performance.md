@@ -103,6 +103,8 @@ perf stat 'ffprobe 8seg.mp4'
 * https://github.com/KDAB/hotspot
 * Intel® Performance Counter Monitor (PCM): https://software.intel.com/en-us/articles/intel-performance-counter-monitor
 * Apple Instruments (formerly Xray): https://registerspill.thorstenball.com/p/did-you-know-about-instruments
+* https://github.com/sharkdp/hyperfine
+* https://github.com/andrewrk/poop
 
 ### performance analysis tool (perf GUI)
 
