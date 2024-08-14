@@ -66,3 +66,9 @@ What developers look for in a job:
 
  * +++: Professional growth & learning, Work-life balancem Competitive compensation, Interesting problems to solve,  Flexibility ( schedule, remote), Company culture.
  * ---: Preferred tech stack, Strength of engineering team, Values aligned with yours, Prestigious company brand, Workplace diversity ,Hiring manager quality, Vacation policies.
+
+
+MOTIVACION
+==========
+
+* ¿Por que quieres ser XXXXXX?

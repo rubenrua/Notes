@@ -16,6 +16,7 @@ Quotes
  * Que prefieres: a) usar una calculadora b) arreglar una calculadora c) vender una calculadora
  * "Hacer menos cosas pero hacerlas mejor."
  * "Que tu pereza nunca supere tu curiosidad"
+ * Postponer decisiones es lo peor que puedes hacer para ayudar a tu yo del mañana.
  * "Piensa en grande pero ejecuta en pequeño."
  * "Quejarse menos"
  * "Mens sana in corpore sano"
