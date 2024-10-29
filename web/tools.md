@@ -29,6 +29,7 @@ Share and P2P
 
 Draw & Art
 ------
+* https://mermaid.live/
 * https://excalidraw.com/
 * https://www.tldraw.com/
 * https://ivanceras.github.io/svgbob-editor/
@@ -69,4 +70,4 @@ Dev
 More
 -------
 * https://free-for.dev/
-
+* https://cobalt.tools/
