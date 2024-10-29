@@ -6,9 +6,10 @@ Conferences
 
 **Follow the [Vigo Tech Alliance](http://vigotech.org/).**
 
-2023
+2024
 ----
 
+* 07-10-2024 GStreamer Conference 2024 Montréal
 * 14-03-2024 A Industriosa - Solana 101 by Jose Corral
 * 17-02-2024 A Industriosa - Obradoiro Segueliñas Rust: Sesión de introdución
 
