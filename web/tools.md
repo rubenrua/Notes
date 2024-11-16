@@ -71,3 +71,4 @@ More
 -------
 * https://free-for.dev/
 * https://cobalt.tools/
+* https://shields.io/badges

@@ -36,7 +36,7 @@ Waiting
 * Generic SQL bindings: https://github.com/rust-lang/rfcs/issues/798 [(check)](https://github.com/launchbadge/sqlx)
 * Warning redefining an OS call: https://fnordig.de/2020/05/02/rust-in-an-instant/
 * Implement likely/unlikely intrinsic: https://github.com/rust-lang/rust/issues/26179
-* Better C++ interoperability
+* Better C++ interoperability: https://github.com/rustfoundation/interop-initiative/tree/main
 * Sandboxed build.rs
 * Support defining C-compatible variadic functions https://github.com/rust-lang/rust/issues/44930
 * Issues with Linux distros like: https://lwn.net/Articles/912202/
