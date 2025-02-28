@@ -376,3 +376,4 @@ other
 * https://github.com/korfuri/awesome-monorepo
 * https://jvns.ca/blog/2024/02/16/popular-git-config-options/
 * https://github.com/tummychow/git-absorb
+* https://www.gitkraken.com/learn/git/git-worktree
