@@ -40,6 +40,7 @@ Waiting
 * Sandboxed build.rs
 * Support defining C-compatible variadic functions https://github.com/rust-lang/rust/issues/44930
 * Issues with Linux distros like: https://lwn.net/Articles/912202/
+* https://github.com/Speykious/cve-rs
 
 Code Examples
 --------
