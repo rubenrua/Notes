@@ -87,7 +87,7 @@ lddtree /bin/ls
 objdump -p /bin/ls | grep NEEDED # or grep DLL for Windows libs
 
 #Symbols
-nm -D /bin/ls or readelf -a /bin/ls
+nm -D /bin/ls or readelf -a /bin/ls or rabin2 -Ss /bin/ls
 
 #Disassemble
 objdump -d /bin/ls

@@ -160,7 +160,7 @@ Licenses and versions
 ** [Rust GStreamer LGPL plugins to MPL](https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs/-/issues/168) 
 ** [OGG from GPL to a lax/very liberal license](https://lwn.net/2001/0301/a/rms-ov-license.php3) 
 * http://semver.org/
-
+* https://0ver.org/
 
 Benchmarks and comparatives
 ----------
