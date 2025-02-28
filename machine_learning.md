@@ -51,6 +51,16 @@ Tools
 * https://www.khronos.org/opencl/
 * https://developer.nvidia.com/cuda-zone
 
+
+Local
+-----
+```
+$ sudo pacman -S ollama
+$ sudo systemctl start  ollama
+$ ollama run llama3.2
+```
+https://ollama.com/blog/llama3.2-vision
+
 Other:
 -------
 * https://m.xataka.com/robotica-e-ia/aprende-sobre-inteligencia-artificial-por-internet-cursos-publicaciones-y-las-recomendaciones-de-expertos
@@ -58,3 +68,5 @@ Other:
 * https://www.kaggle.com/
 * https://paperswithcode.com
 * https://contentauthenticity.org
+
+
