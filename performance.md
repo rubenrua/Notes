@@ -102,6 +102,8 @@ perf stat 'ffprobe 8seg.mp4'
 * https://gitlab.gnome.org/GNOME/sysprof
 * https://github.com/KDAB/hotspot
 * Intel® Performance Counter Monitor (PCM): https://software.intel.com/en-us/articles/intel-performance-counter-monitor
+* Intel® VTune™ Profiler: https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html#gs.k1djbw
+* AMD μProf: https://www.amd.com/en/developer/uprof.html
 * Apple Instruments (formerly Xray): https://registerspill.thorstenball.com/p/did-you-know-about-instruments
 * https://github.com/sharkdp/hyperfine
 * https://github.com/andrewrk/poop
