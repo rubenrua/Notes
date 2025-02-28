@@ -35,6 +35,7 @@ TUTORIALS
  * https://github.com/leandromoreira/ffmpeg-libav-tutorial
  * https://amiaopensource.github.io/ffmprovisr
  * https://slhck.info/ffmpeg-encoding-course/
+ * https://github.com/FFmpeg/asm-lessons
 
 CORPORATIONS
 ------------
