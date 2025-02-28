@@ -14,6 +14,7 @@ LINKS
  * https://github.com/alfg/ffmpeg-commander
  * https://ffmpeg.guide/
  * https://ffmpeg.lav.io/
+ * https://ffmpegbyexample.com/
 
 
 OTHER BUILD SYSTEMS
