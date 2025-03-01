@@ -41,6 +41,8 @@ Waiting
 * Support defining C-compatible variadic functions https://github.com/rust-lang/rust/issues/44930
 * Issues with Linux distros like: https://lwn.net/Articles/912202/
 * https://github.com/Speykious/cve-rs
+* Matching C performance, Improve state machine codegen: https://rust-lang.github.io/rust-project-goals/2025h1/improve-rustc-codegen.html#improve-state-machine-codegen
+* SIMD multiversioning: https://rust-lang.github.io/rust-project-goals/2025h1/simd-multiversioning.html
 
 Code Examples
 --------
