@@ -107,6 +107,7 @@ perf stat 'ffprobe 8seg.mp4'
 * Apple Instruments (formerly Xray): https://registerspill.thorstenball.com/p/did-you-know-about-instruments
 * https://github.com/sharkdp/hyperfine
 * https://github.com/andrewrk/poop
+* https://perfetto.dev/
 
 ### performance analysis tool (perf GUI)
 

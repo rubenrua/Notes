@@ -6,6 +6,12 @@ Conferences
 
 **Follow the [Vigo Tech Alliance](http://vigotech.org/).**
 
+
+2025
+----
+
+* 22-03-2025 Galegos na FOSDEM
+
 2024
 ----
 
