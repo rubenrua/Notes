@@ -351,6 +351,10 @@ git clone --no-checkout --filter=tree:none <url>
 https://www.youtube.com/watch?v=0sRHRMp-Bpc
 
 
+* merge=union gitattributes
+
+https://github.com/FFmpeg/FFmpeg/blob/master/.gitattributes#L2  
+https://github.com/FFmpeg/FFmpeg/commit/efdf7512a584f87ff98fcce3449deffd9abae093
 
 gitflow
 ----

@@ -21,6 +21,7 @@ LINKS:
 * https://cestlaz.github.io/stories/emacs/ and https://www.youtube.com/watch?v=49kBWM3RQQ8&list=PL9KxKa8NpFxIcNQa9js7dQQIHc81b0-Xg
 * https://github.com/susam/emfy
 * https://www2.lib.uchicago.edu/keith/emacs/
+* https://blogs.igalia.com/plampe/working-with-webkit-and-gstreamer-logs-in-emacs/
 
 PACKAGES:
 ----------

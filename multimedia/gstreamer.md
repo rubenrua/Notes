@@ -14,6 +14,14 @@ Players:
 * https://codeberg.org/comcloudway/melon (Python+Gtk)
 * https://gitlab.gnome.org/GNOME/Incubator/showtime (Python+gtk4+libadwaita)
 
+
+Tools to work with gst logs
+
+* https://github.com/gdesmott/gst-log-parser
+* https://github.com/philn/gst-log-diff
+* https://github.com/rafaelcaricio/gst-log-viewer
+* https://blogs.igalia.com/plampe/working-with-webkit-and-gstreamer-logs-in-emacs/
+
 vs FFmpeg:
 
  * Both are Open Source and Cross Platform.

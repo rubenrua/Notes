@@ -4,3 +4,5 @@ https://github.com/raysan5/raygui
 https://github.com/slint-ui/slint (uses QT5 on linux, TODO check SLINT_NO_QT envvar)
     https://github.com/sdroege/slint/tree/gstreamer
     https://gitlab.freedesktop.org/gstreamer/gstreamer-rs/-/issues/391#note_2644967
+https://github.com/emilk/egui
+    https://github.com/altunenes/cuneus
