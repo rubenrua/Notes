@@ -315,6 +315,18 @@ ffmpeg -i <degraded> -i <reference> -filter_complex ssim -f null /dev/null
 ```
 ffmpeg -y -i "{converted}" -i "{original}" -lavfi "[0:v]fps=fps={fps}[input0_0];[1:v]fps=fps={fps}[input1_0];[input0_0][input1_0]libvmaf=log_fmt=json:model_path={model}:log_path={log_path}:ssim=1:psnr=1:n_threads=4" -report -f null -
 ```
+```
+wget https://github.com/Netflix/vmaf_resource/raw/master/python/test/resource/yuv/src01_hrc00_576x324.yuv
+wget https://github.com/Netflix/vmaf_resource/raw/master/python/test/resource/yuv/src01_hrc01_576x324.yuv
+ffmpeg -video_size 576x324 -r 24 -pixel_format yuv420p -i src01_hrc00_576x324.yuv \
+    -video_size 576x324 -r 24 -pixel_format yuv420p -i src01_hrc01_576x324.yuv \
+    -lavfi "[0:v]setpts=PTS-STARTPTS[reference]; \
+            [1:v]setpts=PTS-STARTPTS[distorted]; \
+            [distorted][reference]libvmaf=log_fmt=xml:log_path=/dev/stdout" \
+    -f null -
+```
+
+https://github.com/Netflix/vmaf/blob/master/resource/doc/ffmpeg.md
 
 #####  ROI
 ```

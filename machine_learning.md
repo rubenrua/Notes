@@ -47,6 +47,9 @@ Tools
 * https://jupyter.org/                      python tool
 * https://colab.research.google.com         online tool
 * https://onnx.ai/                          interoperability
+* https://github.com/onnx/models            models set
+* https://github.com/webonnx/wonnx          inference runtime
+* https://github.com/sonos/tract            inference runtime
 * https://gpuopen.com/radeon-ml/
 * https://www.khronos.org/opencl/
 * https://developer.nvidia.com/cuda-zone

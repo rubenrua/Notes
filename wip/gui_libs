@@ -6,3 +6,6 @@ https://github.com/slint-ui/slint (uses QT5 on linux, TODO check SLINT_NO_QT env
     https://gitlab.freedesktop.org/gstreamer/gstreamer-rs/-/issues/391#note_2644967
 https://github.com/emilk/egui
     https://github.com/altunenes/cuneus
+https://linebender.org/
+    https://github.com/linebender/xilem
+    https://github.com/linebender/druid (legacy)

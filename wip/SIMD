@@ -1,0 +1,39 @@
+Vocabulary
+-------
+* ISE (instruction set extension)
+* trampoline
+* multiversionning
+* runtime dispatch
+
+x86 ISEs
+--------------
+
+* MMX - Launched in 1997, first SIMD in Intel Processors, 64-bit registers, historic
+* SSE (Streaming SIMD Extensions) - Launched in 1999, 128-bit registers
+* SSE2 - Launched in 2000, many new instructions
+* SSE3 - Launched in 2004, first horizontal instructions
+* SSSE3 (Supplemental SSE3) - Launched in 2006, new instructions but most importantly pshufb shuffle instruction, arguably the most important instruction in video processing
+* SSE4 - Launched in 2008, many new instructions including packed minimum and maximum.
+* AVX - Launched in 2011, 256-bit registers (float only) and new three-operand syntax
+* AVX2 - Launched in 2013, 256-bit registers for integer instructions
+* AVX512 - Launched in 2017, 512-bit registers, new operation mask feature. These had limited use at the time in FFmpeg because of CPU frequency downscaling when new instructions were used. Full 512-bit shuffle (permute) with vpermb.
+* AVX512ICL - Launched 2019, no more clock frequency downscaling.
+* AVX10 - Upcoming
+
+
+Libs
+----
+
+* `std::simd`
+* https://github.com/simd-everywhere/simde
+* https://github.com/google/highway/
+* https://github.com/VcDevel/Vc/
+* https://github.com/kfjahnke/zimt
+* https://gitlab.freedesktop.org/gstreamer/orc
+
+
+Links
+-----
+* https://www.officedaytime.com/simd512e/
+* https://www.felixcloutier.com/x86/
+* https://github.com/FFmpeg/asm-lessons/blob/main/lesson_03/index.md

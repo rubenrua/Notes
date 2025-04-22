@@ -28,6 +28,7 @@ Tips
 ----
 
 * -Wall and -Wextra on GCC; -Weverything on Clang; /W4 or /Wall on MSVC (-E debug)
+* https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html
 * http://www.catb.org/esr/structure-packing/
 * http://www.catonmat.net/blog/simple-ld-preload-tutorial/ (http://occams-razor.webs.uvigo.es/download/occams-razor-01-03.pdf)
 * http://lxr.free-electrons.com/source/Documentation/assoc_array.txt
