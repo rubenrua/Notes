@@ -18,6 +18,7 @@ Quality metrics amd other
 * VIF https://live.ece.utexas.edu/research/Quality/VIF.htm
 * PSNR https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio
 * VMAF https://github.com/Netflix/vmaf (videos only)
+* AVQT Advanced Video Quality Tool (Apple only)
 
 ```
 $ compare -verbose -fuzz 0.4% -metric PSNR -size 176x144 -depth 8 frame_1b.rgba frame_1a.rgba /tmp/diff.png
