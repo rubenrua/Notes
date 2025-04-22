@@ -98,7 +98,8 @@ cat /dev/dvb/adapter0/dvr0 | pv -r > /dev/null
 ```
 perf stat 'ffprobe 8seg.mp4'
 ```
-* https://github.com/mstange/samply
+* https://github.com/brendangregg/FlameGraph
+* https://github.com/mstange/samply (simple rust tool for flame graphs)
 * https://github.com/namhyung/uftrace
 * https://gitlab.gnome.org/GNOME/sysprof
 * https://github.com/KDAB/hotspot
