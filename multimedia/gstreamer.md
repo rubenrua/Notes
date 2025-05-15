@@ -13,7 +13,7 @@ Players:
 * https://github.com/ryd3v/VideoPlayer (Python+Qt)
 * https://codeberg.org/comcloudway/melon (Python+Gtk)
 * https://gitlab.gnome.org/GNOME/Incubator/showtime (Python+gtk4+libadwaita)
-
+* More at https://github.com/valpackett/awesome-gtk?tab=readme-ov-file#video-players
 
 Tools to work with gst logs
 

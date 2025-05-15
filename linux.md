@@ -24,6 +24,7 @@ cat yellow_tripdata_2014-09.csv | LANG=C sort --parallel=$(nproc) -S 50% -k5 -n 
 https://www.thegeekstuff.com/2013/06/cut-command-examples  
 https://github.com/dbohdan/structured-text-tools  
 https://www.datascienceatthecommandline.com  
+https://www.gnu.org/software/datamash/  
 
 ### Execute xargs in parallel
 ```sh
