@@ -5,8 +5,10 @@ Vocabulary
 * multiversionning
 * runtime dispatch
 
-x86 ISEs
+ ISEs
 --------------
+
+x86:
 
 * MMX - Launched in 1997, first SIMD in Intel Processors, 64-bit registers, historic
 * SSE (Streaming SIMD Extensions) - Launched in 1999, 128-bit registers
@@ -20,6 +22,15 @@ x86 ISEs
 * AVX512ICL - Launched 2019, no more clock frequency downscaling.
 * AVX10 - Upcoming
 
+ARM:
+
+* NEON
+* SVE (from ARMv8.2-A)
+* SVE2 (from ARMv8.6-A)
+
+RISC-V:
+
+* Vector Extension (RVV)
 
 Libs
 ----

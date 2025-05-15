@@ -1,5 +1,14 @@
 ## WebGPU and friends
 
+# Langs
+
+* GLSL (OpenGL Shading Language)
+* SPIR-V (Standard Portable Intermediate Representation)
+* WGSL (WebGPU Shading Language)
+* HLSL (High-Level Shading Language) DirectX
+* PTX (Parallel Thread Execution) CUDA
+* Other Metal/openCL
+
 # Libs
 
 https://github.com/gfx-rs/wgpu
