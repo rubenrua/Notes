@@ -115,6 +115,7 @@ perf stat 'ffprobe 8seg.mp4'
 
 * https://profiler.firefox.com/
 * https://github.com/KDAB/hotspot
+* https://github.com/mstange/samply
 
 OTHER
 -----

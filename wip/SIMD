@@ -32,6 +32,18 @@ RISC-V:
 
 * Vector Extension (RVV)
 
+Distros and x86-64-v3
+----------------------
+
+* glibc-hwcaps
+* [Arch Linux](https://gitlab.archlinux.org/archlinux/rfcs/-/blob/master/rfcs/0002-x86-64-v3-microarchitecture.md)
+* [Fedora](https://fedoraproject.org/wiki/Changes/Optimized_Binaries_for_the_AMD64_Architecture_v2)
+* [ubuntu](https://ubuntu.com/blog/optimising-ubuntu-performance-on-amd64-architecture)
+* [NixOS](https://discourse.nixos.org/t/pre-rfc-gradual-transition-of-nixos-x86-64-baseline-to-x86-64-v3-with-an-intermediate-step-to-x86-64-v2/35924/51)
+* [RHEL](https://developers.redhat.com/articles/2024/01/02/exploring-x86-64-v3-red-hat-enterprise-linux-10#)
+* [Arch Linux High Performance](https://somegit.dev/ALHP/ALHP.GO)
+* [CachyOS](https://github.com/CachyOS/docker/blob/master/Dockerfile-v4)
+
 Libs
 ----
 

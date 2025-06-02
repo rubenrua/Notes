@@ -35,6 +35,13 @@ Tips
 * http://blog.jpauli.tech/2016/11/30/on-c-performances.html
 * https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html
 * https://en.wikipedia.org/wiki/Profile-guided_optimization
+* Default GCC conf Ubuntu:
+```
+$ echo "int main() { return 123; }" > tst.c && gcc tst.c -frecord-gcc-switches && readelf -p .GCC.command.line a.out
+
+String dump of section '.GCC.command.line':
+  [     0]  GNU C17 13.3.0 -mtune=generic -march=x86-64 -fasynchronous-unwind-tables -fstack-protector-strong -fstack-clash-protection -fcf-protection
+```
 
 Tools
 -----
