@@ -32,6 +32,12 @@ RISC-V:
 
 * Vector Extension (RVV)
 
+LoongArch:
+
+* LSX (Loongson SIMD eXtension) with 128-bit vectors is very similar to SSE on ;
+* LASX (Loongson Advanced SIMD eXtension) with 256-bit vectors is very similar to AVX on x86.
+
+
 Distros and x86-64-v3
 ----------------------
 
