@@ -69,6 +69,17 @@ https://bootlin.com/
 https://static.sched.com/hosted_files/ossna2020/2b/2020-06%20ELCNA%20-%20Nicolas%20Dufresne.pdf
 https://linux-sunxi.org/Table_of_Allwinner_based_boards
 
+
+## ML boards
+
+* https://libre.computer/products/aml-s905d3-cc/ 1.2 TOPS
+* https://libre.computer/products/aml-a311d-cc/  5 TOPS
+* https://www.nxp.com/products/IMX8MPLUS         2.3 TOPS      - ~55€
+* MemryX MX3                                     24 TOPS       - $149
+* Jetson Orin Nano Super                         67 TOPS       - $249
+* Raspberry Pi AI HAT -                          13 or 26 TOPS - $70/$110
+* https://radxa.com/products/rock5/5a/           6 TOPS        - ~75€                                 from  https://gitlab.freedesktop.org/gstreamer/gstreamer/-/merge_requests/9408/diffs
+
 ## OTHER
 
  * https://www.kickstarter.com/projects/onion/omega2-5-iot-computer-with-wi-fi-powered-by-linux?lang=es

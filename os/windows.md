@@ -11,6 +11,11 @@ c:\> powershell Get-WmiObject win32_VideoController | Format-List Name
 c:\> dxdiag /x <output file>
 ```
 
+* Deps
+
+* `dumpbin /dependents`
+* https://github.com/lucasg/Dependencies
+* https://www.dependencywalker.com/
 
 * Install:
 

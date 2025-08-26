@@ -42,6 +42,7 @@ $ echo "int main() { return 123; }" > tst.c && gcc tst.c -frecord-gcc-switches &
 String dump of section '.GCC.command.line':
   [     0]  GNU C17 13.3.0 -mtune=generic -march=x86-64 -fasynchronous-unwind-tables -fstack-protector-strong -fstack-clash-protection -fcf-protection
 ```
+* Info about GCC: `echo | gcc -xc -E -v  -`
 
 Tools
 -----

@@ -37,3 +37,11 @@ Other
  * http://www.labri.fr/perso/nrougier/from-python-to-numpy
  * https://kate.io/blog/2017/08/22/weird-python-integers/
  * http://nuitka.net/
+
+```
+>>> import sysconfig
+>>> sysconfig.get_path('purelib', vars={'base': ''})
+'/lib/python3.10/site-packages'
+>>> sysconfig.get_paths()
+{'stdlib': '/usr/lib/python3.8', 'platstdlib': '/usr/lib/python3.8', 'purelib': '/usr/lib/python3.8/site-packages', 'platlib': '/usr/lib/python3.8/site-packages', 'include': '/usr/include/python3.8', 'scripts': '/usr/bin', 'data': '/usr'}
+```

@@ -111,7 +111,9 @@ Compare
 
 * https://gitlab.gnome.org/YaLTeR/identity
 * https://github.com/IENT/YUView
-
+* https://compression.ru/video/quality_measure/video_measurement_tool.html
+* https://github.com/pixop/video-compare
+* https://github.com/vivictorg/vivictpp
 
 OTHER
 -----

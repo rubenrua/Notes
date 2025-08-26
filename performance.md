@@ -99,10 +99,8 @@ cat /dev/dvb/adapter0/dvr0 | pv -r > /dev/null
 perf stat 'ffprobe 8seg.mp4'
 ```
 * https://github.com/brendangregg/FlameGraph
-* https://github.com/mstange/samply (simple rust tool for flame graphs)
 * https://github.com/namhyung/uftrace
 * https://gitlab.gnome.org/GNOME/sysprof
-* https://github.com/KDAB/hotspot
 * Intel® Performance Counter Monitor (PCM): https://software.intel.com/en-us/articles/intel-performance-counter-monitor
 * Intel® VTune™ Profiler: https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html#gs.k1djbw
 * AMD μProf: https://www.amd.com/en/developer/uprof.html
@@ -115,7 +113,8 @@ perf stat 'ffprobe 8seg.mp4'
 
 * https://profiler.firefox.com/
 * https://github.com/KDAB/hotspot
-* https://github.com/mstange/samply
+* https://github.com/mstange/samply (to use with `SAMPLY_USE_DEBUGINFOD=1`)
+
 
 OTHER
 -----

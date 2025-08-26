@@ -5,6 +5,7 @@ Other
 
   * http://cassandra.apache.org/  Tabular NoSQL in Java for massive amounts of (write) data.
   * https://clickhouse.yandex/ (BI: reddash y superset).
+  * https://github.com/influxdata/influxdb (Scalable datastore for metrics, events, and real-time analytics)
 
 * Key-value NoSQL:
 
