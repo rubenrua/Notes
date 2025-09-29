@@ -1,0 +1,6 @@
+* std::panic::catch_unwind
+https://gitlab.freedesktop.org/gstreamer/gstreamer-rs/-/merge_requests/1671
+
+
+https://github.com/ClickHouse/ClickHouse/pull/59447
+ from https://clickhouse.com/blog/rust

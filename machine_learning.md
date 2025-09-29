@@ -70,6 +70,6 @@ Other:
 * https://github.com/eriklindernoren/ML-From-Scratch
 * https://www.kaggle.com/
 * https://paperswithcode.com
-* https://contentauthenticity.org
+* https://contentauthenticity.org and https://c2pa.org/ and https://contentcredentials.org/
 
 
