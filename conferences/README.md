@@ -10,6 +10,7 @@ Conferences
 2025
 ----
 
+* 27-09-2025 [Northwest Startup Day 2025](http://nosday.com)
 * 22-03-2025 Galegos na FOSDEM
 
 2024
