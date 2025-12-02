@@ -74,7 +74,7 @@ http://peeterjoot.com/2016/10/19/using-ltrace-to-dig-into-shared-libraries/
 * https://blog.cloudflare.com/sandboxing-in-linux-with-zero-lines-of-code/  
 * https://confused.ai/posts/intercepting-zoom-tls-encryption-bpf-uprobes  
 * https://github.com/iovisor/bcc (https://www.brendangregg.com/blog/2021-08-27/slack-crashes-secret-stderr.html)
-
+* https://github.com/aya-rs/aya-template (https://blog.anton.galiglobal.com/3m65xdrxy7c2z)
 
 ### io_uring
 
