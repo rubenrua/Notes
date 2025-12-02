@@ -100,6 +100,8 @@ Ningún Plan, por bueno que sea, resiste su primer contacto con el enemigo.
 
 Prefiere la evolucion que la revolucion.
 
+For coding, "it seems to work for me" is good enough. For software engineering, it's not.
+
 More: https://twitter.com/CodeWisdom
 
 
