@@ -15,12 +15,27 @@ Players:
 * https://gitlab.gnome.org/GNOME/Incubator/showtime (Python+gtk4+libadwaita)
 * More at https://github.com/valpackett/awesome-gtk?tab=readme-ov-file#video-players
 
+
+Rust tools:
+
+* TODO
+
+Other tools:
+
+* https://github.com/selkies-project/selkies (Remote Desktop)
+* https://github.com/fastogt/fastocloud (media-server)
+
 Tools to work with gst logs
 
 * https://github.com/gdesmott/gst-log-parser
 * https://github.com/philn/gst-log-diff
 * https://github.com/rafaelcaricio/gst-log-viewer
 * https://blogs.igalia.com/plampe/working-with-webkit-and-gstreamer-logs-in-emacs/
+
+Links
+
+* https://caricio.com/learn-by-example-making-it-easier-to-understand-gstreamer/
+
 
 vs FFmpeg:
 

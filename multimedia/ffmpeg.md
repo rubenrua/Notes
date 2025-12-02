@@ -5,6 +5,7 @@ FFMPEG
 LINKS
 -----
 
+ * https://code.ffmpeg.org/FFmpeg
  * https://ffmpeg.org/ffmpeg.html
  * https://libav.org/documentation/
  * https://trac.ffmpeg.org/wiki/FFprobeTips
@@ -16,6 +17,11 @@ LINKS
  * https://ffmpeg.lav.io/
  * https://ffmpegbyexample.com/
 
+
+TOOLS
+------
+
+* https://github.com/welovemedia/ffmate
 
 OTHER BUILD SYSTEMS
 -------------------

@@ -20,3 +20,4 @@ LINKS
 * https://tinyurl.com/cros-gfx-video  [QA]
 * http://mp4ra.org/#/codecs
 * https://github.com/OmarShehata/jpeg-sandbox [JPEG]
+* https://jakearchibald.com/2024/video-with-transparency/ [Web video with transparency]
