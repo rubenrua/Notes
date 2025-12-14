@@ -165,6 +165,11 @@ Ubuntu package systemd-coredump
 
 #####
 ```
+x /512x 0x7ffff61a5930
+```
+
+#####
+```
 break _start
 run
 record
@@ -173,6 +178,12 @@ reverse-step reverse-continue reverse-next reverse-finish
 
 vs rr from https://www.sourceware.org/gdb/wiki/ProcessRecord/Tutorial
 
+
+Args to x86_64 user-space function calls
+---------------------------------------
+%rdi, %rsi, %rdx, %rcx, %r8 and %r9
+
+> `Di`ane's `si`lk `dr`ess `co`sts $`8``9`
 
 gdbinit
 ----

@@ -338,6 +338,12 @@ https://news.ycombinator.com/item?id=26396798
 https://busybox.net/  
 
 
+### Limit resrouces
+```
+systemd-run --user --scope -p MemoryMax=512M -p CPUQuota=50% free
+```
+from https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs/-/merge_requests/2745#note_3235504
+
 ## LINKS:
 
 * https://github.com/0xAX/linux-insides https://makelinux.github.io/kernel/map/
