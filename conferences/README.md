@@ -9,7 +9,7 @@ Conferences
 
 2025
 ----
-
+* 23-10-2025 GStreamer Conference 2025 London
 * 16-10-2025 PythonVigo - Novedades de Pyton 3.14 (π) por @migonzalvar
 * 27-09-2025 [Northwest Startup Day 2025](http://nosday.com)
 * 22-03-2025 Galegos na FOSDEM
