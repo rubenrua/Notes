@@ -45,3 +45,12 @@ Other
 >>> sysconfig.get_paths()
 {'stdlib': '/usr/lib/python3.8', 'platstdlib': '/usr/lib/python3.8', 'purelib': '/usr/lib/python3.8/site-packages', 'platlib': '/usr/lib/python3.8/site-packages', 'include': '/usr/include/python3.8', 'scripts': '/usr/bin', 'data': '/usr'}
 ```
+
+```
+#!/usr/bin/env -S uv run --script
+#
+# /// script
+# requires-python = ">=3.12"
+# dependencies = ["foo"]
+# ///
+```
