@@ -99,6 +99,7 @@ from: https://twitter.com/maniksach/status/1352696407648477184?s=20
 Also check navigator.mediaCapabilities.decodingInfo()
 and https://ott.dolby.com/codec_test/index.html or https://html5test.co
 or https://cconcolato.github.io/media-mime-support/
+or https://webcodecsfundamentals.org/datasets/codec-support-table/
 
 * List media devices constraints
 ```
