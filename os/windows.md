@@ -22,3 +22,8 @@ c:\> dxdiag /x <output file>
   * [winget](https://github.com/microsoft/winget-cli/releases)
   * [Chocolatey](https://chocolatey.org/)
   * [Scoop](https://scoop.sh/)
+
+* Installation builder
+
+  * CPack (part of Cmake)
+  * Cerbero is moving from WiX into Inno Setup: https://gitlab.freedesktop.org/gstreamer/cerbero/-/merge_requests/1980

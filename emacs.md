@@ -56,7 +56,7 @@ COMMANDS:
 * kmacro-insert-counter: Generate a secuente `C-x ( C-x C-k TAB . RET C-x )`
 * global-display-line-numbers-mode or global-linum-mode: Useful for remote pair programing.
 * imenu
-
+* xterm-color-colorize-buffer: from xterm-color melpa package
 EMACS FILE:
 ------------
 https://github.com/rubenrua/dotfiles/blob/master/.emacs.d/init.el

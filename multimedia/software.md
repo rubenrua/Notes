@@ -124,6 +124,7 @@ Compare
 * https://compression.ru/video/quality_measure/video_measurement_tool.html
 * https://github.com/pixop/video-compare
 * https://github.com/vivictorg/vivictpp
+* VQMT (private)
 
 OTHER
 -----

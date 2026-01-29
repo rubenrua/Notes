@@ -53,7 +53,7 @@ Tools
 * https://gpuopen.com/radeon-ml/
 * https://www.khronos.org/opencl/
 * https://developer.nvidia.com/cuda-zone
-
+* https://netron.app/                       models visualizer
 
 Local
 -----

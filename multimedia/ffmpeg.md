@@ -49,6 +49,18 @@ CORPORATIONS
  * https://videolabs.io/about/
  * https://ffmpeg.org/consulting.html
 
+
+PEOPLE
+-----
+
+* Fabrice Bellard (https://bellard.org/)
+* Michael Niedermayer (https://guru.multimedia.cx)
+* Kostya Shishkov (https://codecs.multimedia.cx)
+* Paul B Mahol (https://github.com/librempeg)
+* Jean-Baptiste Kempf (https://jbkempf.com/)
+* Niklas Haas (https://www.niklashaas.de/) (libplacebo and libswscale-refactor)
+* TBC (https://www.ffmpeg.org/consulting.html)
+
 NOTES
 -----
 

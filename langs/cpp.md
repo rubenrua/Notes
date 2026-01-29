@@ -12,6 +12,7 @@ Links
  * http://eel.is/c++draft/diff.iso & http://eel.is/c++draft/diff.library
  * https://github.com/TheLartians/ModernCppStarter
  * https://blog.conan.io/2022/10/13/Different-flavors-Clang-compiler-Windows.html
+ * https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md
  
 Other
 -----

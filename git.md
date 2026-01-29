@@ -341,6 +341,15 @@ GIT_DIR=~/src/github.com/rust-lang/rust/.git/ git log
 git  --git-dir ~/src/github.com/rust-lang/rust/.git/ log
 ```
 
+* Extract file from git
+
+```
+git archive --remote=${REPO_ARCHIVE} master scripts/check_symbols.sh | tar -x -O 
+```
+
+No supported GitHub
+
+
 * Partial clone
 ```sh
 git clone --filter=blob:limit=1m <url>
