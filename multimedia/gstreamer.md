@@ -36,6 +36,20 @@ Links
 
 * https://caricio.com/learn-by-example-making-it-easier-to-understand-gstreamer/
 
+Distributions:
+
+* https://gstreamer.freedesktop.org/download/#linux [win, mac, android, ios]
+* https://pypi.org/org/gstreamer/ [win, mac]
+* Linux distros (gst-plugins-rs: Arch, Alpine) [linux]
+* https://formulae.brew.sh/formula/gstreamer [mac, linux]
+* https://conan.io/center/recipes/gstreamer [recipes]
+* https://vcpkg.io/en/package/gstreamer [recipes]
+* flatpak `org.gnome.Sdk`
+* https://search.nixos.org/packages?show=gst_all_1.gstreamer
+* https://packages.msys2.org/base/mingw-w64-gstreamer [win]
+* https://github.com/wingtk/gvsbuild/blob/main/gvsbuild/projects/gstreamer.py [win]
+* https://community.chocolatey.org/packages/gstreamer [win]
+* https://winget.run/pkg/gstreamerproject/gstreamer [win]
 
 vs FFmpeg:
 

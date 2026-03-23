@@ -59,6 +59,7 @@ PEOPLE
 * Paul B Mahol (https://github.com/librempeg)
 * Jean-Baptiste Kempf (https://jbkempf.com/)
 * Niklas Haas (https://www.niklashaas.de/) (libplacebo and libswscale-refactor)
+* Ronald S. Bultje (https://blogs.gnome.org/rbultje/2024/01/22/taxes-and-section-174/)
 * TBC (https://www.ffmpeg.org/consulting.html)
 
 NOTES

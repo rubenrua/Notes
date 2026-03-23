@@ -170,6 +170,11 @@ x /512x 0x7ffff61a5930
 
 #####
 ```
+ptype Panic
+```
+
+#####
+```
 break _start
 run
 record

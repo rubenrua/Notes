@@ -21,3 +21,4 @@ LINKS
 * http://mp4ra.org/#/codecs
 * https://github.com/OmarShehata/jpeg-sandbox [JPEG]
 * https://jakearchibald.com/2024/video-with-transparency/ [Web video with transparency]
+* https://www.sophielwang.com/blog/jpeg [JPEG]

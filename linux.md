@@ -19,6 +19,7 @@ grep -o "start.*end" data_access.log | sort | uniq
 grep -oP "definitely lost: \K[0-9,]" valgrind.out
 sed -n "s/${search}/${replace}/p" data_access.log # grep ${search} data_access.log | sed "s/${search}/${replace}/"
 cat yellow_tripdata_2014-09.csv | LANG=C sort --parallel=$(nproc) -S 50% -k5 -n -r -t "," | head -n 10
+cat info | rg "PSNR"\|"^./ChromaCompVid" | paste -d"@" - - - | grep "average:" | sort -t':' -k6 -n -r | tr '@' '\n'
 ```
 
 https://www.thegeekstuff.com/2013/06/cut-command-examples  
@@ -172,6 +173,7 @@ x11vnc -display :0
 
 ###  Ubuntu: Recompile package from source
 ```
+sed -i "s/Types: deb/Types: deb deb-src/" /etc/apt/sources.list.d/ubuntu.sources
 apt-get install devscripts
 
 apt-get source XXXXX

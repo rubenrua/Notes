@@ -27,3 +27,8 @@ c:\> dxdiag /x <output file>
 
   * CPack (part of Cmake)
   * Cerbero is moving from WiX into Inno Setup: https://gitlab.freedesktop.org/gstreamer/cerbero/-/merge_requests/1980
+
+* Links
+
+  * https://marler8997.github.io/blog/fixed-windows/ (from https://news.ycombinator.com/item?id=47022891)
+  * https://gitlab.freedesktop.org/gstreamer/cerbero/-/blob/main/tools/bootstrap-windows.ps1

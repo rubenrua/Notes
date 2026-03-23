@@ -126,6 +126,16 @@ Compare
 * https://github.com/vivictorg/vivictpp
 * VQMT (private)
 
+
+Remote Desktop
+---
+
+* https://rustdesk.com/
+* https://bevyengine.org/ (game engine https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs/-/merge_requests/2024)
+* https://games-on-whales.github.io/
+* https://kyber.stream/
+* https://gitlab.freedesktop.org/mstoeckl/waypipe
+
 OTHER
 -----
 
