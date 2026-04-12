@@ -92,3 +92,4 @@ Other
 * https://github.com/rust-lang/rustlings (learn)
 * https://blog.skylight.io/rust-means-never-having-to-close-a-socket/ (blog entry about Ownership System)
 * https://github.com/17cupsofcoffee/tetra/blob/master/docs/FAQ.md#why-is-my-game-running-slow (enable optimizations in debug mode for some dependencies)
+* https://github.com/microsoft/RustTraining
