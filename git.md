@@ -391,4 +391,4 @@ other
 * https://github.com/tummychow/git-absorb
 * https://www.gitkraken.com/learn/git/git-worktree
 * https://github.com/fluendo/git-upstream-workflow (used by https://github.com/fluendo/gst.wasm/)
-* https://tangled.org/me.webbeef.org/forkme (used by https://tangled.org/me.webbeef.org/beaver)
+* https://tangled.org/me.webbeef.org/forkme (used by https://tangled.org/me.webbeef.org/beaver) and git-machete
