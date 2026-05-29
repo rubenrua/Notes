@@ -16,6 +16,12 @@ There are only two hard things in Computer Science: cache invalidation and namin
 
 Ask a programmer to review 10 lines of code, he'll find 10 issues. Ask him to do 500 lines and he'll say it looks good.
 
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies.
+— Tony Hoare
+
+Rewrites only work if the people involved in the 1.0 are also involved in the 2.0, and thus have the benefit of context + history and understand the accidental complexity in the old system. Otherwise, you end up with a second, different 1.0.
+— @kyleve
+
 El código es como un chiste, si lo explicas es malo.
 
 You can optimise for execution speed. You can optimise for space. But the most precious thing you should optimise for is understandability.
@@ -30,9 +36,6 @@ A new scientific truth does not triumph by convincing its opponents and making t
 — Thomas Kuhn (1962)
 
 Complexity is like a bug light for smart people. We can't resist it, even though we know it's bad for us.
-
-There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies.
-— Tony Hoare
 
 Technical debt is not created all at once. It's the accumulation of many small shortcuts over time. A few extra minutes early on could save hours or days of maintenance over time.
 — Eric Elliott
@@ -69,9 +72,6 @@ Community > Docs > Code
 A complex system that works is invariably found to have evolved from a simple system thot worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a simple system.
 — John Gall
 
-Rewrites only work if the people involved in the 1.0 are also involved in the 2.0, and thus have the benefit of context + history and understand the accidental complexity in the old system. Otherwise, you end up with a second, different 1.0.
-— @kyleve
-
 Cuando un sistema está en producción cuesta horrores sacarlo de ahí (preguntadle a los bancos)
 — @javisantana
 
@@ -101,6 +101,8 @@ Ningún Plan, por bueno que sea, resiste su primer contacto con el enemigo.
 Prefiere la evolucion que la revolucion.
 
 For coding, "it seems to work for me" is good enough. For software engineering, it's not.
+
+Las grants son como la droga, una vez que entras no das salido.
 
 More: https://twitter.com/CodeWisdom
 
