@@ -16,7 +16,7 @@ LINKS
  * https://ffmpeg.guide/
  * https://ffmpeg.lav.io/
  * https://ffmpegbyexample.com/
-
+ * https://www.youtube.com/watch?v=nepKKz-MzFM [Lex Fridman Podcast #496]
 
 TOOLS
 ------
@@ -55,11 +55,13 @@ PEOPLE
 
 * Fabrice Bellard (https://bellard.org/)
 * Michael Niedermayer (https://guru.multimedia.cx)
+* Andreas Rheinhardt (one of the most active contributors: CLI threadinig)
 * Kostya Shishkov (https://codecs.multimedia.cx)
 * Paul B Mahol (https://github.com/librempeg)
-* Jean-Baptiste Kempf (https://jbkempf.com/)
+* Jean-Baptiste Kempf (https://jbkempf.com/) (Lex podcast)
 * Niklas Haas (https://www.niklashaas.de/) (libplacebo and libswscale-refactor)
 * Ronald S. Bultje (https://blogs.gnome.org/rbultje/2024/01/22/taxes-and-section-174/)
+* Kieran Kunhya (person behind the now-infamous FFmpeg account on X) (Lex podcast)
 * TBC (https://www.ffmpeg.org/consulting.html)
 
 NOTES
