@@ -126,6 +126,12 @@ Compare
 * https://github.com/vivictorg/vivictpp
 * VQMT (private)
 
+Plotbitrate
+-----
+
+ * https://github.com/zeroepoch/plotbitrate
+ * https://github.com/fifonik/FFBitrateViewer
+
 
 Remote Desktop
 ---

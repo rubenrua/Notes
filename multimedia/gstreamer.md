@@ -6,13 +6,13 @@ See: https://github.com/rubenrua/GstreamerCodeSnippets
 
 Players:
 
-* https://gitlab.gnome.org/GNOME/totem (GNOME official player)
+* https://gitlab.gnome.org/GNOME/totem (OLD GNOME official player)
 * https://github.com/philn/glide (Rust+gtk4)
 * https://github.com/Rafostar/clapper (GJS+gtk4+OpenGL)
 * https://gitlab.gnome.org/guidog/livi (C+gtk4+libadwaita)
 * https://github.com/ryd3v/VideoPlayer (Python+Qt)
 * https://codeberg.org/comcloudway/melon (Python+Gtk)
-* https://gitlab.gnome.org/GNOME/Incubator/showtime (Python+gtk4+libadwaita)
+* https://gitlab.gnome.org/GNOME/Incubator/showtime (NEW GNOME official player Python+gtk4+libadwaita)
 * More at https://github.com/valpackett/awesome-gtk?tab=readme-ov-file#video-players
 
 
@@ -50,6 +50,7 @@ Distributions:
 * https://github.com/wingtk/gvsbuild/blob/main/gvsbuild/projects/gstreamer.py [win]
 * https://community.chocolatey.org/packages/gstreamer [win]
 * https://winget.run/pkg/gstreamerproject/gstreamer [win]
+* https://git.openembedded.org/openembedded-core/tree/meta/recipes-multimedia/gstreamer [recipe, embedded]
 
 vs FFmpeg:
 

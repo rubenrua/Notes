@@ -20,6 +20,9 @@ docker run -it --platform linux/arm64 --rm   ubuntu:noble bash
 
 ```
 docker run -ti -u $(id -u):$(id -g) -v /etc/passwd:/etc/passwd:ro -v /etc/group:/etc/group:ro -e XDG_RUNTIME_DIR -v /run/user/1000:/run/user/1000 -v /tmp/.X11-unix/X0:/tmp/.X11-unix/X0 -e DISPLAY  -v `realpath ws`:/ws  archlinux bash
+
+# no x11:
+docker run  --rm --name wl -ti --device /dev/dri -u $(id -u):$(id -g) -v /etc/passwd:/etc/passwd:ro -v /etc/group:/etc/group:ro -v $XDG_RUNTIME_DIR:$XDG_RUNTIME_DIR  -e XDG_RUNTIME_DIR -e XDG_SESSION_TYPE -e WAYLAND_DISPLAY ubuntu bash
 ```
 
 TODO: XAUTHORITY, sudo
