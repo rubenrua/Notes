@@ -56,6 +56,7 @@ Links:
 * https://xala3pa.github.io/blog/onboarding/
 * https://gist.github.com/dbonillaf/40fe95ffbe5407e182998413a138e038
 * https://www.getmanfred.com/blog/12-preguntas-que-deberias-hacer-en-una-entrevista
+* https://www.coinbase.com/en-gb/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding
 
 RETENER TALENTO
 ===============
