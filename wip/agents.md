@@ -15,6 +15,8 @@ https://openrouter.ai/
 https://llm-stats.com
 https://artificialanalysis.ai/#intelligence-comparison-tabs
 https://www.canirun.ai
+https://local-llm-benchmarks.dev/
+https://kyuz0.github.io/terminal-bench-mini/
 
 --
 
