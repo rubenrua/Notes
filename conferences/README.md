@@ -6,6 +6,9 @@ Conferences
 
 **Follow the [Vigo Tech Alliance](http://vigotech.org/).**
 
+2026
+----
+* 10-10-2026 GStreamer Conference 2026 Praga
 
 2025
 ----
