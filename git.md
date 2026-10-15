@@ -373,6 +373,7 @@ gitflow
 * https://trunkbaseddevelopment.com (alternative)
 * https://about.gitlab.com/blog/2020/01/30/all-aboard-merge-trains/
 * Linear git history in repository
+* Semi-Linear History Workflow (or Semi-Linear Merge)
 
 gitconfig
 ----

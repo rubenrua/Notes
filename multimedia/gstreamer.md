@@ -24,6 +24,7 @@ Other tools:
 
 * https://github.com/selkies-project/selkies (Remote Desktop)
 * https://github.com/fastogt/fastocloud (media-server)
+* https://dheitmueller.github.io/gstscope/ (dots printer)
 
 Tools to work with gst logs
 
@@ -31,6 +32,13 @@ Tools to work with gst logs
 * https://github.com/philn/gst-log-diff
 * https://github.com/rafaelcaricio/gst-log-viewer
 * https://blogs.igalia.com/plampe/working-with-webkit-and-gstreamer-logs-in-emacs/
+
+SDKs
+
+* NVIDIA deepstream: https://github.com/NVIDIA/DeepStream/tree/main/src/gst-plugins
+* Intel dlstreamer https://github.com/open-edge-platform/dlstreamer/blob/main/README.md
+* Qualcomm imsdk: https://github.com/qualcomm/gst-plugins-imsdk
+* https://nnstreamer.ai/
 
 Links
 

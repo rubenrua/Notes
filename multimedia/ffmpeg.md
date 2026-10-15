@@ -51,6 +51,13 @@ CORPORATIONS
  * https://ffmpeg.org/consulting.html
 
 
+PATCHES
+-----
+* https://fluendo.com/products/ffmpeg-enabler/
+* https://blog.mainconcept.com/hubfs/Web%20Images/blog/ffmpeg_bridge.tar.gz from https://blog.mainconcept.com/running-your-own-benchmarks-using-ffmpeg#:~:text=You%20can%20download%20the%20result%20here%2E%20If%20you%20want%20to%20try%20it%20yourself
+* https://github.com/ittiam-systems/libmpeghe/blob/main/ffmpeg_plugin/ffmpeg_mpegh_enc.patch
+
+
 PEOPLE
 -----
 
